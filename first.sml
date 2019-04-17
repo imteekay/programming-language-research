@@ -1,4 +1,29 @@
-(* This is a comment. This is our first program. *)
+(*
+  Mindset: treat ML (meta language) as a new thing
+  Using the REPL to run programs: `sml` + `use first.sml
+
+  - Language:
+      - Syntax: it is how you write something. Examples:
+        - keyword `val` defines variable
+        - punctuation `;` defines end of statement
+        - `(* *)` defines a form of comment
+      - Semantics: it is what something means
+        - type-checking to extend static environment
+        - evaluation expression to extend dynamic environment
+      - Expressions (rules of expressions):
+        - All expressions have:
+          - Syntax
+          - Type checking rules: produce a type or fails
+          - Evaluation rules: produce a value after type check
+        - Ex: boolean, sum, division, conditional
+
+  Example of Adition expression: e1 + e2
+    - syntax: receives two expressions and a + symbol between those expressions
+    - type checking: if e1 and e2 are int, then e1 + e2 has type int
+    - evaluation: e1 evaluates to v1 and e2 evaluates to v2, then e1 + e2 evaluates to the sum of v1 and v2
+*)
+
+(* Our first program starts here. *)
 
 (* `val` is the statement to define a variable *)
 
