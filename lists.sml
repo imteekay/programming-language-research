@@ -25,3 +25,7 @@ val x = [5,1,6,8];
 tl x; (* [1,6,8] *)
 tl tl x; (* [6,8] *)
 hd tl tl x; (* 6 *)
+
+(* null: list --> bool *)
+(* hd: list --> a'list - the list type *)
+(* tl: list --> list *)
