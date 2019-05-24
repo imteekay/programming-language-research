@@ -1,5 +1,7 @@
 # Programming Languages - Part A
 
+This is the codes & notes from the [Programming Languages - Part A course by Coursera](https://www.coursera.org/learn/programming-languages).
+
 ## Week 2
 
 - [First Program](https://github.com/leandrotk/programming-languages-design/blob/master/programming-languages-part-a/week2/first.sml)
