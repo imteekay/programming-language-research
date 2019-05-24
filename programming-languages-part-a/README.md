@@ -13,3 +13,7 @@
 - [Let and efficiency](https://github.com/leandrotk/programming-languages-design/blob/master/programming-languages-part-a/week2/let_and_efficiency.sml)
 - [Options](https://github.com/leandrotk/programming-languages-design/blob/master/programming-languages-part-a/week2/options.sml)
 - [Boolean operations](https://github.com/leandrotk/programming-languages-design/blob/master/programming-languages-part-a/week2/boolean_operations.sml)
+
+## Week 3
+
+- [Compound types](https://github.com/leandrotk/programming-languages-design/blob/master/programming-languages-part-a/week3/build_compound_types.sml)
