@@ -1,6 +1,6 @@
 # Programming Languages - Part A
 
-This is the codes & notes from the [Programming Languages - Part A course by Coursera](https://www.coursera.org/learn/programming-languages).
+This is the code & notes from the [Programming Languages - Part A course by Coursera](https://www.coursera.org/learn/programming-languages).
 
 ## Week 2
 
