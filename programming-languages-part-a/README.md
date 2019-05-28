@@ -19,3 +19,4 @@ This is the code & notes from the [Programming Languages - Part A course by Cour
 ## Week 3
 
 - [Compound types](https://github.com/leandrotk/programming-languages-design/blob/master/programming-languages-part-a/week3/build_compound_types.sml)
+- [Records](https://github.com/leandrotk/programming-languages-design/blob/master/programming-languages-part-a/week3/records.sml)
