@@ -1,4 +1,4 @@
-;; # The Elements of Programming
+;; The Elements of Programming
 
 ;; Every powerful language has three mechanisms for accomplishing this:
 
@@ -51,3 +51,23 @@ circumference ;; 62.8318
 (* (+ 2 (* 4 6)) 5) ;; (* 4 6) evaluates to 24
 (* (+ 2 24) 5) ;; (+ 2 24) evaluates to 26
 (* 26 5) ;; 130
+
+;; =======================================================================================
+
+;; Compound Procedures
+
+(define (square x) (* x x))
+;; (define (square       x)       (*         x       x))
+;;   |        |         |          |        |       |
+;;  To      square  something   multiply  it by itself
+
+;; Calling the procedure
+(square 21) ;; 441
+(square (+ 2 5)) ;; 49
+(square (square 3)) ;; 81
+
+;; Define another procedure with the existing procedure
+(define (sum-of-square x y)
+  (+ (square x) (square y)))
+
+;; And this way we can compound procedures
