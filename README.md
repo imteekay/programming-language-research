@@ -11,3 +11,4 @@
 - [The Programming Language Enthusiast](http://www.pl-enthusiast.net/)
 - [Programming and Programming Languages](https://papl.cs.brown.edu/2018/index.html)
 - [Let's build a compiler](https://generalproblem.net/)
+- [Crafting Interpreters](http://craftinginterpreters.com/contents.html)
