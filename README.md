@@ -12,3 +12,4 @@
 - [Programming and Programming Languages](https://papl.cs.brown.edu/2018/index.html)
 - [Let's build a compiler](https://generalproblem.net/)
 - [Crafting Interpreters](http://craftinginterpreters.com/contents.html)
+- [Implementing a Simple Compiler on 25 Lines of JavaScript](https://blog.mgechev.com/2017/09/16/developing-simple-interpreter-transpiler-compiler-tutorial/)
