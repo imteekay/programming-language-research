@@ -14,3 +14,4 @@
 - [Crafting Interpreters](http://craftinginterpreters.com/contents.html)
 - [Implementing a Simple Compiler on 25 Lines of JavaScript](https://blog.mgechev.com/2017/09/16/developing-simple-interpreter-transpiler-compiler-tutorial/)
 - [Compiler Design course](https://www.youtube.com/playlist?list=PLDAE55AEE0731D729&feature=plcp)
+- [Papers to read](https://github.com/haskellcamargo/papers-to-read)
