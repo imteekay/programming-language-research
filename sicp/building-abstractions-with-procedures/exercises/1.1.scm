@@ -8,9 +8,9 @@
 (/ 6 2) ;; 3
 (+ (* 2 4) (- 4 6)) ;; 6
 
-(define a 3)
+(define a 3) ;; just a definition of `a`
 
-(define b (+ a 1))
+(define b (+ a 1)) ;; just a definition of `b`
 
 (+ a b (* a b)) ;; 19
 
