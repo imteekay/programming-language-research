@@ -11,6 +11,7 @@
 - [The Programming Language Enthusiast](http://www.pl-enthusiast.net/)
 - [Programming and Programming Languages](https://papl.cs.brown.edu/2018/index.html)
 - [Papers to read](https://github.com/haskellcamargo/papers-to-read)
+- [Papers on programming languages: ideas from 70's for today](https://medium.com/@mikhail.barash.mikbar/papers-on-programming-languages-ideas-from-70s-for-today-2931891d4dbd)
 
 ### Compilers
 
@@ -24,3 +25,5 @@
 - [Let’s Build a Programming Language](https://medium.com/hackernoon/lets-build-a-programming-language-2612349105c6)
 - [Compilers and Interpreters](https://medium.com/hackernoon/compilers-and-interpreters-3e354a2e41cf)
 - [Lexical Analysis](https://medium.com/hackernoon/lexical-analysis-861b8bfe4cb0)
+- [AST (Abstract Syntax Tree)](https://medium.com/@dinis.cruz/ast-abstract-syntax-tree-538aa146c53b)
+- [Grammars for programming languages](https://medium.com/@mikhail.barash.mikbar/grammars-for-programming-languages-fae3a72a22c6)
