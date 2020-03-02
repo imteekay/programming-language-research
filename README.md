@@ -12,6 +12,7 @@
 - [Programming and Programming Languages](https://papl.cs.brown.edu/2018/index.html)
 - [Papers to read](https://github.com/haskellcamargo/papers-to-read)
 - [Papers on programming languages: ideas from 70's for today](https://medium.com/@mikhail.barash.mikbar/papers-on-programming-languages-ideas-from-70s-for-today-2931891d4dbd)
+- [Programming Language Foundations in Agda](https://plfa.github.io/beta/)
 
 ### Compilers
 
