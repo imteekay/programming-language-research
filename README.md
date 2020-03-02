@@ -28,3 +28,7 @@
 - [Lexical Analysis](https://medium.com/hackernoon/lexical-analysis-861b8bfe4cb0)
 - [AST (Abstract Syntax Tree)](https://medium.com/@dinis.cruz/ast-abstract-syntax-tree-538aa146c53b)
 - [Grammars for programming languages](https://medium.com/@mikhail.barash.mikbar/grammars-for-programming-languages-fae3a72a22c6)
+
+### Books
+
+- [Practical Foundations for Programming Languages](https://www.amazon.com/Practical-Foundations-Programming-Languages-Professor/dp/1107029570)
