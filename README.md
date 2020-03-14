@@ -1,5 +1,6 @@
 # Programming Language Theory
 
+My studies & notes about programming language theory, compilers, functional programming, and other cool stuff.
 
 ## Courses & Notes
 - [Programming Languages Part A](https://github.com/leandrotk/programming-languages-design/tree/master/programming-languages-part-a)
@@ -28,6 +29,13 @@
 - [Lexical Analysis](https://medium.com/hackernoon/lexical-analysis-861b8bfe4cb0)
 - [AST (Abstract Syntax Tree)](https://medium.com/@dinis.cruz/ast-abstract-syntax-tree-538aa146c53b)
 - [Grammars for programming languages](https://medium.com/@mikhail.barash.mikbar/grammars-for-programming-languages-fae3a72a22c6)
+
+### Tech Talks
+
+- [Type-safe embedded domain-specific languages 1/4](https://www.youtube.com/watch?v=4sTeT7poU3g)
+- [Type-safe embedded domain-specific languages 2/4](https://www.youtube.com/watch?v=OM_riJgZF8A)
+- [Type-safe embedded domain-specific languages 3/4](https://www.youtube.com/watch?v=gFJTKJgL2zI)
+- [Type-safe embedded domain-specific languages 4/4](https://www.youtube.com/watch?v=isAu8YuI6SA)
 
 ### Books
 
