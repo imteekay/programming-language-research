@@ -1,0 +1,48 @@
+div {
+	height: 600px;
+	width: 900px;
+	background-color: blue;
+}
+
+.div1 {
+	height: 600px;
+	width: 900px;
+	background-color: red;
+}
+
+.div2 {
+	height: 600px;
+	width: 900px;
+	background-color: blue;	
+}
+
+.nada {
+	position: relative;
+	width: 100%;
+	background-color: white;
+}
+
+.div3 {
+	/*position: relative;*/
+	height: 400px;
+	width: 100%;
+	background-color: black;
+}
+
+.selectButton {
+}
+
+.div4 {
+	position: absolute;
+	top: 0px;
+	/*left: 100%;*/
+	height: 400px;
+	width: 100%;
+	background-color: green;	
+}
+
+.div5 {
+	height: 600px;
+	width: 900px;
+	background-color: yellow;
+}

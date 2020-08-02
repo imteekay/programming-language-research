@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="en" ng-app = 'myApp'>
+<head>
+	<meta charset="UTF-8">
+	<title>Angular Demo</title>
+	<link rel="stylesheet" type="text/css" href="css/style.css"></link>
+	<link rel="stylesheet" type="text/css" href="css/animate.css"></link>
+	<script src="bin/angular/angular.min.js"></script>
+	<script src="js/controllers.js"></script>
+	<script src="js/show.js"></script>
+	<script src="js/jquery-1.11.1.min.js"></script>
+</head>
+<body ng-controller = 'PublicCtrl'>
+	<input type="text" ng-model="name">
+	<h2>Welcome {{name}}</h2>
+<!--
+	<div ng-controller = 'MyController'>
+		<h1>{{author.name}}</h1>
+		<p>{{author.title + ', ' + author.company}}</p>
+	</div>
+-->
+	<div class="div1"></div>
+	<a href="" type='button' ng-click="showPlansSmoothly()">show</a>
+	<div class="div2" ng-show="showPlans"></div>
+	<div class="nada" ng-controller='SimulationCtrl'>
+		<div class='div3'>
+			<a href="" class="selectButton" type='button' ng-click="selectPlan()">SELECIONE</a>		
+		</div>
+		<div class='div4' ng-show='showSimulation'></div>
+	</div>
+	<div class="div5"></div>
+
+</body>
+</html>

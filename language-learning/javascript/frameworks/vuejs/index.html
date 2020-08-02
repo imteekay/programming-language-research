@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <script src="https://cdn.jsdelivr.net/vue/latest/vue.js"></script>
+  </head>
+
+  <body>
+    <div id="app">
+      {{ message }}
+    </div>
+
+    <hr>
+
+    <div id="data-binding">
+      {{ message }}
+      <input v-model="message">
+    </div>
+
+    <hr>
+
+    <div id="array-loop">
+      <ul>
+        <li id="todo-{{ todo.id + 1 }}" v-for="todo in todos">
+          {{ todo.id }}: {{ todo.text }}
+        </li>
+      </ul>
+    </div>
+
+    <hr>
+
+    <div id="onclick">
+      {{ message }}
+      <button v-on:click="reverseMessage">Reverse Message</button>
+    </div>
+
+    <hr>
+
+    <div id="all-together">
+      <input v-model="newTodo" v-on:keyup.enter="addTodo">
+
+      <ul>
+        <li v-for="todo in todos">
+          {{ todo.text }}
+          <button v-on:click="removeTodo($index)">x</button>
+        </li>
+      </ul>
+    </div>
+
+    <script type="text/javascript" src="js/app.js"></script>
+  </body>
+</html>

@@ -1,0 +1,19 @@
+<!-- 1. v-if -->
+
+<div id="elem1">
+  <p v-if="greeting"> {{ Helloooo! }} </p>
+</div>
+
+<!-- 2. v-for -->
+
+<div id="elem2">
+  <p v-for="todo in todos">
+    {{ todo.text }}
+  </p>
+</div>
+
+<!-- 3. v-on -->
+
+<div id="elem3">
+  <button v-on:click="addSomething">Add Something</button>
+</div>
