@@ -40,3 +40,9 @@ My studies & notes about programming language theory, compilers, functional prog
 ### Books
 
 - [Practical Foundations for Programming Languages](https://www.amazon.com/Practical-Foundations-Programming-Languages-Professor/dp/1107029570)
+
+### Language Learnings
+
+- [JavaScript](https://github.com/leandrotk/programming-language-theory/tree/master/language-learning/javascript)
+- [Python](https://github.com/leandrotk/programming-language-theory/tree/master/language-learning/python)
+- [Ruby](https://github.com/leandrotk/programming-language-theory/tree/master/language-learning/ruby)
