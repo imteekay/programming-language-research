@@ -36,6 +36,8 @@ My studies & notes about programming language theory, compilers, functional prog
 ### Books
 
 - [Practical Foundations for Programming Languages](https://www.amazon.com/Practical-Foundations-Programming-Languages-Professor/dp/1107029570)
+- [SICP](https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html)
+- [HTDP](https://htdp.org/2020-8-1/Book/index.html)
 
 ### Language Learnings
 
