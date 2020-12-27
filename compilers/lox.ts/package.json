@@ -1,0 +1,31 @@
+{
+  "name": "lox.ts",
+  "version": "1.0.0",
+  "description": "Automate blog post publishing",
+  "dependencies": {
+    "@types/showdown": "^1.9.3",
+    "showdown": "^1.9.1"
+  },
+  "devDependencies": {
+    "@types/node": "^13.11.0",
+    "nodemon": "^2.0.2",
+    "rimraf": "^3.0.2",
+    "ts-node": "^8.8.1",
+    "typescript": "^3.8.3"
+  },
+  "scripts": {
+    "start:dev": "nodemon",
+    "build": "rimraf ./build && tsc",
+    "start": "npm run build && node build/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leandrotk/lox.ts.git"
+  },
+  "author": "TK",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/leandrotk/lox.ts/issues"
+  },
+  "homepage": "https://github.com/leandrotk/lox.ts#readme"
+}
