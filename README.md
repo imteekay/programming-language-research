@@ -42,6 +42,7 @@ My studies & notes about programming language theory, compilers, functional prog
 - [JavaScript](https://github.com/leandrotk/programming-language-theory/tree/master/language-learning/javascript)
 - [Python](https://github.com/leandrotk/programming-language-theory/tree/master/language-learning/python)
 - [Ruby](https://github.com/leandrotk/programming-language-theory/tree/master/language-learning/ruby)
+- [Haskell](https://github.com/leandrotk/programming-language-theory/tree/master/language-learning/haskell)
 
 ## General Resources
 
