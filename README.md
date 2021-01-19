@@ -3,11 +3,12 @@
 My studies & notes about programming language theory, compilers, functional programming, and other cool stuff.
 
 ## Courses & Notes
+
 - [Programming Languages Part A](https://github.com/leandrotk/programming-languages-design/tree/master/programming-languages-part-a)
 - [Compilers: Theory and Practice](https://github.com/leandrotk/programming-language-theory/tree/master/compilers-theory-and-practice)
 - [SICP - Structure and Interpretation of Computer](https://github.com/leandrotk/programming-language-theory/tree/master/sicp)
 
-## Programming Language Theory
+## PLT
 
 - [Language-oriented software engineering](https://parametri.city/blog/2018-12-23-language-oriented-software-engineering/index.html)
 
@@ -47,6 +48,7 @@ My studies & notes about programming language theory, compilers, functional prog
 - [Haskell](https://github.com/leandrotk/programming-language-theory/tree/master/language-learning/haskell)
 - [Elixir](https://github.com/leandrotk/programming-language-theory/tree/master/language-learning/elixir)
 - [Clojure](https://github.com/leandrotk/programming-language-theory/tree/master/language-learning/clojure)
+- [Rust](https://github.com/leandrotk/programming-language-theory/tree/master/language-learning/rust)
 
 ## General Resources
 
