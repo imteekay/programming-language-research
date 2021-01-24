@@ -49,6 +49,18 @@ proportional_fee = fn price -> price * 0.12 end
 IO.inspect total_price.(1000, flat_fee) # 1005
 IO.inspect total_price.(1000, proportional_fee) # 1120.0
 
+# closure
+message = "Hello, World!"
+say_hello = fn -> IO.puts(message) end
+say_hello.() # Hello, World!
+
+set_other_hello = fn ->
+  other_hello = "other #{message}"
+end
+
+set_other_hello.() # Hello, World!
+other_hello # ** (CompileError) iex:9: undefined function other_hello/0
+
 # working with modules
 defmodule Checkout do
   def total_cost(price, tax_rate) do
