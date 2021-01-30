@@ -12,7 +12,7 @@ My studies & notes about programming language theory, compilers, functional prog
 
 - [Language-oriented software engineering](https://parametri.city/blog/2018-12-23-language-oriented-software-engineering/index.html)
 
-### Compilers
+## Compilers
 
 - [Let’s Build A Simple Interpreter](https://ruslanspivak.com/lsbasi-part1/)
 - [Let's build a compiler](https://generalproblem.net/)
@@ -27,20 +27,24 @@ My studies & notes about programming language theory, compilers, functional prog
 - [AST (Abstract Syntax Tree)](https://medium.com/@dinis.cruz/ast-abstract-syntax-tree-538aa146c53b)
 - [Grammars for programming languages](https://medium.com/@mikhail.barash.mikbar/grammars-for-programming-languages-fae3a72a22c6)
 
-### Tech Talks
+## TYpe System
+
+- [[Haskell] Let's build a typesystem!](https://www.twitch.tv/videos/887881681)
+
+## Tech Talks
 
 - [Type-safe embedded domain-specific languages 1/4](https://www.youtube.com/watch?v=4sTeT7poU3g)
 - [Type-safe embedded domain-specific languages 2/4](https://www.youtube.com/watch?v=OM_riJgZF8A)
 - [Type-safe embedded domain-specific languages 3/4](https://www.youtube.com/watch?v=gFJTKJgL2zI)
 - [Type-safe embedded domain-specific languages 4/4](https://www.youtube.com/watch?v=isAu8YuI6SA)
 
-### Books
+## Books
 
 - [Practical Foundations for Programming Languages](https://www.amazon.com/Practical-Foundations-Programming-Languages-Professor/dp/1107029570)
 - [SICP](https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html)
 - [HTDP](https://htdp.org/2020-8-1/Book/index.html)
 
-### Language Learnings
+## Language Learnings
 
 - [JavaScript](https://github.com/leandrotk/programming-language-theory/tree/master/language-learning/javascript)
 - [Python](https://github.com/leandrotk/programming-language-theory/tree/master/language-learning/python)
