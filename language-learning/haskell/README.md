@@ -5,3 +5,4 @@
 - [Function Type](./function_type.hs)
 - [Polymorphic Functions](./polymorphic_functions.hs)
 - [Overloaded Functions](./overloaded_functions.hs)
+- [Defining Functions](./defining_functions.hs)
