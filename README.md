@@ -26,6 +26,8 @@ My studies & notes about programming language theory, compilers, functional prog
 - [Lexical Analysis](https://medium.com/hackernoon/lexical-analysis-861b8bfe4cb0)
 - [AST (Abstract Syntax Tree)](https://medium.com/@dinis.cruz/ast-abstract-syntax-tree-538aa146c53b)
 - [Grammars for programming languages](https://medium.com/@mikhail.barash.mikbar/grammars-for-programming-languages-fae3a72a22c6)
+- [Little lisp interpreter](https://maryrosecook.com/blog/post/little-lisp-interpreter)
+- [Write you a Haskell](http://dev.stephendiehl.com/fun/)
 
 ## TYpe System
 
