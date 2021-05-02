@@ -28,6 +28,7 @@ My studies & notes about programming language theory, compilers, functional prog
 - [Grammars for programming languages](https://medium.com/@mikhail.barash.mikbar/grammars-for-programming-languages-fae3a72a22c6)
 - [Little lisp interpreter](https://maryrosecook.com/blog/post/little-lisp-interpreter)
 - [Write you a Haskell](http://dev.stephendiehl.com/fun/)
+- [Resources for Amateur Compiler Writers](https://c9x.me/compile/bib/)
 
 ## TYpe System
 
