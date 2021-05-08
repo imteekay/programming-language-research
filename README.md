@@ -30,7 +30,7 @@ My studies & notes about programming language theory, compilers, functional prog
 - [Write you a Haskell](http://dev.stephendiehl.com/fun/)
 - [Resources for Amateur Compiler Writers](https://c9x.me/compile/bib/)
 
-## TYpe System
+## Type System
 
 - [[Haskell] Let's build a typesystem!](https://www.twitch.tv/videos/887881681)
 
