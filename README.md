@@ -37,6 +37,10 @@ My studies & notes about programming language theory, compilers, functional prog
 
 - [[Haskell] Let's build a typesystem!](https://www.twitch.tv/videos/887881681)
 
+## Programming Language Design
+
+- ["A Tale of Two Asyncs: Open Source Language Design in Rust and Node.js" by Ashley Williams](https://www.youtube.com/watch?v=aGJTXdXQN2o&ab_channel=StrangeLoopConference)
+
 ## Tech Talks
 
 - [Type-safe embedded domain-specific languages 1/4](https://www.youtube.com/watch?v=4sTeT7poU3g)
