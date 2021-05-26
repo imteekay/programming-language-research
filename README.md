@@ -36,6 +36,7 @@ My studies & notes about programming language theory, compilers, functional prog
 ## Type System
 
 - [[Haskell] Let's build a typesystem!](https://www.twitch.tv/videos/887881681)
+- [Safe & Efficient Gradual Typing for TypeScript](https://www.cs.umd.edu/~aseem/safets.pdf)
 
 ## Programming Language Design
 
