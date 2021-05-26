@@ -32,6 +32,8 @@ My studies & notes about programming language theory, compilers, functional prog
 - [Quick look at the TypeScript Compiler API](https://www.youtube.com/watch?v=AnjfW633e8o&ab_channel=beeman%E2%80%8E.%E2%80%8Edev)
 - [Typescript Compiler explained by the Author Anders Hejlsberg](https://www.youtube.com/watch?v=f6TCB61fDwY&t=10s&ab_channel=HansSchenker)
 - [Anders Hejlsberg on Modern Compiler Construction](https://www.youtube.com/watch?v=wSdV1M7n4gQ&ab_channel=Googol)
+- [A Frontend Programmer's Guide to Languages](https://thatjdanisso.cool/programming-languages)
+- [Building a Debugger: Code Analysis](https://nan.fyi/debugger)
 
 ## Type System
 
