@@ -35,6 +35,12 @@ My studies & notes about programming language theory, compilers, functional prog
 - [A Frontend Programmer's Guide to Languages](https://thatjdanisso.cool/programming-languages)
 - [Building a Debugger: Code Analysis](https://nan.fyi/debugger)
 
+## Browser
+
+- [Browser from scratch](https://zerox-dg.github.io/blog/tags/browser-from-scratch/)
+- [Let's build a browser engine!](https://limpet.net/mbrubeck/2014/08/08/toy-layout-engine-1.html)
+- [How Browsers Work: Behind the scenes of modern web browsers](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/)
+
 ## Type System
 
 - [[Haskell] Let's build a typesystem!](https://www.twitch.tv/videos/887881681)
