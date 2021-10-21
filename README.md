@@ -14,6 +14,7 @@ My studies & notes about programming language theory, compilers, functional prog
 
 ## Compilers
 
+- [Building an Interpreter](https://leandrotk.github.io/series/building-an-interpreter)
 - [Let’s Build A Simple Interpreter](https://ruslanspivak.com/lsbasi-part1/)
 - [Let's build a compiler](https://generalproblem.net/)
 - [Crafting Interpreters](http://craftinginterpreters.com/contents.html)
