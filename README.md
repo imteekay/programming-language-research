@@ -14,6 +14,7 @@ My studies & notes about programming language theory, compilers, functional prog
 
 ## Compilers
 
+- [Building an Interpreter](https://leandrotk.github.io/series/building-an-interpreter)
 - [Let’s Build A Simple Interpreter](https://ruslanspivak.com/lsbasi-part1/)
 - [Let's build a compiler](https://generalproblem.net/)
 - [Crafting Interpreters](http://craftinginterpreters.com/contents.html)
@@ -51,6 +52,8 @@ My studies & notes about programming language theory, compilers, functional prog
 - ["A Tale of Two Asyncs: Open Source Language Design in Rust and Node.js" by Ashley Williams](https://www.youtube.com/watch?v=aGJTXdXQN2o&ab_channel=StrangeLoopConference)
 - [Another Go at Language Design](https://www.youtube.com/watch?v=7VcArS4Wpqk&t=216s&ab_channel=Stanford)
 - [How Rust does OSS](https://www.youtube.com/watch?v=m0rakUuPXFM)
+- [Growing a Language, by Guy Steele](https://www.youtube.com/watch?v=_ahvzDzKdB0&ab_channel=BillPugh)
+- ["The Mess We're In" by Joe Armstrong](https://www.youtube.com/watch?v=lKXe3HUG2l4&ab_channel=StrangeLoopConference)
 
 ## Tech Talks
 
