@@ -44,8 +44,15 @@ My studies & notes about programming language theory, compilers, functional prog
 
 ## Type System
 
-- [[Haskell] Let's build a typesystem!](https://www.twitch.tv/videos/887881681)
+- [Let's build a typesystem in Haskell!](https://www.youtube.com/watch?v=aZFWY6DxX54&ab_channel=LucTielen)
 - [Safe & Efficient Gradual Typing for TypeScript](https://www.cs.umd.edu/~aseem/safets.pdf)
+- [A Type System From Scratch](https://www.youtube.com/watch?v=IbjoA5xVUq0&ab_channel=FunctionalSwift)
+- [Typing the Untyped: Soundness in Gradual Type Systems](https://www.youtube.com/watch?v=uJHD2xyv7xo&ab_channel=StrangeLoopConference)
+- ["Propositions as Types" by Philip Wadler](https://www.youtube.com/watch?v=IOiZatlZtGU&ab_channel=StrangeLoopConference)
+- [Type-safe embedded domain-specific languages 1/4](https://www.youtube.com/watch?v=4sTeT7poU3g)
+- [Type-safe embedded domain-specific languages 2/4](https://www.youtube.com/watch?v=OM_riJgZF8A)
+- [Type-safe embedded domain-specific languages 3/4](https://www.youtube.com/watch?v=gFJTKJgL2zI)
+- [Type-safe embedded domain-specific languages 4/4](https://www.youtube.com/watch?v=isAu8YuI6SA)
 
 ## Programming Language Design
 
@@ -54,14 +61,6 @@ My studies & notes about programming language theory, compilers, functional prog
 - [How Rust does OSS](https://www.youtube.com/watch?v=m0rakUuPXFM)
 - [Growing a Language, by Guy Steele](https://www.youtube.com/watch?v=_ahvzDzKdB0&ab_channel=BillPugh)
 - ["The Mess We're In" by Joe Armstrong](https://www.youtube.com/watch?v=lKXe3HUG2l4&ab_channel=StrangeLoopConference)
-
-## Tech Talks
-
-- [Type-safe embedded domain-specific languages 1/4](https://www.youtube.com/watch?v=4sTeT7poU3g)
-- [Type-safe embedded domain-specific languages 2/4](https://www.youtube.com/watch?v=OM_riJgZF8A)
-- [Type-safe embedded domain-specific languages 3/4](https://www.youtube.com/watch?v=gFJTKJgL2zI)
-- [Type-safe embedded domain-specific languages 4/4](https://www.youtube.com/watch?v=isAu8YuI6SA)
-- ["Propositions as Types" by Philip Wadler](https://www.youtube.com/watch?v=IOiZatlZtGU&ab_channel=StrangeLoopConference)
 
 ## Books
 
