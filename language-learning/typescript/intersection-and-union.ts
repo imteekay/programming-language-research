@@ -43,3 +43,11 @@ extractEmail(tk); // 'tk@example.com'
 
 const numbers: number[] = [1, 2, 3];
 const n: number = numbers[3];
+
+// @ts-expect-error Type Type '{ email: string; }' is not assignable to type 'User'.
+// Property 'admin' is missing in type '{ email: string; }' but required in type 'CanBeAdmin'
+let amir: User = {
+  email: 'amir@example.com',
+};
+
+amir.email;
