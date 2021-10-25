@@ -87,3 +87,4 @@ My studies & notes about programming language theory, compilers, functional prog
 - [Papers to read](https://github.com/haskellcamargo/papers-to-read)
 - [Papers on programming languages: ideas from 70's for today](https://medium.com/@mikhail.barash.mikbar/papers-on-programming-languages-ideas-from-70s-for-today-2931891d4dbd)
 - [Programming Language Foundations in Agda](https://plfa.github.io/beta/)
+- [Programming Language and Compilers Reading List](https://www.jntrnr.com/programming-language-and-compilers-reading-list/)
