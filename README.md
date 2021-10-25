@@ -36,6 +36,7 @@ My studies & notes about programming language theory, compilers, functional prog
 - [A Frontend Programmer's Guide to Languages](https://thatjdanisso.cool/programming-languages)
 - [Building a Debugger: Code Analysis](https://nan.fyi/debugger)
 - [Mozilla Hacks Compiler Compiler](https://www.youtube.com/playlist?list=PLo3w8EB99pqKF1FQllRsxyQh3sA7V2Hc-)
+- [An Incremental Approach to Compiler Construction](http://scheme2006.cs.uchicago.edu/11-ghuloum.pdf)
 
 ## Browser
 
