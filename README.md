@@ -35,6 +35,7 @@ My studies & notes about programming language theory, compilers, functional prog
 - [Anders Hejlsberg on Modern Compiler Construction](https://www.youtube.com/watch?v=wSdV1M7n4gQ&ab_channel=Googol)
 - [A Frontend Programmer's Guide to Languages](https://thatjdanisso.cool/programming-languages)
 - [Building a Debugger: Code Analysis](https://nan.fyi/debugger)
+- [Mozilla Hacks Compiler Compiler](https://www.youtube.com/playlist?list=PLo3w8EB99pqKF1FQllRsxyQh3sA7V2Hc-)
 
 ## Browser
 
