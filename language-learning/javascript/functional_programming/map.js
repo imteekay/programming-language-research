@@ -4,10 +4,10 @@ var animals = [
   { name: 'Hamilton', species: 'dog' },
   { name: 'Harold', species: 'fish' },
   { name: 'Ursula', species: 'cat' },
-  { name: 'Jimmy', species: 'fish' }
-]
+  { name: 'Jimmy', species: 'fish' },
+];
 
-var names = animals.map(function(animal) {
+var names = animals.map(function (animal) {
   return animal.name + ' is a ' + animal.species;
 });
 

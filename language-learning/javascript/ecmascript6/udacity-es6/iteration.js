@@ -22,7 +22,7 @@ const days = [
   'wednesday',
   'thursday',
   'friday',
-  'saturday'
+  'saturday',
 ];
 
 // your code goes here

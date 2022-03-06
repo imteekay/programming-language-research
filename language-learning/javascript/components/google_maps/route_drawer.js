@@ -1,4 +1,4 @@
-import DirectionsServices from './directions_services'
+import DirectionsServices from './directions_services';
 
 export default class RouteDrawer {
   constructor() {
@@ -7,16 +7,19 @@ export default class RouteDrawer {
 
   draw(origin, destination) {
     window.directionsRenderer.setMap(window.map);
-    window.directionsService.route({
-      origin: origin,
-      destination: destination,
-      travelMode: google.maps.TravelMode.DRIVING
-    }, function(response, status) {
-      if (status === google.maps.DirectionsStatus.OK) {
-        window.directionsRenderer.setDirections(response);
-      } else {
-        console.log("Não foi possível obter a rota. Motivo: " + status)
+    window.directionsService.route(
+      {
+        origin: origin,
+        destination: destination,
+        travelMode: google.maps.TravelMode.DRIVING,
+      },
+      function (response, status) {
+        if (status === google.maps.DirectionsStatus.OK) {
+          window.directionsRenderer.setDirections(response);
+        } else {
+          console.log('Não foi possível obter a rota. Motivo: ' + status);
+        }
       }
-    });
+    );
   }
 }

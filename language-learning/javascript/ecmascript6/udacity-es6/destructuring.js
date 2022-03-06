@@ -11,7 +11,7 @@ console.log(x, y, z);
 const gemstone = {
   type: 'quartz',
   color: 'rose',
-  carat: 21.29
+  carat: 21.29,
 };
 
 const type = gemstone.type;
@@ -30,7 +30,7 @@ console.log(first, second, third);
 const tk = {
   name: 'TK',
   age: 26,
-  nationality: 'Brazilian'
+  nationality: 'Brazilian',
 };
 
 const { name, age, nationality } = tk;
@@ -46,7 +46,7 @@ const circle = {
   },
   getCircumference: function () {
     return 2 * Math.PI * this.radius;
-  }
+  },
 };
 
 let { radius, getArea, getCircumference } = circle;
@@ -67,7 +67,7 @@ const things = [
   'earth',
   'udacity',
   'blue',
-  'dogs'
+  'dogs',
 ];
 
 const [one, , , two, , , , three] = things;

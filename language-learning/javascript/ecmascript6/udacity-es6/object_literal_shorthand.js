@@ -6,7 +6,7 @@ let carat = 21.29;
 const gemstone = {
   type: type,
   color: color,
-  carat: carat
+  carat: carat,
 };
 
 console.log(gemstone);
@@ -23,7 +23,7 @@ console.log(`${tk.name}, ${tk.age}, ${tk.nationality}`);
 const test = {
   myMethod: function () {
     // ...
-  }
+  },
 };
 
 tk = {
@@ -32,7 +32,7 @@ tk = {
   nationality,
   sayHello() {
     return 'Hello people!';
-  }
-}
+  },
+};
 
 console.log(`${tk.name}, ${tk.age}, ${tk.nationality} says "${tk.sayHello()}"`);

@@ -43,7 +43,7 @@ function getClothing(isCold) {
     try {
       console.log(freezing);
     } catch (err) {
-      console.log("freezing is not defined");
+      console.log('freezing is not defined');
     }
   }
 }
@@ -66,11 +66,7 @@ console.log(instructor);
 
 const CHARACTER_LIMIT = 4;
 
-let posts = [
-  "Thing 1",
-  "Thing 2",
-  "Thing 3"
-];
+let posts = ['Thing 1', 'Thing 2', 'Thing 3'];
 
 // prints posts to the console
 function displayPosts() {

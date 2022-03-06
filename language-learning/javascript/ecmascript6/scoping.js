@@ -1,10 +1,9 @@
 // constant
-const PI = 3.141593
-
+const PI = 3.141593;
 
 // variable
-let x = 1
+let x = 1;
 
 for (let i = 0; i < 10; i++) {
-  console.log(i)
+  console.log(i);
 }

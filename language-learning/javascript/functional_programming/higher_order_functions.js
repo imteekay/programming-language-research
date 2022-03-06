@@ -4,9 +4,9 @@ function triple(x) {
   return x * 3;
 }
 
-var triple = function(x) {
+var triple = function (x) {
   return x * 3;
-}
+};
 
 var waffle = triple;
 

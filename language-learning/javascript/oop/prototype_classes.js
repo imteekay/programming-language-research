@@ -1,9 +1,9 @@
-var Car = function(loc) {
-	this.loc = loc;
+var Car = function (loc) {
+  this.loc = loc;
 };
 
-Car.prototype.move = function() {
-	this.loc++;
+Car.prototype.move = function () {
+  this.loc++;
 };
 
 var amy = new Car(1);

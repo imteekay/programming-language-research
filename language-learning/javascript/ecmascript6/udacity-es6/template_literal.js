@@ -1,14 +1,14 @@
 const student = {
-  name: "Leandro TK",
-  age: 26
-}
+  name: 'Leandro TK',
+  age: 26,
+};
 
 const professor = {
-  name: "Kaio Kinoshita",
-  age: 10
-}
+  name: 'Kaio Kinoshita',
+  age: 10,
+};
 
-let message = professor.name + " teaches " + student.name;
+let message = professor.name + ' teaches ' + student.name;
 console.log(message);
 
 message = `With template literal: ${professor.name} teaches ${student.name}`;
@@ -27,13 +27,12 @@ const cheetah = {
   speed: '68-75 mph',
   diet: 'carnivore',
   summary: 'Fastest mammal on land, the cheetah can reach speeds of 60.',
-  fact: 'Cheetahs have “tear marks”.'
+  fact: 'Cheetahs have “tear marks”.',
 };
 
 // creates an animal trading card
 function createAnimalTradingCardHTML(animal) {
-  const cardHTML =
-    `<div class="card">
+  const cardHTML = `<div class="card">
       <h3 class="name">${animal.name}</h3>
       <img src="${animal.name}.jpg" alt=" animal.name" class="picture">
       <div class="description">

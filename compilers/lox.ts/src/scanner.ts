@@ -16,45 +16,45 @@ export class Scanner {
     this.current = 0;
     this.line = 1;
     this.keywords = this.buildKeywords();
-  };
+  }
 
   scanTokens(): Tokens {
     while (!this.isAtEnd()) {
       this.start = this.current;
       this.scanToken();
-    };
+    }
 
     const token: Token = new Token(TokenType.EOF, '', 'null', this.line);
     this.tokens.push(token);
     return this.tokens;
-  };
+  }
 
   private buildKeywords(): Map<string, TokenType> {
     const keywords: Map<string, TokenType> = new Map();
 
-    keywords.set("and", TokenType.AND);
-    keywords.set("class", TokenType.CLASS);
-    keywords.set("else", TokenType.ELSE);
-    keywords.set("false", TokenType.FALSE);
-    keywords.set("for", TokenType.FOR);
-    keywords.set("fun", TokenType.FUN);
-    keywords.set("if", TokenType.IF);
-    keywords.set("nil", TokenType.NIL);
-    keywords.set("or", TokenType.OR);
-    keywords.set("print", TokenType.PRINT);
-    keywords.set("return", TokenType.RETURN);
-    keywords.set("super", TokenType.SUPER);
-    keywords.set("this", TokenType.THIS);
-    keywords.set("true", TokenType.TRUE);
-    keywords.set("var", TokenType.VAR);
-    keywords.set("while", TokenType.WHILE);
+    keywords.set('and', TokenType.AND);
+    keywords.set('class', TokenType.CLASS);
+    keywords.set('else', TokenType.ELSE);
+    keywords.set('false', TokenType.FALSE);
+    keywords.set('for', TokenType.FOR);
+    keywords.set('fun', TokenType.FUN);
+    keywords.set('if', TokenType.IF);
+    keywords.set('nil', TokenType.NIL);
+    keywords.set('or', TokenType.OR);
+    keywords.set('print', TokenType.PRINT);
+    keywords.set('return', TokenType.RETURN);
+    keywords.set('super', TokenType.SUPER);
+    keywords.set('this', TokenType.THIS);
+    keywords.set('true', TokenType.TRUE);
+    keywords.set('var', TokenType.VAR);
+    keywords.set('while', TokenType.WHILE);
 
     return keywords;
   }
 
   private isAtEnd(): boolean {
     return this.current >= this.source.length;
-  };
+  }
 
   private scanToken(): void {
     const char: string = this.advance();
@@ -94,13 +94,17 @@ export class Scanner {
         this.addToken(this.match('=') ? TokenType.BANG_EQUAL : TokenType.BANG);
         break;
       case '=':
-        this.addToken(this.match('=') ? TokenType.EQUAL_EQUAL : TokenType.EQUAL);
+        this.addToken(
+          this.match('=') ? TokenType.EQUAL_EQUAL : TokenType.EQUAL
+        );
         break;
       case '<':
         this.addToken(this.match('=') ? TokenType.LESS_EQUAL : TokenType.LESS);
         break;
       case '>':
-        this.addToken(this.match('=') ? TokenType.GREATER_EQUAL : TokenType.GREATER);
+        this.addToken(
+          this.match('=') ? TokenType.GREATER_EQUAL : TokenType.GREATER
+        );
         break;
       case '/':
         this.handleSlashOperator();
@@ -126,8 +130,8 @@ export class Scanner {
         }
 
         break;
-    };
-  };
+    }
+  }
 
   private identifier(): void {
     while (this.isAlphaNumeric(this.peek())) {
@@ -145,9 +149,11 @@ export class Scanner {
   }
 
   private isAlpha(char: string): boolean {
-    return (char >= 'a' && char <= 'z') ||
+    return (
+      (char >= 'a' && char <= 'z') ||
       (char >= 'A' && char <= 'Z') ||
-      char == '_';
+      char == '_'
+    );
   }
 
   private isAlphaNumeric(char: string): boolean {
@@ -168,11 +174,11 @@ export class Scanner {
 
   private isEndOfLine(): boolean {
     return this.peek() != '\n' && !this.isAtEnd();
-  };
+  }
 
   private peek(): string {
     return this.isAtEnd() ? '\0' : this.source.charAt(this.current);
-  };
+  }
 
   private match(expected: string): boolean {
     if (this.isAtEnd()) return false;
@@ -180,18 +186,21 @@ export class Scanner {
 
     this.current++;
     return true;
-  };
+  }
 
   private advance(): string {
     this.current++;
     return this.source.charAt(this.current - 1);
-  };
+  }
 
-  private addToken(type: TokenType, literal: string | number | undefined = undefined): void {
+  private addToken(
+    type: TokenType,
+    literal: string | number | undefined = undefined
+  ): void {
     const text: string = this.source.substring(this.start, this.current);
     const token: Token = new Token(type, text, literal, this.line);
     this.tokens.push(token);
-  };
+  }
 
   private string(): void {
     while (this.peek() != '"' && !this.isAtEnd()) {
@@ -200,7 +209,7 @@ export class Scanner {
     }
 
     if (this.isAtEnd()) {
-      Lox.error(this.line, "Unterminated string.");
+      Lox.error(this.line, 'Unterminated string.');
       return;
     }
 
@@ -208,7 +217,7 @@ export class Scanner {
 
     const value = this.source.substring(this.start + 1, this.current - 1);
     this.addToken(TokenType.STRING, value);
-  };
+  }
 
   private isDigit(char: string) {
     return char >= '0' && char <= '9';
@@ -229,12 +238,14 @@ export class Scanner {
       }
     }
 
-    this.addToken(TokenType.NUMBER,
-      parseFloat(this.source.substring(this.start, this.current)));
+    this.addToken(
+      TokenType.NUMBER,
+      parseFloat(this.source.substring(this.start, this.current))
+    );
   }
 
   private peekNext() {
     if (this.current + 1 >= this.source.length) return '\0';
     return this.source.charAt(this.current + 1);
   }
-};
+}

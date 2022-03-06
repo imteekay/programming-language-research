@@ -1,20 +1,14 @@
-const trim = (string) =>
-  string.trim();
+const trim = (string) => string.trim();
 
-const isNotEmpty = (string) =>
-  string.length;
+const isNotEmpty = (string) => string.length;
 
 const lexicalAnalyzer = (string) =>
-  string
-    .split(' ')
-    .map(trim)
-    .filter(isNotEmpty);
+  string.split(' ').map(trim).filter(isNotEmpty);
 
 const Operator = Symbol('operator');
 const Num = Symbol('num');
 
-const peek = (tokens, index) =>
-  tokens[index];
+const peek = (tokens, index) => tokens[index];
 
 const parse = (tokens) => {
   let c = 0;
@@ -26,7 +20,7 @@ const parse = (tokens) => {
 
     return {
       val,
-      type: Num
+      type: Num,
     };
   };
 
@@ -35,7 +29,7 @@ const parse = (tokens) => {
     const node = {
       val,
       type: Operator,
-      expr: []
+      expr: [],
     };
 
     c++;
@@ -48,9 +42,7 @@ const parse = (tokens) => {
   };
 
   const parseExpression = () =>
-    /\d/.test(peek(tokens, c))
-      ? parseNum()
-      : parseOperator();
+    /\d/.test(peek(tokens, c)) ? parseNum() : parseOperator();
 
   return parseExpression();
 };

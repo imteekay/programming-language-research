@@ -11,7 +11,7 @@ export class Lox {
     const tokens: Tokens = scanner.scanTokens();
 
     tokens.forEach((token) => console.log(token));
-  };
+  }
 
   static async runFile(path: string): Promise<void> {
     const filePath = resolve(__dirname, path);
@@ -19,24 +19,24 @@ export class Lox {
     this.run(source);
 
     if (this.hadError) process.exit();
-  };
+  }
 
   static runPrompt(): void {
     const input = process.stdin;
     const runData = (data: Buffer) => this.run(data.toString('utf8'));
 
     input.on('data', runData);
-  };
+  }
 
   static error(line: number, message: string): void {
     this.report(line, '', message);
-  };
+  }
 
   private static report(line: number, where: string, message: string): void {
     console.log(`[line ${line}] Error${where}: ${message}`);
     this.hadError = true;
-  };
-};
+  }
+}
 
 // Lox.runFile('../examples/001.lox');
 Lox.runPrompt();

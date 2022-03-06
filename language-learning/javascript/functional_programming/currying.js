@@ -1,11 +1,11 @@
-var greet = function(greeting, name) {
+var greet = function (greeting, name) {
   console.log(greeting + ' ' + name);
-}
+};
 
 greet('Hello', 'Tk');
 
-var greetCurried = function(greeting) {
-  return function(name) {
+var greetCurried = function (greeting) {
+  return function (name) {
     console.log(greeting + ' ' + name);
   };
 };

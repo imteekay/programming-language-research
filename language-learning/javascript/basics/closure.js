@@ -4,9 +4,9 @@ var f;
 function example1() {
   var x = 0;
 
-  var bla = function() {
+  var bla = function () {
     console.log(x);
-  }
+  };
 
   x++;
   return bla;
@@ -17,7 +17,9 @@ f();
 
 // Example 2
 function example2() {
-  var bla = function() { console.log(x); }
+  var bla = function () {
+    console.log(x);
+  };
 
   var x = 'Hello Closure';
   return bla;

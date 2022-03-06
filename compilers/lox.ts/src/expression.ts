@@ -1,8 +1,6 @@
 import { Token } from './token';
 
-class Expr {
-
-}
+class Expr {}
 
 class Binary extends Expr {
   left: Expr;

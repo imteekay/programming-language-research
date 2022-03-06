@@ -1,11 +1,11 @@
-var carLike = function(obj, loc) {
-	obj.loc = loc;
+var carLike = function (obj, loc) {
+  obj.loc = loc;
 
-	obj.move = function() {
-		obj.loc++;
-	};
+  obj.move = function () {
+    obj.loc++;
+  };
 
-	return obj;
+  return obj;
 };
 
 var amy = carLike({}, 1);

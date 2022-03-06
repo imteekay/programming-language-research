@@ -42,9 +42,9 @@
     </p>
     <script>
       function ready() {
-        return new Promise(function(resolve) {
-          document.addEventListener("readystatechange", function() {
-            if (document.readyState !== "loading") {
+        return new Promise(function (resolve) {
+          document.addEventListener('readystatechange', function () {
+            if (document.readyState !== 'loading') {
               resolve();
             }
           });
@@ -54,8 +54,8 @@
       ready().then(wrapperResolved);
 
       function wrapperResolved() {
-        var completion = document.querySelector(".completion");
-        completion.innerHTML = "Resolved!";
+        var completion = document.querySelector('.completion');
+        completion.innerHTML = 'Resolved!';
       }
     </script>
   </body>

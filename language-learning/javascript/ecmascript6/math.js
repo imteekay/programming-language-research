@@ -1,2 +1,4 @@
-export const PI = 3.141593
-export function sum(num1, num2) { return num1 + num2 }
+export const PI = 3.141593;
+export function sum(num1, num2) {
+  return num1 + num2;
+}

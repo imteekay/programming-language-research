@@ -1,13 +1,13 @@
-var Car = function(loc) {	
-	obj = { loc: loc };
+var Car = function (loc) {
+  obj = { loc: loc };
 
-	obj.move = move;
+  obj.move = move;
 
-	return obj;
+  return obj;
 };
 
-var move = function() {
-	this.loc++;
+var move = function () {
+  this.loc++;
 };
 
 var amy = Car(1);

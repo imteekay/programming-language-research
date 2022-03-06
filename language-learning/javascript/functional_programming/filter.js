@@ -4,8 +4,8 @@ var animals = [
   { name: 'Hamilton', species: 'dog' },
   { name: 'Harold', species: 'fish' },
   { name: 'Ursula', species: 'cat' },
-  { name: 'Jimmy', species: 'fish' }
-]
+  { name: 'Jimmy', species: 'fish' },
+];
 
 // Using filter function
 function isDog(value) {
@@ -13,8 +13,7 @@ function isDog(value) {
 }
 
 var filtered = animals.filter(isDog);
-console.log(filtered);﻿
-
+console.log(filtered);
 // With for loop
 var dogs = [];
 for (var i = 0; i < animals.length; i++) {
