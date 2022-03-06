@@ -88,3 +88,7 @@ Research on programming language, compilers, functional programming, devtools.
 - [Papers on programming languages: ideas from 70's for today](https://medium.com/@mikhail.barash.mikbar/papers-on-programming-languages-ideas-from-70s-for-today-2931891d4dbd)
 - [Programming Language Foundations in Agda](https://plfa.github.io/beta/)
 - [Programming Language and Compilers Reading List](https://www.jntrnr.com/programming-language-and-compilers-reading-list/)
+
+## License
+
+[MIT](/LICENSE) © [TK](https://iamtk.co)
