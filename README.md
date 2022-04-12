@@ -30,9 +30,9 @@ Research on programming language, compilers, functional programming, devtools.
 - [Little lisp interpreter](https://maryrosecook.com/blog/post/little-lisp-interpreter)
 - [Write you a Haskell](http://dev.stephendiehl.com/fun/)
 - [Resources for Amateur Compiler Writers](https://c9x.me/compile/bib/)
-- [Quick look at the TypeScript Compiler API](https://www.youtube.com/watch?v=AnjfW633e8o&ab_channel=beeman%E2%80%8E.%E2%80%8Edev)
-- [Typescript Compiler explained by the Author Anders Hejlsberg](https://www.youtube.com/watch?v=f6TCB61fDwY&t=10s&ab_channel=HansSchenker)
-- [Anders Hejlsberg on Modern Compiler Construction](https://www.youtube.com/watch?v=wSdV1M7n4gQ&ab_channel=Googol)
+- [Quick look at the TypeScript Compiler API](https://www.youtube.com/watch?v=AnjfW633e8o%E2%80%8E.%E2%80%8Edev)
+- [Typescript Compiler explained by the Author Anders Hejlsberg](https://www.youtube.com/watch?v=f6TCB61fDwY)
+- [Anders Hejlsberg on Modern Compiler Construction](https://www.youtube.com/watch?v=wSdV1M7n4gQ)
 - [A Frontend Programmer's Guide to Languages](https://thatjdanisso.cool/programming-languages)
 - [Building a Debugger: Code Analysis](https://nan.fyi/debugger)
 - [Mozilla Hacks Compiler Compiler](https://www.youtube.com/playlist?list=PLo3w8EB99pqKF1FQllRsxyQh3sA7V2Hc-)
@@ -47,11 +47,11 @@ Research on programming language, compilers, functional programming, devtools.
 
 ## Type System
 
-- [Let's build a typesystem in Haskell!](https://www.youtube.com/watch?v=aZFWY6DxX54&ab_channel=LucTielen)
+- [Let's build a typesystem in Haskell!](https://www.youtube.com/watch?v=aZFWY6DxX54)
 - [Safe & Efficient Gradual Typing for TypeScript](https://www.cs.umd.edu/~aseem/safets.pdf)
-- [A Type System From Scratch](https://www.youtube.com/watch?v=IbjoA5xVUq0&ab_channel=FunctionalSwift)
-- [Typing the Untyped: Soundness in Gradual Type Systems](https://www.youtube.com/watch?v=uJHD2xyv7xo&ab_channel=StrangeLoopConference)
-- ["Propositions as Types" by Philip Wadler](https://www.youtube.com/watch?v=IOiZatlZtGU&ab_channel=StrangeLoopConference)
+- [A Type System From Scratch](https://www.youtube.com/watch?v=IbjoA5xVUq0)
+- [Typing the Untyped: Soundness in Gradual Type Systems](https://www.youtube.com/watch?v=uJHD2xyv7xo)
+- ["Propositions as Types" by Philip Wadler](https://www.youtube.com/watch?v=IOiZatlZtGU)
 - [Type-safe embedded domain-specific languages 1/4](https://www.youtube.com/watch?v=4sTeT7poU3g)
 - [Type-safe embedded domain-specific languages 2/4](https://www.youtube.com/watch?v=OM_riJgZF8A)
 - [Type-safe embedded domain-specific languages 3/4](https://www.youtube.com/watch?v=gFJTKJgL2zI)
@@ -59,11 +59,11 @@ Research on programming language, compilers, functional programming, devtools.
 
 ## Programming Language Design
 
-- [A Tale of Two Asyncs: Open Source Language Design in Rust and Node.js](https://www.youtube.com/watch?v=aGJTXdXQN2o&ab_channel=StrangeLoopConference)
-- [Another Go at Language Design](https://www.youtube.com/watch?v=7VcArS4Wpqk&t=216s&ab_channel=Stanford)
+- [A Tale of Two Asyncs: Open Source Language Design in Rust and Node.js](https://www.youtube.com/watch?v=aGJTXdXQN2o)
+- [Another Go at Language Design](https://www.youtube.com/watch?v=7VcArS4Wpqk)
 - [How Rust does OSS](https://www.youtube.com/watch?v=m0rakUuPXFM)
-- [Growing a Language, by Guy Steele](https://www.youtube.com/watch?v=_ahvzDzKdB0&ab_channel=BillPugh)
-- [The Mess We're In](https://www.youtube.com/watch?v=lKXe3HUG2l4&ab_channel=StrangeLoopConference)
+- [Growing a Language, by Guy Steele](https://www.youtube.com/watch?v=_ahvzDzKdB0)
+- [The Mess We're In](https://www.youtube.com/watch?v=lKXe3HUG2l4)
 
 ## Books
 
