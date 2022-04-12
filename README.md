@@ -14,7 +14,7 @@ Research on programming language, compilers, functional programming, devtools.
 
 ## Compilers
 
-- [Building an Interpreter](https://leandrotk.github.io/series/building-an-interpreter)
+- [Building an Interpreter](https://www.iamtk.co/series/building-an-interpreter)
 - [Let’s Build A Simple Interpreter](https://ruslanspivak.com/lsbasi-part1/)
 - [Let's build a compiler](https://generalproblem.net/)
 - [Crafting Interpreters](http://craftinginterpreters.com/contents.html)
