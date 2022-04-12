@@ -37,6 +37,7 @@ Research on programming language, compilers, functional programming, devtools.
 - [Building a Debugger: Code Analysis](https://nan.fyi/debugger)
 - [Mozilla Hacks Compiler Compiler](https://www.youtube.com/playlist?list=PLo3w8EB99pqKF1FQllRsxyQh3sA7V2Hc-)
 - [An Incremental Approach to Compiler Construction](http://scheme2006.cs.uchicago.edu/11-ghuloum.pdf)
+- [Understanding compiler optimization](https://www.youtube.com/watch?v=haQ2cijhvhE)
 
 ## Browser
 
