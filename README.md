@@ -15,6 +15,10 @@ Research on programming language, compilers, functional programming, devtools.
 
 - [SICP — Structure and Interpretation of Computer](./research/books/sicp)
 
+### Experiments
+
+- [An interpreter for the Lox programming language](./research/experiments/lox.ts)
+
 ## Programming Language Design / Theory
 
 - [A Tale of Two Asyncs: Open Source Language Design in Rust and Node.js](https://www.youtube.com/watch?v=aGJTXdXQN2o)
