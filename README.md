@@ -17,6 +17,7 @@ Research on programming language, compilers, functional programming, devtools.
 
 ### Experiments
 
+- [An interpreter for the Monkey programming language](https://github.com/imteekay/monkey-ts)
 - [An interpreter for the Lox programming language](./research/experiments/lox.ts)
 
 ## Programming Language Design / Theory
