@@ -21,6 +21,10 @@ Research on programming language, compilers, functional programming, devtools.
 - [Grammars for programming languages](https://medium.com/@mikhail.barash.mikbar/grammars-for-programming-languages-fae3a72a22c6)
 - [Building a Debugger: Code Analysis](https://nan.fyi/debugger)
 - [Language-oriented software engineering](https://parametri.city/blog/2018-12-23-language-oriented-software-engineering/index.html)
+- [The Programming Language Enthusiast](http://www.pl-enthusiast.net/)
+- [Programming and Programming Languages](https://papl.cs.brown.edu/2018/index.html)
+- [Programming Language Foundations in Agda](https://plfa.github.io/beta/)
+- [Programming Language and Compilers Reading List](https://www.jntrnr.com/programming-language-and-compilers-reading-list/)
 
 ## Compilers
 
@@ -66,11 +70,13 @@ Research on programming language, compilers, functional programming, devtools.
 - [Type-safe embedded domain-specific languages 3/4](https://www.youtube.com/watch?v=gFJTKJgL2zI)
 - [Type-safe embedded domain-specific languages 4/4](https://www.youtube.com/watch?v=isAu8YuI6SA)
 
-## Books
+## Books & Papers
 
 - [Practical Foundations for Programming Languages](https://www.amazon.com/Practical-Foundations-Programming-Languages-Professor/dp/1107029570)
 - [SICP](https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html)
 - [HTDP](https://htdp.org/2020-8-1/Book/index.html)
+- [Papers to read](https://github.com/haskellcamargo/papers-to-read)
+- [Papers on programming languages: ideas from 70's for today](https://medium.com/@mikhail.barash.mikbar/papers-on-programming-languages-ideas-from-70s-for-today-2931891d4dbd)
 
 ## Language Learnings
 
@@ -87,15 +93,6 @@ Research on programming language, compilers, functional programming, devtools.
 - [Browser from scratch](https://zerox-dg.github.io/blog/tags/browser-from-scratch/)
 - [Let's build a browser engine!](https://limpet.net/mbrubeck/2014/08/08/toy-layout-engine-1.html)
 - [How Browsers Work: Behind the scenes of modern web browsers](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/)
-
-## General Resources
-
-- [The Programming Language Enthusiast](http://www.pl-enthusiast.net/)
-- [Programming and Programming Languages](https://papl.cs.brown.edu/2018/index.html)
-- [Papers to read](https://github.com/haskellcamargo/papers-to-read)
-- [Papers on programming languages: ideas from 70's for today](https://medium.com/@mikhail.barash.mikbar/papers-on-programming-languages-ideas-from-70s-for-today-2931891d4dbd)
-- [Programming Language Foundations in Agda](https://plfa.github.io/beta/)
-- [Programming Language and Compilers Reading List](https://www.jntrnr.com/programming-language-and-compilers-reading-list/)
 
 ## License
 
