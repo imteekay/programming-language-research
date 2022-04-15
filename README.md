@@ -9,8 +9,17 @@ Research on programming language, compilers, functional programming, devtools.
 - [SICP - Structure and Interpretation of Computer](https://github.com/imteekay/programming-language-theory/tree/master/sicp)
 - [Compiler — Stanford](https://github.com/imteekay/programming-language-research/tree/master/compilers/compilers-stanford-course)
 
-## PLT
+## Programming Language Design / Theory
 
+- [A Tale of Two Asyncs: Open Source Language Design in Rust and Node.js](https://www.youtube.com/watch?v=aGJTXdXQN2o)
+- [Another Go at Language Design](https://www.youtube.com/watch?v=7VcArS4Wpqk)
+- [How Rust does OSS](https://www.youtube.com/watch?v=m0rakUuPXFM)
+- [Growing a Language, by Guy Steele](https://www.youtube.com/watch?v=_ahvzDzKdB0)
+- [The Mess We're In](https://www.youtube.com/watch?v=lKXe3HUG2l4)
+- [A Frontend Programmer's Guide to Languages](https://thatjdanisso.cool/programming-languages)
+- [Let’s Build a Programming Language](https://medium.com/hackernoon/lets-build-a-programming-language-2612349105c6)
+- [Grammars for programming languages](https://medium.com/@mikhail.barash.mikbar/grammars-for-programming-languages-fae3a72a22c6)
+- [Building a Debugger: Code Analysis](https://nan.fyi/debugger)
 - [Language-oriented software engineering](https://parametri.city/blog/2018-12-23-language-oriented-software-engineering/index.html)
 
 ## Compilers
@@ -45,12 +54,6 @@ Research on programming language, compilers, functional programming, devtools.
 - [Typescript Compiler explained by the Author Anders Hejlsberg](https://www.youtube.com/watch?v=f6TCB61fDwY)
 - [TypeScript Compiler Notes](https://github.com/microsoft/TypeScript-Compiler-Notes)
 
-## Browser
-
-- [Browser from scratch](https://zerox-dg.github.io/blog/tags/browser-from-scratch/)
-- [Let's build a browser engine!](https://limpet.net/mbrubeck/2014/08/08/toy-layout-engine-1.html)
-- [How Browsers Work: Behind the scenes of modern web browsers](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/)
-
 ## Type System
 
 - [Let's build a typesystem in Haskell!](https://www.youtube.com/watch?v=aZFWY6DxX54)
@@ -62,18 +65,6 @@ Research on programming language, compilers, functional programming, devtools.
 - [Type-safe embedded domain-specific languages 2/4](https://www.youtube.com/watch?v=OM_riJgZF8A)
 - [Type-safe embedded domain-specific languages 3/4](https://www.youtube.com/watch?v=gFJTKJgL2zI)
 - [Type-safe embedded domain-specific languages 4/4](https://www.youtube.com/watch?v=isAu8YuI6SA)
-
-## Programming Language Design
-
-- [A Tale of Two Asyncs: Open Source Language Design in Rust and Node.js](https://www.youtube.com/watch?v=aGJTXdXQN2o)
-- [Another Go at Language Design](https://www.youtube.com/watch?v=7VcArS4Wpqk)
-- [How Rust does OSS](https://www.youtube.com/watch?v=m0rakUuPXFM)
-- [Growing a Language, by Guy Steele](https://www.youtube.com/watch?v=_ahvzDzKdB0)
-- [The Mess We're In](https://www.youtube.com/watch?v=lKXe3HUG2l4)
-- [A Frontend Programmer's Guide to Languages](https://thatjdanisso.cool/programming-languages)
-- [Let’s Build a Programming Language](https://medium.com/hackernoon/lets-build-a-programming-language-2612349105c6)
-- [Grammars for programming languages](https://medium.com/@mikhail.barash.mikbar/grammars-for-programming-languages-fae3a72a22c6)
-- [Building a Debugger: Code Analysis](https://nan.fyi/debugger)
 
 ## Books
 
@@ -90,6 +81,12 @@ Research on programming language, compilers, functional programming, devtools.
 - [Elixir](https://github.com/imteekay/programming-language-theory/tree/master/language-learning/elixir)
 - [Clojure](https://github.com/imteekay/programming-language-theory/tree/master/language-learning/clojure)
 - [Rust](https://github.com/imteekay/programming-language-theory/tree/master/language-learning/rust)
+
+## Browser
+
+- [Browser from scratch](https://zerox-dg.github.io/blog/tags/browser-from-scratch/)
+- [Let's build a browser engine!](https://limpet.net/mbrubeck/2014/08/08/toy-layout-engine-1.html)
+- [How Browsers Work: Behind the scenes of modern web browsers](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/)
 
 ## General Resources
 
