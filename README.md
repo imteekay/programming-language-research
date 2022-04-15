@@ -2,7 +2,7 @@
 
 Research on programming language, compilers, functional programming, devtools.
 
-## Courses & Notes
+## Research, Courses & Notes
 
 - [Programming Languages Part A](https://github.com/imteekay/programming-languages-design/tree/master/programming-languages-part-a)
 - [Compilers: Theory and Practice](https://github.com/imteekay/programming-language-theory/tree/master/compilers-theory-and-practice)
