@@ -54,7 +54,7 @@ Research on programming language, compilers, functional programming, devtools.
 - [Typescript Compiler explained by the Author Anders Hejlsberg](https://www.youtube.com/watch?v=f6TCB61fDwY)
 - [TypeScript Compiler Notes](https://github.com/microsoft/TypeScript-Compiler-Notes)
 
-## Type System
+### Type System
 
 - [Let's build a typesystem in Haskell!](https://www.youtube.com/watch?v=aZFWY6DxX54)
 - [Safe & Efficient Gradual Typing for TypeScript](https://www.cs.umd.edu/~aseem/safets.pdf)
