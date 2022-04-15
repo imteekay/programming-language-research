@@ -43,6 +43,8 @@ welcome(msg); // Hello, World!
 
 It creates the syntax tree using a [scanner](https://github.com/microsoft/TypeScript/blob/main/src/compiler/scanner.ts) and and a [parser](https://github.com/microsoft/TypeScript/blob/main/src/compiler/parser.ts).
 
+### Scanner
+
 The `scanner` receives the text (source code) and outputs a sequence of tokens.
 
 ```typescript
