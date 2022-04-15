@@ -2,12 +2,18 @@
 
 Research on programming language, compilers, functional programming, devtools.
 
-## Research, Courses & Notes
+## Research
+
+### Courses & Notes
 
 - [Programming Languages Part A](./research/courses/programming-languages-part-a)
-- [Compilers: Theory and Practice](https://github.com/imteekay/programming-language-theory/tree/master/compilers-theory-and-practice)
+- [Compilers: Theory and Practice](./research/courses/compilers-theory-and-practice)
+- [Compiler — Stanford](./research/courses/compilers-stanford-course)
+- [Introduction to Functional Programming](./research/courses/introduction-to-functional-programming)
+
+### Books & Notes
+
 - [SICP — Structure and Interpretation of Computer](./research/books/sicp)
-- [Compiler — Stanford](https://github.com/imteekay/programming-language-research/tree/master/compilers/compilers-stanford-course)
 
 ## Programming Language Design / Theory
 
