@@ -26,3 +26,51 @@ const checker = program.getTypeChecker();
 // syntax tree to code
 program.emit();
 ```
+
+## Source code to data
+
+Converting code to a syntax tree
+
+```typescript
+function welcome(str: string) {
+  console.log(str);
+}
+
+const msg: string = 'Hello, World!';
+
+welcome(msg); // Hello, World!
+```
+
+It creates the syntax tree using a [scanner](https://github.com/microsoft/TypeScript/blob/main/src/compiler/scanner.ts) and and a [parser](https://github.com/microsoft/TypeScript/blob/main/src/compiler/parser.ts).
+
+The `scanner` receives the text (source code) and outputs a sequence of tokens.
+
+```typescript
+const msg: string = 'Hello, World';
+```
+
+It transforms this source code into tokens like this:
+
+`ConstKeyword` `WhitespaceTrivia` `Identifier` `ColonToken` `WhitespaceTrivia` `StringKeyword` `WhitespaceTrivia` `EqualsToken` `WhitespaceTrivia` ...
+
+The `scanner` also has diagnostics, an expressive way to show users their JavaScript/TypeScript code is invalid, has errors, or is missing any thing.
+
+No closing quote to the open quote:
+
+```typescript
+const noEnd = '; // => Unterminated string literal.
+```
+
+An invalid character:
+
+```typescript
+const 🇯🇵 = 'Japan Flag'; // Invalid character
+```
+
+Numeric separators can't be consecutive:
+
+```typescript
+const num = 1__0; // Multiple consecutive numeric separators are not permitted.
+```
+
+And so on.
