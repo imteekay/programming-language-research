@@ -75,6 +75,7 @@ All [notes](./research) from my research on programming languages and compilers.
 - [Quick look at the TypeScript Compiler API](https://www.youtube.com/watch?v=AnjfW633e8o%E2%80%8E.%E2%80%8Edev)
 - [Typescript Compiler explained by the Author Anders Hejlsberg](https://www.youtube.com/watch?v=f6TCB61fDwY)
 - [TypeScript Compiler Notes](https://github.com/microsoft/TypeScript-Compiler-Notes)
+- [A miniature model of the Typescript compiler](https://github.com/sandersn/mini-typescript)
 
 ### Type System
 
