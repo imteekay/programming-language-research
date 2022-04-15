@@ -2,19 +2,20 @@
 
 ## Courses & Notes
 
-- [Programming Languages Part A](./research/courses/programming-languages-part-a)
-- [Compilers: Theory and Practice](./research/courses/compilers-theory-and-practice)
-- [Compiler — Stanford](./research/courses/compilers-stanford-course)
-- [Introduction to Functional Programming](./research/courses/introduction-to-functional-programming)
+- [Programming Languages Part A](./courses/programming-languages-part-a)
+- [Compilers: Theory and Practice](./courses/compilers-theory-and-practice)
+- [Compiler — Stanford](./courses/compilers-stanford-course)
+- [Introduction to Functional Programming](./courses/introduction-to-functional-programming)
+- [UFMG Compilers Course](./courses/ufmg-compilers-course)
 
 ## Books & Notes
 
-- [SICP — Structure and Interpretation of Computer](./research/books/sicp)
+- [SICP — Structure and Interpretation of Computer](./books/sicp)
 
 ## Experiments
 
 - [An interpreter for the Monkey programming language](https://github.com/imteekay/monkey-ts)
-- [An interpreter for the Lox programming language](./research/experiments/lox.ts)
+- [An interpreter for the Lox programming language](./experiments/lox.ts)
 
 ## Papers
 

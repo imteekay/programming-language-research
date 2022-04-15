@@ -12,6 +12,7 @@ All [notes](./research) from my research on programming languages and compilers.
 - [Compilers: Theory and Practice](./research/courses/compilers-theory-and-practice)
 - [Compiler — Stanford](./research/courses/compilers-stanford-course)
 - [Introduction to Functional Programming](./research/courses/introduction-to-functional-programming)
+- [UFMG Compilers Course](./research/courses/ufmg-compilers-course)
 
 ### Books & Notes
 
