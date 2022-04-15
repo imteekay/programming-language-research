@@ -1,8 +1,10 @@
 # Programming Language Research
 
-Research on programming language, compilers, functional programming, devtools.
+Research on programming languages, compilers, functional programming, devtools.
 
 ## Research
+
+All [notes](./research) from my research on programming languages and compilers.
 
 ### Courses & Notes
 
