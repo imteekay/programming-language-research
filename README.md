@@ -15,30 +15,35 @@ Research on programming language, compilers, functional programming, devtools.
 
 ## Compilers
 
-- [Building an Interpreter](https://www.iamtk.co/series/building-an-interpreter)
-- [Let’s Build A Simple Interpreter](https://ruslanspivak.com/lsbasi-part1/)
+### Compiler Construction
+
 - [Let's build a compiler](https://generalproblem.net/)
-- [Crafting Interpreters](http://craftinginterpreters.com/contents.html)
-- [Implementing a Simple Compiler on 25 Lines of JavaScript](https://blog.mgechev.com/2017/09/16/developing-simple-interpreter-transpiler-compiler-tutorial/)
 - [Compiler Design course](https://www.youtube.com/playlist?list=PLDAE55AEE0731D729&feature=plcp)
-- [Language grammar](https://stackoverflow.com/a/4726662/11314146)
-- [Lexing in JS style](https://areknawo.com/the-lexer-in-js/)
-- [Let’s Build a Programming Language](https://medium.com/hackernoon/lets-build-a-programming-language-2612349105c6)
-- [Compilers and Interpreters](https://medium.com/hackernoon/compilers-and-interpreters-3e354a2e41cf)
 - [Lexical Analysis](https://medium.com/hackernoon/lexical-analysis-861b8bfe4cb0)
 - [AST (Abstract Syntax Tree)](https://medium.com/@dinis.cruz/ast-abstract-syntax-tree-538aa146c53b)
-- [Grammars for programming languages](https://medium.com/@mikhail.barash.mikbar/grammars-for-programming-languages-fae3a72a22c6)
-- [Little lisp interpreter](https://maryrosecook.com/blog/post/little-lisp-interpreter)
-- [Write you a Haskell](http://dev.stephendiehl.com/fun/)
+- [Compilers and Interpreters](https://medium.com/hackernoon/compilers-and-interpreters-3e354a2e41cf)
+- [Anders Hejlsberg on Modern Compiler Construction](https://www.youtube.com/watch?v=wSdV1M7n4gQ)
+- [Language grammar](https://stackoverflow.com/a/4726662/11314146)
+- [Lexing in JS style](https://areknawo.com/the-lexer-in-js/)
+- [Mozilla Hacks Compiler Compiler](https://www.youtube.com/playlist?list=PLo3w8EB99pqKF1FQllRsxyQh3sA7V2Hc-)
 - [Resources for Amateur Compiler Writers](https://c9x.me/compile/bib/)
+- [Understanding compiler optimization](https://www.youtube.com/watch?v=haQ2cijhvhE)
+- [An Incremental Approach to Compiler Construction](http://scheme2006.cs.uchicago.edu/11-ghuloum.pdf)
+
+### Interpreter
+
+- [Building an Interpreter](https://www.iamtk.co/series/building-an-interpreter)
+- [Let’s Build A Simple Interpreter](https://ruslanspivak.com/lsbasi-part1/)
+- [Crafting Interpreters](http://craftinginterpreters.com/contents.html)
+- [Implementing a Simple Compiler on 25 Lines of JavaScript](https://blog.mgechev.com/2017/09/16/developing-simple-interpreter-transpiler-compiler-tutorial/)
+- [Little lisp interpreter](https://maryrosecook.com/blog/post/little-lisp-interpreter)
+
+### Modern Compilers
+
+- [Write you a Haskell](http://dev.stephendiehl.com/fun/)
 - [Quick look at the TypeScript Compiler API](https://www.youtube.com/watch?v=AnjfW633e8o%E2%80%8E.%E2%80%8Edev)
 - [Typescript Compiler explained by the Author Anders Hejlsberg](https://www.youtube.com/watch?v=f6TCB61fDwY)
-- [Anders Hejlsberg on Modern Compiler Construction](https://www.youtube.com/watch?v=wSdV1M7n4gQ)
-- [A Frontend Programmer's Guide to Languages](https://thatjdanisso.cool/programming-languages)
-- [Building a Debugger: Code Analysis](https://nan.fyi/debugger)
-- [Mozilla Hacks Compiler Compiler](https://www.youtube.com/playlist?list=PLo3w8EB99pqKF1FQllRsxyQh3sA7V2Hc-)
-- [An Incremental Approach to Compiler Construction](http://scheme2006.cs.uchicago.edu/11-ghuloum.pdf)
-- [Understanding compiler optimization](https://www.youtube.com/watch?v=haQ2cijhvhE)
+- [TypeScript Compiler Notes](https://github.com/microsoft/TypeScript-Compiler-Notes)
 
 ## Browser
 
@@ -65,6 +70,10 @@ Research on programming language, compilers, functional programming, devtools.
 - [How Rust does OSS](https://www.youtube.com/watch?v=m0rakUuPXFM)
 - [Growing a Language, by Guy Steele](https://www.youtube.com/watch?v=_ahvzDzKdB0)
 - [The Mess We're In](https://www.youtube.com/watch?v=lKXe3HUG2l4)
+- [A Frontend Programmer's Guide to Languages](https://thatjdanisso.cool/programming-languages)
+- [Let’s Build a Programming Language](https://medium.com/hackernoon/lets-build-a-programming-language-2612349105c6)
+- [Grammars for programming languages](https://medium.com/@mikhail.barash.mikbar/grammars-for-programming-languages-fae3a72a22c6)
+- [Building a Debugger: Code Analysis](https://nan.fyi/debugger)
 
 ## Books
 
