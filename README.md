@@ -4,7 +4,7 @@ Research on programming language, compilers, functional programming, devtools.
 
 ## Research, Courses & Notes
 
-- [Programming Languages Part A](https://github.com/imteekay/programming-languages-design/tree/master/programming-languages-part-a)
+- [Programming Languages Part A](./research/courses/programming-languages-part-a)
 - [Compilers: Theory and Practice](https://github.com/imteekay/programming-language-theory/tree/master/compilers-theory-and-practice)
 - [SICP — Structure and Interpretation of Computer](https://github.com/imteekay/programming-language-theory/tree/master/sicp)
 - [Compiler — Stanford](https://github.com/imteekay/programming-language-research/tree/master/compilers/compilers-stanford-course)
