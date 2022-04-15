@@ -4,19 +4,19 @@ This is the code & notes from the [Programming Languages - Part A course by Cour
 
 ## Week 2
 
-- [First Program](https://github.com/leandrotk/programming-languages-design/blob/master/programming-languages-part-a/week2/first.sml)
-- [Shadowing](https://github.com/leandrotk/programming-languages-design/blob/master/programming-languages-part-a/week2/shadowing.sml)
-- [Functions](https://github.com/leandrotk/programming-languages-design/blob/master/programming-languages-part-a/week2/function.sml)
-- [Pair/Tuples](https://github.com/leandrotk/programming-languages-design/blob/master/programming-languages-part-a/week2/tuples.sml)
-- [Lists](https://github.com/leandrotk/programming-languages-design/blob/master/programming-languages-part-a/week2/lists.sml)
-- [Lists functions](https://github.com/leandrotk/programming-languages-design/blob/master/programming-languages-part-a/week2/list_functions.sml)
-- [Let expressions](https://github.com/leandrotk/programming-languages-design/blob/master/programming-languages-part-a/week2/let.sml)
-- [Nested functions](https://github.com/leandrotk/programming-languages-design/blob/master/programming-languages-part-a/week2/nested_functions.sml)
-- [Let and efficiency](https://github.com/leandrotk/programming-languages-design/blob/master/programming-languages-part-a/week2/let_and_efficiency.sml)
-- [Options](https://github.com/leandrotk/programming-languages-design/blob/master/programming-languages-part-a/week2/options.sml)
-- [Boolean operations](https://github.com/leandrotk/programming-languages-design/blob/master/programming-languages-part-a/week2/boolean_operations.sml)
+- [First Program](./week2/first.sml)
+- [Shadowing](./week2/shadowing.sml)
+- [Functions](./week2/function.sml)
+- [Pair/Tuples](./week2/tuples.sml)
+- [Lists](./week2/lists.sml)
+- [Lists functions](./week2/list_functions.sml)
+- [Let expressions](./week2/let.sml)
+- [Nested functions](./week2/nested_functions.sml)
+- [Let and efficiency](./week2/let_and_efficiency.sml)
+- [Options](./week2/options.sml)
+- [Boolean operations](./week2/boolean_operations.sml)
 
 ## Week 3
 
-- [Compound types](https://github.com/leandrotk/programming-languages-design/blob/master/programming-languages-part-a/week3/build_compound_types.sml)
-- [Records](https://github.com/leandrotk/programming-languages-design/blob/master/programming-languages-part-a/week3/records.sml)
+- [Compound types](./week3/build_compound_types.sml)
+- [Records](./week3/records.sml)
