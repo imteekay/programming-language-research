@@ -20,6 +20,10 @@ Research on programming language, compilers, functional programming, devtools.
 - [An interpreter for the Monkey programming language](https://github.com/imteekay/monkey-ts)
 - [An interpreter for the Lox programming language](./research/experiments/lox.ts)
 
+### Papers
+
+- [How Statically-Typed Functional Programmers Write Code](./research/papers/how-statically-typed-functional-programmers-write-code)
+
 ## Programming Language Design / Theory
 
 - [A Tale of Two Asyncs: Open Source Language Design in Rust and Node.js](https://www.youtube.com/watch?v=aGJTXdXQN2o)
