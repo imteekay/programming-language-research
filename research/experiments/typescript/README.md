@@ -3,6 +3,7 @@
 Notes on how the TypeScript compiler works. Resources I took the notes from:
 
 - [TypeScript codebase](https://github.com/microsoft/typescript)
+- [mini-typescript](https://github.com/sandersn/mini-typescript) by [@sandersn](https://github.com/sandersn)
 - [How the TypeScript Compiler Compiles](https://www.youtube.com/watch?v=X8k_4tZ16qU) by [@orta](https://github.com/orta)
 
 ## Program
