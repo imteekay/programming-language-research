@@ -212,3 +212,43 @@ When identifiers are duplicated:
 class User {}
 type User = {}; // Duplicate identifier 'User'.
 ```
+
+### Checker
+
+There're three main systems: how it checks, comparing types, and the inference system.
+
+The `checker` checks each part of the syntax tree.
+
+If we have a simple variable statement:
+
+```typescript
+const msg: string = 'test';
+```
+
+It results into this syntax tree:
+
+```
+SourceFile
+  - VariableStatement
+    - VariableDeclarationList
+      - VariableDeclaration
+        - Identifier
+        - StringKeyword
+        - StringLiteral
+  - EndOfFileToken
+```
+
+And the `checker` checks each node of the syntax tree.
+
+```typescript
+checker
+  .checkSourceElementWorker()
+  .checkVariableStatement()
+  .checkGrammarVariableDeclarationList()
+  .checkVariableDeclaration()
+  .checkVariableLikeDeclaration()
+  .checkTypeAssignableToAndOptionallyElaborate()
+  .isTypeRelatedTo(identifier, stringLiteral);
+```
+
+And the `checker` considers the source type and target string as the same type and returns `true`.
