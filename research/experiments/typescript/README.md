@@ -1,5 +1,10 @@
 # TypeScript compiler
 
+Notes on how the TypeScript compiler works. Resources I took the notes from:
+
+- [TypeScript codebase](https://github.com/microsoft/typescript)
+- [How the TypeScript Compiler Compiles](https://www.youtube.com/watch?v=X8k_4tZ16qU) by [@orta](https://github.com/orta)
+
 ## Program
 
 The project coordinator:
