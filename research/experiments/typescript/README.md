@@ -124,3 +124,47 @@ const extends = 'extends'; // 'extends' is not allowed as a variable declaration
 ```
 
 And so on.
+
+## Type Checking
+
+### Binder
+
+The `binder` transforms the syntax into symbols.
+
+Processing code, there're different scopes. Let's see an example
+
+```typescript
+const msg: string = 'Hello, World!';
+
+function welcome(str: string) {
+  console.log(str);
+}
+
+welcome(msg);
+```
+
+In the global scope, we have the `msg` and the `welcome` variables.
+
+In the function scope, we have the `str` variable.
+
+Symbols are tables for each scope in the program to store identifier with its metadata like where it was declared and its flag.
+
+Getting the syntax tree from the previous source code, the `binder` generates these symbol tables:
+
+**Global Scope:**
+
+- `msg`:
+  - declared line 0
+  - flags:`BlockScopedVariable`
+- `welcome`:
+  - declared line 6
+  - flags: `Function`
+
+**welcome Function Scope:**
+
+- `parent`: Global Scope
+- `str`:
+  - declared line 2
+  - flags: `BlockScopedVariable`
+
+And the `binder` tries to keep track of the identifiers across files.
