@@ -173,3 +173,41 @@ Getting the syntax tree from the previous source code, the `binder` generates th
   - flags: `BlockScopedVariable`
 
 And the `binder` tries to keep track of the identifiers across files.
+
+Another responsibility of the `binder` is to structure the flow nodes. It creates the flow graph to represent each scope and its types. It has different "containers" and each container could have different types for the same variable. Let's see an example.
+
+```typescript
+function logValue(x: string | number) {
+  if (typeof x === 'string') {
+    console.log('string', x);
+  } else {
+    console.log('number', x);
+  }
+
+  x;
+}
+```
+
+- `logValue` function container
+  - `x` with type `string | number`
+  - if condition true container
+    - `x` with type `string`
+  - if condition false container
+    - `x` with type `number`
+  - `x` again with type `string | number`
+
+The `binder` diagnostics show errors like:
+
+The impossibility to declare a variable with the same naming it was used before for another variable:
+
+```typescript
+const num = 1;
+const num = 2; // Cannot redeclare block-scoped variable 'num'.
+```
+
+When identifiers are duplicated:
+
+```typescript
+class User {}
+type User = {}; // Duplicate identifier 'User'.
+```
