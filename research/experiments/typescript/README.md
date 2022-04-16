@@ -252,3 +252,18 @@ checker
 ```
 
 And the `checker` considers the source type and target string as the same type and returns `true`.
+
+For type inference, the syntax tree, rather than providing the `StringKeyword`, there's no type given:
+
+```
+SourceFile
+  - VariableStatement
+    - VariableDeclarationList
+      - VariableDeclaration
+        - Identifier
+        // - No type given
+        - StringLiteral
+  - EndOfFileToken
+```
+
+So the `checker` tries to understand the syntax shape to fill in the gaps: From `StringLiteral`, it understands that the type is a string (`StringKeyword`).
