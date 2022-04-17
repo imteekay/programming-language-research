@@ -16,6 +16,7 @@
 
 - [An interpreter for the Monkey programming language](https://github.com/imteekay/monkey-ts)
 - [An interpreter for the Lox programming language](./experiments/lox.ts)
+- [How the TypeScript compiler works](./experiments/typescript)
 
 ## Papers
 
