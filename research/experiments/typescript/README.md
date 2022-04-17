@@ -267,3 +267,29 @@ SourceFile
 ```
 
 So the `checker` tries to understand the syntax shape to fill in the gaps: From `StringLiteral`, it understands that the type is a string (`StringKeyword`).
+
+## Emitting files
+
+### Emitter
+
+It transforms the syntax tree into files.
+
+- What to emit? e.g. `*.js`, `*.map`, `*.d.ts`
+- Printer: syntax tree to text
+- Tracking temp vars
+- Transformers: syntax tree to syntax tree
+
+Tranforming the syntax tree into a new syntax tree to remove static types. Basically transforming TypeScript into legitimate JavaScript.
+
+```
+SourceFile                                        SourceFile
+  - VariableStatement                               - VariableStatement
+    - VariableDeclarationList                         - VariableDeclarationList
+      - VariableDeclaration           --->              - VariableDeclaration
+        - Identifier                                      - Identifier
+        - StringKeyword                                   // removed type
+        - StringLiteral                                   - StringLiteral
+  - EndOfFileToken                                  - EndOfFileToken
+```
+
+The `emitter` remove the types, emits JavaScript output and `.dts` files (type check them).
