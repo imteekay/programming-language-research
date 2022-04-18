@@ -114,6 +114,8 @@ Tooking classes to learn compiler theory more in-depth. Here's all courses I too
 
 - [Type level programming in TypeScript](https://mjj.io/2021/03/29/type-level-programming-in-typescript)
 - [Advanced Types in TypeScript](https://www.youtube.com/playlist?list=PLw5h0DiJ-9PBIgIyd2ZA1CVnJf0BLFJg2)
+- [An Introduction To Type Programming In TypeScript](https://www.zhenghao.io/posts/type-programming)
+- [Type Level Programming in TypeScript](https://www.youtube.com/watch?v=vGVvJuazs84)
 
 ### Rust
 
