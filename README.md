@@ -46,6 +46,7 @@ Tooking classes to learn compiler theory more in-depth. Here's all courses I too
 - [Programming and Programming Languages](https://papl.cs.brown.edu/2018/index.html)
 - [Programming Language Foundations in Agda](https://plfa.github.io/beta/)
 - [Programming Language and Compilers Reading List](https://www.jntrnr.com/programming-language-and-compilers-reading-list/)
+- [On understanding types, data abstraction and effects](https://www.youtube.com/watch?v=3Cdw5x72k_g&ab_channel=MicrosoftResearch)
 
 ## Compilers
 
