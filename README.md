@@ -119,6 +119,7 @@ Tooking classes to learn compiler theory more in-depth. Here's all courses I too
 - [An Introduction To Type Programming In TypeScript](https://www.zhenghao.io/posts/type-programming)
 - [Type Level Programming in TypeScript](https://www.youtube.com/watch?v=vGVvJuazs84)
 - [Optimizing TypeScript Memory Usage](https://swatinem.de/blog/optimizing-tsc)
+- [TypeScript Bytecode Interpreter / Runtime Types](https://github.com/microsoft/TypeScript/issues/47658)
 
 ### Rust
 
