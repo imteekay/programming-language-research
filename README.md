@@ -129,6 +129,7 @@ Tooking classes to learn compiler theory more in-depth. Here's all courses I too
 - [Browser from scratch](https://zerox-dg.github.io/blog/tags/browser-from-scratch/)
 - [Let's build a browser engine!](https://limpet.net/mbrubeck/2014/08/08/toy-layout-engine-1.html)
 - [How Browsers Work: Behind the scenes of modern web browsers](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/)
+- [Concurrent JavaScript: It can work!](https://webkit.org/blog/7846/concurrent-javascript-it-can-work)
 
 ## License
 
