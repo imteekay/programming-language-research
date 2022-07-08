@@ -133,6 +133,7 @@ Tooking classes to learn compiler theory more in-depth. Here's all courses I too
 - [How Browsers Work: Behind the scenes of modern web browsers](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/)
 - [Concurrent JavaScript: It can work!](https://webkit.org/blog/7846/concurrent-javascript-it-can-work)
 - [Web Browser Engineering](https://browser.engineering)
+- [Round-up of web browser internals resources](https://developer.chrome.com/blog/round-up-of-web-browser-internals-resources)
 
 ## License
 
