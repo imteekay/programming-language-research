@@ -66,6 +66,7 @@ Tooking classes to learn compiler theory more in-depth. Here's all courses I too
 - [Resources for Amateur Compiler Writers](https://c9x.me/compile/bib/)
 - [Understanding compiler optimization](https://www.youtube.com/watch?v=haQ2cijhvhE)
 - [An Incremental Approach to Compiler Construction](http://scheme2006.cs.uchicago.edu/11-ghuloum.pdf)
+- [Lessons from Writing a Compiler](https://borretti.me/article/lessons-writing-compiler)
 
 ### Interpreter
 
