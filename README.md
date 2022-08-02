@@ -67,6 +67,7 @@ Tooking classes to learn compiler theory more in-depth. Here's all courses I too
 - [Understanding compiler optimization](https://www.youtube.com/watch?v=haQ2cijhvhE)
 - [An Incremental Approach to Compiler Construction](http://scheme2006.cs.uchicago.edu/11-ghuloum.pdf)
 - [Lessons from Writing a Compiler](https://borretti.me/article/lessons-writing-compiler)
+- [Understanding GC in JSC From Scratch](https://webkit.org/blog/12967/understanding-gc-in-jsc-from-scratch)
 
 ### Interpreter
 
