@@ -178,6 +178,7 @@ Tooking classes to learn compiler theory more in-depth. Here's all courses I too
 - [reflows & repaints: css performance making your javascript slow?](http://www.stubbornella.org/content/2009/03/27/reflows-repaints-css-performance-making-your-javascript-slow)
 - [What forces layout / reflow](https://gist.github.com/paulirish/5d52fb081b3570c81e3a)
 - [Rendering: repaint, reflow/relayout, restyle](https://www.phpied.com/rendering-repaint-reflowrelayout-restyle)
+- [David Baron's blog: Blink engineer](https://dbaron.org/log/)
 
 ## License
 
