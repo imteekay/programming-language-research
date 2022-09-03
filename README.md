@@ -180,6 +180,7 @@ Tooking classes to learn compiler theory more in-depth. Here's all courses I too
 - [What forces layout / reflow](https://gist.github.com/paulirish/5d52fb081b3570c81e3a)
 - [Rendering: repaint, reflow/relayout, restyle](https://www.phpied.com/rendering-repaint-reflowrelayout-restyle)
 - [David Baron's blog: Blink engineer](https://dbaron.org/log/)
+- [videofile\_ : the internet computer](https://www.youtube.com/watch?v=v0160IirdL4&ab_channel=TheBrowserCompany)
 
 ## License
 
