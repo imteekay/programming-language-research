@@ -159,6 +159,7 @@ Tooking classes to learn compiler theory more in-depth. Here's all courses I too
 ### Chrome
 
 - [Overview of the RenderingNG architecture](https://developer.chrome.com/articles/renderingng-architecture)
+- [Key data structures and their roles in RenderingNG](https://developer.chrome.com/articles/renderingng-data-structures)
 
 ## License
 
