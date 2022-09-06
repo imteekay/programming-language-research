@@ -156,6 +156,10 @@ Tooking classes to learn compiler theory more in-depth. Here's all courses I too
 - [David Baron's blog: Blink engineer](https://dbaron.org/log/)
 - [The internet computer](https://www.youtube.com/watch?v=v0160IirdL4&ab_channel=TheBrowserCompany)
 
+### Chrome
+
+- [Overview of the RenderingNG architecture](https://developer.chrome.com/articles/renderingng-architecture)
+
 ## License
 
 [MIT](/LICENSE) © [TK](https://iamtk.co)
