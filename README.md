@@ -165,6 +165,7 @@ Tooking classes to learn compiler theory more in-depth. Here's all courses I too
 - [Algebraic effects, Fibers, Coroutines](https://www.youtube.com/watch?v=vzzOdWj4YyM&ab_channel=YouGottaLoveFrontend)
 - [TypeScript + fp-ts: ReaderTaskEither and React](https://andywhite.xyz/posts/2021-01-28-rte-react/)
 - [React - Basic Theoretical Concepts](https://github.com/reactjs/react-basic)
+- [React Concurrent mode](https://twitter.com/dan_abramov/status/1120971795425832961)
 
 ### Chrome
 
