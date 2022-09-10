@@ -163,6 +163,7 @@ Tooking classes to learn compiler theory more in-depth. Here's all courses I too
 - [Algebraic Effects for the Rest of Us](https://overreacted.io/algebraic-effects-for-the-rest-of-us/)
 - [Algebraic Effects for React Developers](https://blog.reesew.io/algebraic-effects-for-react-developers)
 - [Algebraic effects, Fibers, Coroutines](https://www.youtube.com/watch?v=vzzOdWj4YyM&ab_channel=YouGottaLoveFrontend)
+- [TypeScript + fp-ts: ReaderTaskEither and React](https://andywhite.xyz/posts/2021-01-28-rte-react/)
 
 ### Chrome
 
