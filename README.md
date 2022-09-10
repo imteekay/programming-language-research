@@ -162,6 +162,7 @@ Tooking classes to learn compiler theory more in-depth. Here's all courses I too
 - [PL web frameworks](https://twitter.com/sliminality/status/1516175554550018048)
 - [Algebraic Effects for the Rest of Us](https://overreacted.io/algebraic-effects-for-the-rest-of-us/)
 - [Algebraic Effects for React Developers](https://blog.reesew.io/algebraic-effects-for-react-developers)
+- [Algebraic effects, Fibers, Coroutines](https://www.youtube.com/watch?v=vzzOdWj4YyM&ab_channel=YouGottaLoveFrontend)
 
 ### Chrome
 
