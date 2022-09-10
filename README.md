@@ -160,6 +160,7 @@ Tooking classes to learn compiler theory more in-depth. Here's all courses I too
 ### Web UI
 
 - [PL web frameworks](https://twitter.com/sliminality/status/1516175554550018048)
+- [Algebraic Effects for the Rest of Us](https://overreacted.io/algebraic-effects-for-the-rest-of-us/)
 
 ### Chrome
 
