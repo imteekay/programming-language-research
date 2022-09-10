@@ -157,6 +157,10 @@ Tooking classes to learn compiler theory more in-depth. Here's all courses I too
 - [The internet computer](https://www.youtube.com/watch?v=v0160IirdL4&ab_channel=TheBrowserCompany)
 - [Servo: Designing and Implementing a Parallel Browser](https://www.youtube.com/watch?v=67QP8t-89VM)
 
+### Web UI
+
+- [PL web frameworks](https://twitter.com/sliminality/status/1516175554550018048)
+
 ### Chrome
 
 - [Overview of the RenderingNG architecture](https://developer.chrome.com/articles/renderingng-architecture)
