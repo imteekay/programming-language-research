@@ -129,6 +129,7 @@ Tooking classes to learn compiler theory more in-depth. Here's all courses I too
 ### Rust
 
 - [Why Static Languages Suffer From Complexity](https://hirrolot.github.io/posts/why-static-languages-suffer-from-complexity)
+- [Things I Learned (TIL) - Nicholas Matsakis](https://www.youtube.com/watch?v=LIYkT3p5gTs&ab_channel=PLISS)
 
 ## Browser
 
