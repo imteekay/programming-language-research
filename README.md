@@ -175,6 +175,10 @@ Tooking classes to learn compiler theory more in-depth. Here's all courses I too
 - [RenderingNG deep-dive: LayoutNG](https://developer.chrome.com/articles/layoutng)
 - [RenderingNG: an architecture that makes and keeps Chrome fast for the long term](https://blog.chromium.org/2021/10/renderingng.html)
 
+### Careers
+
+- [Chromium Engineer at Browser Company](/careers/chromium-engineer-browser-company.pdf)
+
 ## License
 
 [MIT](/LICENSE) © [TK](https://iamtk.co)
