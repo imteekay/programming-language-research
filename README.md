@@ -178,6 +178,7 @@ Tooking classes to learn compiler theory more in-depth. Here's all courses I too
 ### Careers
 
 - [Chromium Engineer at Browser Company](/careers/chromium-engineer-browser-company.pdf)
+- [Senior Software Engineer at Mozilla Corporation](/careers/mozilla-firefox-senior-software-engineer.pdf)
 
 ## License
 
