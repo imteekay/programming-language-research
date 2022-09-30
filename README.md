@@ -30,6 +30,7 @@ Tooking classes to learn compiler theory more in-depth. Here's all courses I too
 
 - [How Statically-Typed Functional Programmers Write Code](./research/papers/how-statically-typed-functional-programmers-write-code)
 - [An Axiomatic Basis for Computer Programming](http://sunnyday.mit.edu/16.355/Hoare-CACM-69.pdf)
+- [The Next 700 Programming Languages](https://www.cs.cmu.edu/~crary/819-f09/Landin66.pdf)
 
 ## Programming Language Design / Theory
 
