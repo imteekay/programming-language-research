@@ -152,7 +152,7 @@ Tooking classes to learn compiler theory more in-depth. Here's all courses I too
 - [Notes on Javascript Memory Profiling in Google Chrome](https://www.kuniga.me/blog/2015/06/07/notes-on-javascript-memory-profiling-in-google-chrome.html)
 - [Notes on JavaScript Interpreters](https://www.kuniga.me/blog/2017/06/01/notes-on-javascript-interpreters.html)
 - [Web Workers](https://www.kuniga.me/blog/2016/08/04/web-workers.html)
-- [Adaptive Serving using JavaScript and the Network Information API](https://dev.to/addyosmani/
+- [Adaptive Serving using JavaScript and the Network Information API](https://dev.to/addyosmani/)
 - [Web Browser Engineering](https://browser.engineering)
 - [Critical rendering path - Crash course on web performance](https://www.youtube.com/watch?v=PkOBnYxqj3k&ab_channel=IlyaGrigorik)
 - [Don't fight the browser preload scanner](https://web.dev/preload-scanner)
