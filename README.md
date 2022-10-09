@@ -58,6 +58,7 @@ Tooking classes to learn compiler theory more in-depth. Here's all courses I too
 - [JavaScript Static Analysis for Evolving Language Specifications](https://www.youtube.com/watch?v=3Jlu_jnHB8g&ab_channel=PLRGKAIST)
 - [Minimalism in Programming Language Design](https://pointersgonewild.com/2022/05/23/minimalism-in-programming-language-design)
 - [Programming language theory and practice in ReScript](https://bobzhang.github.io/rescript-pl-course)
+- [CS520 Theories of Programming Languages — KAIST](https://www.youtube.com/playlist?list=PLvV9DPeJV9xx0NegrG4gNu8WXSXibDICu)
 
 ## Compilers
 
