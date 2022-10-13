@@ -1,3 +1,5 @@
+<samp>
+
 # Browser Engineering
 
 This is the code & notes from the [Browser Engineering book](https://browser.engineering).
@@ -19,3 +21,5 @@ The essence of the web:
 - A web page is hypertext, and links between web pages are hyperlinks.
 - HTML (HyperText Markup Language) is the format for writing web pages
 - HTTP (HyperText Transport Protocol) is the protocal for loading web pages
+
+</samp>
