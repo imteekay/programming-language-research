@@ -1,3 +1,5 @@
+<samp>
+
 # Programming Languages - Part A
 
 This is the code & notes from the [Programming Languages - Part A course by Coursera](https://www.coursera.org/learn/programming-languages).
@@ -20,3 +22,5 @@ This is the code & notes from the [Programming Languages - Part A course by Cour
 
 - [Compound types](./week3/build_compound_types.sml)
 - [Records](./week3/records.sml)
+
+</samp>

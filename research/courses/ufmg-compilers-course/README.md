@@ -1,3 +1,5 @@
+<samp>
+
 # UFMG Compilers Course
 
 ## Introduction to Static Analysis and Code Optimization
@@ -116,3 +118,5 @@ while body:
 while end:
 	return ans;
 ```
+
+</samp>
