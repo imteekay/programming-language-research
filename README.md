@@ -165,6 +165,7 @@ Tooking classes to learn compiler theory more in-depth. Here's all courses I too
 - [David Baron's blog: Blink engineer](https://dbaron.org/log/)
 - [The internet computer](https://www.youtube.com/watch?v=v0160IirdL4&ab_channel=TheBrowserCompany)
 - [Servo: Designing and Implementing a Parallel Browser](https://www.youtube.com/watch?v=67QP8t-89VM)
+- [Building a Rust Web Browser](https://joshondesign.com/tags/browser)
 
 ### Web UI
 
