@@ -1,3 +1,5 @@
+<samp>
+
 # TypeScript compiler
 
 Notes on how the TypeScript compiler works. Resources I took the notes from:
@@ -293,3 +295,5 @@ SourceFile                                        SourceFile
 ```
 
 The `emitter` remove the types, emits JavaScript output and `.dts` files (type check them).
+
+</samp>

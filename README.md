@@ -1,3 +1,5 @@
+<samp>
+
 # Programming Language Research
 
 Research on programming languages, compilers, functional programming, devtools.
@@ -190,3 +192,5 @@ Tooking classes to learn compiler theory more in-depth. Here's all courses I too
 ## License
 
 [MIT](/LICENSE) © [TK](https://iamtk.co)
+
+</samp>
