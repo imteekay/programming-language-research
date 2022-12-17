@@ -167,6 +167,7 @@ Tooking classes to learn compiler theory more in-depth. Here's all courses I too
 - [Servo: Designing and Implementing a Parallel Browser](https://www.youtube.com/watch?v=67QP8t-89VM)
 - [Building a Rust Web Browser](https://joshondesign.com/tags/browser)
 - [Browser from Scratch](https://zerox-dg.github.io/blog/tags/browser-from-scratch)
+- [Browser From Scratch Live Streams](https://www.youtube.com/playlist?list=PLgOaDFg2Sml4CG1tYeYhQ6eKqyh0hmyg1)
 
 ### Web UI
 
