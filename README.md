@@ -83,6 +83,7 @@ Tooking classes to learn compiler theory more in-depth. Here's all courses I too
 - [JavaScript implementation in SpiderMonkey](https://www.youtube.com/playlist?list=PLo3w8EB99pqJVPhmYbYdInBvAGarDavh-)
 - [Let's make a Teeny Tiny compiler, part 1](https://austinhenley.com/blog/teenytinycompiler1.html)
 - [Let's make a Teeny Tiny compiler, part 2](https://austinhenley.com/blog/teenytinycompiler2.html)
+- [Let's make a Teeny Tiny compiler, part 3](https://austinhenley.com/blog/teenytinycompiler3.html)
 
 ### Interpreter
 
