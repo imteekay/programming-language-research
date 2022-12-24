@@ -171,6 +171,7 @@ Tooking classes to learn compiler theory more in-depth. Here's all courses I too
 - [Building a Rust Web Browser](https://joshondesign.com/tags/browser)
 - [Browser from Scratch](https://zerox-dg.github.io/blog/tags/browser-from-scratch)
 - [Browser From Scratch Live Streams](https://www.youtube.com/playlist?list=PLgOaDFg2Sml4CG1tYeYhQ6eKqyh0hmyg1)
+- [Intro to Rust-lang (Building the Dom and an HTML Parser)](https://www.youtube.com/watch?v=brhuVn91EdY&list=PLJbE2Yu2zumDF6BX6_RdPisRVHgzV02NW&index=22&ab_channel=TensorProgramming)
 
 ### Web UI
 
