@@ -92,6 +92,7 @@ Tooking classes to learn compiler theory more in-depth. Here's all courses I too
 - [Crafting Interpreters](http://craftinginterpreters.com/contents.html)
 - [Implementing a Simple Compiler on 25 Lines of JavaScript](https://blog.mgechev.com/2017/09/16/developing-simple-interpreter-transpiler-compiler-tutorial/)
 - [Little lisp interpreter](https://maryrosecook.com/blog/post/little-lisp-interpreter)
+- [Pratt Parsers: Expression Parsing Made Easy](http://journal.stuffwithstuff.com/2011/03/19/pratt-parsers-expression-parsing-made-easy)
 
 ### Modern Compilers
 
