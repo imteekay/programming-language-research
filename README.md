@@ -89,6 +89,7 @@ Tooking classes to learn compiler theory more in-depth. Here's all courses I too
 ### Interpreter
 
 - [Building an Interpreter](https://www.iamtk.co/series/building-an-interpreter)
+- [Crafting an Interpreter](https://github.com/imteekay/crafting-an-interpreter)
 - [Let’s Build A Simple Interpreter](https://ruslanspivak.com/lsbasi-part1/)
 - [Crafting Interpreters](http://craftinginterpreters.com/contents.html)
 - [Implementing a Simple Compiler on 25 Lines of JavaScript](https://blog.mgechev.com/2017/09/16/developing-simple-interpreter-transpiler-compiler-tutorial/)
