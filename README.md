@@ -178,6 +178,7 @@ Tooking classes to learn compiler theory more in-depth. Here's all courses I too
 - [Intro to Rust-lang (Adding a CSS engine and CSS parsing to our Browser)](https://www.youtube.com/watch?v=dnrEto7adg0&list=PLJbE2Yu2zumDF6BX6_RdPisRVHgzV02NW&index=24&ab_channel=TensorProgramming)
 - [Intro to Rust-lang (Adding a Style Tree to our Browser)](https://www.youtube.com/watch?v=8e37RsyiGSE&list=PLJbE2Yu2zumDF6BX6_RdPisRVHgzV02NW&index=25&ab_channel=TensorProgramming)
 - [Intro to Rust (Building a Browser Engine: Commands and Rendering in OpenGL)](https://www.youtube.com/watch?v=rszgtm7i0n8&list=PLJbE2Yu2zumDF6BX6_RdPisRVHgzV02NW&index=27&ab_channel=TensorProgramming)
+- [Chrome University 2018: Life of a Script](https://www.youtube.com/watch?v=voDhHPNMEzg&ab_channel=BlinkOn)
 
 ### Web UI
 
