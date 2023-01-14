@@ -203,6 +203,7 @@ Tooking classes to learn compiler theory more in-depth. Here's all courses I too
 - [Senior Software Engineer at Mozilla Corporation](/careers/mozilla-firefox-senior-software-engineer.pdf)
 - [JavaScript Virtual Machine Compiler Engineer at Apple](/careers/javascript-virtual-machine-compiler-engineer.pdf)
 - [Compiler Jobs](https://mgaudet.github.io/CompilerJobs)
+- [Swift Type System Engineer](/careers/swift-type-system-engineer-apple.pdf)
 
 ## License
 
