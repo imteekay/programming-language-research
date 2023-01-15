@@ -115,6 +115,7 @@ Tooking classes to learn compiler theory more in-depth. Here's all courses I too
 - [Type-safe embedded domain-specific languages 2/4](https://www.youtube.com/watch?v=OM_riJgZF8A)
 - [Type-safe embedded domain-specific languages 3/4](https://www.youtube.com/watch?v=gFJTKJgL2zI)
 - [Type-safe embedded domain-specific languages 4/4](https://www.youtube.com/watch?v=isAu8YuI6SA)
+- [A Taste of Type Theory](https://www.youtube.com/watch?v=--2jJwdQ5js)
 
 ## Books & Papers
 
