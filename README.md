@@ -103,6 +103,7 @@ Tooking classes to learn compiler theory more in-depth. Here's all courses I too
 - [Little lisp interpreter](https://maryrosecook.com/blog/post/little-lisp-interpreter)
 - [Pratt Parsers: Expression Parsing Made Easy](http://journal.stuffwithstuff.com/2011/03/19/pratt-parsers-expression-parsing-made-easy)
 - [A Python Interpreter Written in Python](http://aosabook.org/en/500L/a-python-interpreter-written-in-python.html)
+- [(How to Write a (Lisp) Interpreter (in Python))](http://norvig.com/lispy.html)
 
 ### Modern Compilers
 
