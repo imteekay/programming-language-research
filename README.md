@@ -98,6 +98,7 @@ Tooking classes to learn compiler theory more in-depth. Here's all courses I too
 - [Make a Lisp](https://github.com/kanaka/mal)
 - [Compiling to lambda-calculus](https://matt.might.net/articles/compiling-up-to-lambda-calculus/)
 - [Compiling Scheme to C with closure conversion](https://matt.might.net/articles/compiling-scheme-to-c)
+- [Compiling to Java](https://matt.might.net/articles/compiling-to-java)
 
 ### Interpreter
 
