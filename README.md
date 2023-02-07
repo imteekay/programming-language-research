@@ -21,7 +21,8 @@ Tooking classes to learn compiler theory more in-depth. Here's all courses I too
 ### Books & Notes
 
 - [SICP — Structure and Interpretation of Computer](./research/books/sicp)
-- [Modern Compiler Implementation in C](https://www.amazon.com.br/Modern-Compiler-Implementation-Andrew-Appel/dp/0521607655)
+- [Modern Compiler Implementation in C](https://www.amazon.com/Modern-Compiler-Implementation-Andrew-Appel/dp/0521607655)
+- [Engineering a Compiler](https://www.amazon.com/Engineering-Compiler-Keith-D-Cooper/dp/0128154128/ref=sr_1_1?keywords=Engineering+a+Compiler&qid=1675768541&s=books&sr=1-1)
 
 ### Experiments
 
