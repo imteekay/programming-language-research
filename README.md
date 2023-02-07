@@ -104,6 +104,8 @@ Tooking classes to learn compiler theory more in-depth. Here's all courses I too
 - [Compiling to lambda-calculus](https://matt.might.net/articles/compiling-up-to-lambda-calculus/)
 - [Compiling Scheme to C with closure conversion](https://matt.might.net/articles/compiling-scheme-to-c)
 - [Compiling to Java](https://matt.might.net/articles/compiling-to-java)
+- [Implementing a bignum calculator](https://www.youtube.com/watch?v=PXoG0WX0r_E)
+- [Lexical Scanning in Go](https://www.youtube.com/watch?v=HxaD_trXwRE)
 
 ### Interpreter
 
