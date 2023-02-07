@@ -62,6 +62,7 @@ Tooking classes to learn compiler theory more in-depth. Here's all courses I too
 - [Programming language theory and practice in ReScript](https://bobzhang.github.io/rescript-pl-course)
 - [CS520 Theories of Programming Languages — KAIST](https://www.youtube.com/playlist?list=PLvV9DPeJV9xx0NegrG4gNu8WXSXibDICu)
 - [Panel: The Future of Programming Languages](https://learn.microsoft.com/en-us/events/pdc-pdc08/tl57)
+- [Shriram Krishnamurthi and Joe Gibbs Politz - Programming Languages: Application and Interpretation](http://papl.cs.brown.edu/2015/)
 
 ## Compilers
 
@@ -86,6 +87,9 @@ Tooking classes to learn compiler theory more in-depth. Here's all courses I too
 - [Let's make a Teeny Tiny compiler, part 2](https://austinhenley.com/blog/teenytinycompiler2.html)
 - [Let's make a Teeny Tiny compiler, part 3](https://austinhenley.com/blog/teenytinycompiler3.html)
 - [JavaScript ∩ WebAssembly](https://www.youtube.com/watch?v=PP5r_b3Ws8s&ab_channel=ReactEurope)
+- [Jack W. Crenshaw - Let’s Build a Compiler!](http://compilers.iecc.com/crenshaw/tutorfinal.pdf)
+- [Douglas Crockford - Top Down Operator Precedence](http://javascript.crockford.com/tdop/tdop.html)
+- [Bob Nystrom - Expression Parsing Made Easy](http://journal.stuffwithstuff.com/2011/03/19/pratt-parsers-expression-parsing-made-easy/)
 
 ### Interpreter
 
@@ -96,6 +100,7 @@ Tooking classes to learn compiler theory more in-depth. Here's all courses I too
 - [Implementing a Simple Compiler on 25 Lines of JavaScript](https://blog.mgechev.com/2017/09/16/developing-simple-interpreter-transpiler-compiler-tutorial/)
 - [Little lisp interpreter](https://maryrosecook.com/blog/post/little-lisp-interpreter)
 - [Pratt Parsers: Expression Parsing Made Easy](http://journal.stuffwithstuff.com/2011/03/19/pratt-parsers-expression-parsing-made-easy)
+- [A Python Interpreter Written in Python](http://aosabook.org/en/500L/a-python-interpreter-written-in-python.html)
 
 ### Modern Compilers
 
