@@ -90,6 +90,7 @@ Tooking classes to learn compiler theory more in-depth. Here's all courses I too
 - [Jack W. Crenshaw - Let’s Build a Compiler!](http://compilers.iecc.com/crenshaw/tutorfinal.pdf)
 - [Douglas Crockford - Top Down Operator Precedence](http://javascript.crockford.com/tdop/tdop.html)
 - [Bob Nystrom - Expression Parsing Made Easy](http://journal.stuffwithstuff.com/2011/03/19/pratt-parsers-expression-parsing-made-easy/)
+- [Dr. Dobbs - Bob: A Tiny Object-Oriented Language](http://www.drdobbs.com/open-source/bob-a-tiny-object-oriented-language/184409401)
 
 ### Interpreter
 
