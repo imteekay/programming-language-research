@@ -93,6 +93,7 @@ Tooking classes to learn compiler theory more in-depth. Here's all courses I too
 - [Dr. Dobbs - Bob: A Tiny Object-Oriented Language](http://www.drdobbs.com/open-source/bob-a-tiny-object-oriented-language/184409401)
 - [Nick Desaulniers - Interpreter, Compiler, JIT](https://nickdesaulniers.github.io/blog/2015/05/25/interpreter-compiler-jit/)
 - [Fredrik Lundh - Simple Town-Down Parsing In Python](https://11l-lang.org/archive/simple-top-down-parsing)
+- [How to implement a programming language in JavaScript](http://lisperator.net/pltut/)
 
 ### Interpreter
 
