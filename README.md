@@ -24,6 +24,7 @@ Tooking classes to learn compiler theory more in-depth. Here's all courses I too
 - [Modern Compiler Implementation in C](https://www.amazon.com/Modern-Compiler-Implementation-Andrew-Appel/dp/0521607655)
 - [Engineering a Compiler](https://www.amazon.com/Engineering-Compiler-Keith-D-Cooper/dp/0128154128/ref=sr_1_1?keywords=Engineering+a+Compiler&qid=1675768541&s=books&sr=1-1)
 - [Parsing Techniques. A Practical Guide](https://www.amazon.com/Parsing-Techniques-Practical-Monographs-Computer-ebook/dp/B0017AMLL8/ref=sr_1_1?crid=1W94M9OYZ6MH8&keywords=Parsing+Techniques.+A+Practical+Guide&qid=1675768574&s=books&sprefix=parsing+techniques.+a+practical+guide%2Cstripbooks-intl-ship%2C211&sr=1-1)
+- [Modern Compiler Design](https://www.amazon.com/Modern-Compiler-Design-Dick-Grune/dp/1461446988/ref=sr_1_1?crid=7JFBNCBOHIW9&keywords=Modern+Compiler+Design&qid=1675768609&s=books&sprefix=modern+compiler+design%2Cstripbooks-intl-ship%2C228&sr=1-1)
 
 ### Experiments
 
