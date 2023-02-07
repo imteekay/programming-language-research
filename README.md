@@ -97,6 +97,7 @@ Tooking classes to learn compiler theory more in-depth. Here's all courses I too
 - [Scheme from Scratch - Introduction](http://peter.michaux.ca/articles/scheme-from-scratch-introduction)
 - [Make a Lisp](https://github.com/kanaka/mal)
 - [Compiling to lambda-calculus](https://matt.might.net/articles/compiling-up-to-lambda-calculus/)
+- [Compiling Scheme to C with closure conversion](https://matt.might.net/articles/compiling-scheme-to-c)
 
 ### Interpreter
 
