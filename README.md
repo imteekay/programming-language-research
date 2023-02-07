@@ -95,6 +95,7 @@ Tooking classes to learn compiler theory more in-depth. Here's all courses I too
 - [Fredrik Lundh - Simple Town-Down Parsing In Python](https://11l-lang.org/archive/simple-top-down-parsing)
 - [How to implement a programming language in JavaScript](http://lisperator.net/pltut/)
 - [Scheme from Scratch - Introduction](http://peter.michaux.ca/articles/scheme-from-scratch-introduction)
+- [Make a Lisp](https://github.com/kanaka/mal)
 
 ### Interpreter
 
