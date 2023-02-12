@@ -231,6 +231,10 @@ Tooking classes to learn compiler theory more in-depth. Here's all courses I too
 - [Compiler Jobs](https://mgaudet.github.io/CompilerJobs)
 - [Swift Type System Engineer](/careers/swift-type-system-engineer-apple.pdf)
 
+### People in PL
+
+- [Anders Hejlsberg](https://www.youtube.com/watch?v=2K_4T7M1DKk&ab_channel=AarthiandSriram)
+
 ## License
 
 [MIT](/LICENSE) © [TK](https://iamtk.co)
