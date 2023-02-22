@@ -205,6 +205,10 @@ function logValue(x: string | number) {
   - "if condition is false" container
     - `x` with type `number`
   - `x` again with type `string | number`
+    - it should check all the flow nodes because it's possible `x` has been changed by different conditionals
+      - return statements
+      - mutation
+      - casting
 
 The `binder` diagnostics show errors like:
 
