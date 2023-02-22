@@ -266,21 +266,6 @@ checker
 
 And the `checker` considers the source type and target string as the same type and returns `true`.
 
-For type inference, the syntax tree, rather than providing the `StringKeyword`, there's no type given:
-
-```
-SourceFile
-  - VariableStatement
-    - VariableDeclarationList
-      - VariableDeclaration
-        - Identifier
-        // - No type given
-        - StringLiteral
-  - EndOfFileToken
-```
-
-So the `checker` tries to understand the syntax shape to fill in the gaps: From `StringLiteral`, it understands that the type is a string (`StringKeyword`).
-
 A more complex type checking analysis is when you need to check object type. e.g.
 
 ```typescript
@@ -301,6 +286,27 @@ Promise<string> = Promise<{ hello: string }>;
 - both are a `Promise` object
 - compare the type arguments inside the promise
 - the string is not assignable to the object and it fails the check
+
+#### The initializer inference
+
+For type inference, the syntax tree, rather than providing the `StringKeyword`, there's no type given:
+
+```typescript
+const msg = 'test';
+```
+
+```
+SourceFile
+  - VariableStatement
+    - VariableDeclarationList
+      - VariableDeclaration
+        - Identifier
+        // - No type given
+        - StringLiteral
+  - EndOfFileToken
+```
+
+So the `type checker` tries to understand the syntax shape to fill in the gaps: From `StringLiteral`, it understands that the type is a string (`StringKeyword`) and move that into the type.
 
 ## Emitting files
 
