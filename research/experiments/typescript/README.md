@@ -59,7 +59,7 @@ It creates the syntax tree using a [scanner](https://github.com/microsoft/TypeSc
 
 ### Scanner
 
-The `scanner` receives the text (source code) and outputs a sequence of tokens.
+The `scanner` receives the text (source code) and outputs a sequence of tokens: text -> tokens
 
 ```typescript
 const msg: string = 'Hello, World';
@@ -69,7 +69,7 @@ It transforms this source code into tokens like this:
 
 `ConstKeyword` `WhitespaceTrivia` `Identifier` `ColonToken` `WhitespaceTrivia` `StringKeyword` `WhitespaceTrivia` `EqualsToken` `WhitespaceTrivia` ...
 
-The `scanner` also has diagnostics, an expressive way to show users their JavaScript/TypeScript code is invalid, has errors, or is missing any thing.
+The `scanner` also has diagnostics, an expressive way to show users their JavaScript/TypeScript code is invalid, has errors, or is missing anything.
 
 No closing quote to the open quote:
 
