@@ -115,7 +115,7 @@ SourceFile
 
 The `VariableStatement` has a list of `VariableDeclaration`, which has the `Identifier` (`num`) and the `NumericLiteral` (`10`).
 
-There's a [cool AST playground](https://ts-ast-viewer.com/) we can use to have a better understanding on how the source code and the generated syntax tree are related one to another.
+There's a [cool AST playground](https://ts-ast-viewer.com) we can use to have a better understanding on how the source code and the generated syntax tree are related one to another.
 
 The `parser` diagnostics shows the "right JavaScript code in the wrong place".
 
