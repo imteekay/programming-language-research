@@ -143,7 +143,7 @@ And so on.
 
 ### Binder
 
-The `binder` transforms the syntax into symbols.
+The `binder` transforms the syntax into symbols: syntax -> symbols
 
 Processing code, there're different scopes. Let's see an example
 
@@ -157,11 +157,12 @@ function welcome(str: string) {
 welcome(msg);
 ```
 
-In the global scope, we have the `msg` and the `welcome` variables.
+For each scope, we have different symbols:
 
-In the function scope, we have the `str` variable.
+- In the global scope, we have the `msg` and the `welcome` variables.
+- In the function scope, we have the `str` variable.
 
-Symbols are tables for each scope in the program to store identifier with its metadata like where it was declared and its flag.
+Symbols are tables for each scope in the program to store identifier with its metadata (where it was declared — line — and its flag).
 
 Getting the syntax tree from the previous source code, the `binder` generates these symbol tables:
 
