@@ -200,9 +200,9 @@ function logValue(x: string | number) {
 
 - `logValue` function container
   - `x` with type `string | number`
-  - if condition true container
+  - "if condition is true" container
     - `x` with type `string`
-  - if condition false container
+  - "if condition is false" container
     - `x` with type `number`
   - `x` again with type `string | number`
 
