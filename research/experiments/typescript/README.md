@@ -308,6 +308,38 @@ SourceFile
 
 So the `type checker` tries to understand the syntax shape to fill in the gaps: From `StringLiteral`, it understands that the type is a string (`StringKeyword`) and move that into the type.
 
+Type parameter inference is a bit different. Take this code as an example:
+
+```typescript
+declare function setup<T>(config: { initial(): T }): T;
+```
+
+For type parameter inference, it needs to be defined further down. For the type checker to understand or to infer the type of `T`, you should write the function passing an object with the a initial function which returns a value and the type checker will "infer" that the value's type is `T`.
+
+Generic Function
+
+- Generic Arg `T`
+- Return value is `T`
+- Param is an object which has a function `initial` that returns a `T`
+
+And you write the actual `setup` function call:
+
+```typescript
+const test = setup({ initial: () { return 'test' }});
+```
+
+Now the return type of your implementation (string type) will be moved to the `T` type.
+
+```typescript
+{ initial: (): T } = { initial: () { return 'test' }}
+```
+
+So now the type looks like this for this specific function:
+
+```typescript
+declare function setup<string>(config: { initial(): string }): string;
+```
+
 ## Emitting files
 
 ### Emitter
