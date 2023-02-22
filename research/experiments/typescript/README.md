@@ -344,7 +344,7 @@ declare function setup<string>(config: { initial(): string }): string;
 
 ### Emitter
 
-It transforms the syntax tree into files.
+It transforms the syntax tree into files: syntax tree -> files
 
 - What to emit? e.g. `*.js`, `*.map`, `*.d.ts`
 - Printer: syntax tree to text
