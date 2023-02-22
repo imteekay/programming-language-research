@@ -20,7 +20,7 @@ The project coordinator:
 - `Transform`: changes the syntax tree to match tsconfig options
 - `Emit`: prints the syntax tree into .js, .d.ts, and other files
 
-Let's see how tht API looks like:
+Let's see how that API looks like:
 
 ```typescript
 import * as ts from 'typescript';
@@ -34,6 +34,12 @@ const checker = program.getTypeChecker();
 // syntax tree to code
 program.emit();
 ```
+
+The steps can broken down into three pieces
+
+- Source Code to Data: Tokenize and parsing phases
+- Type Checking: binding and type checking phases
+- Creating Files: emitting files into the disk
 
 ## Source code to data
 
