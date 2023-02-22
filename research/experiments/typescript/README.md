@@ -55,7 +55,7 @@ const msg: string = 'Hello, World!';
 welcome(msg); // Hello, World!
 ```
 
-It creates the syntax tree using a [scanner](https://github.com/microsoft/TypeScript/blob/main/src/compiler/scanner.ts) and and a [parser](https://github.com/microsoft/TypeScript/blob/main/src/compiler/parser.ts).
+It creates the syntax tree using a [scanner](https://github.com/microsoft/TypeScript/blob/main/src/compiler/scanner.ts) and a [parser](https://github.com/microsoft/TypeScript/blob/main/src/compiler/parser.ts).
 
 ### Scanner
 
