@@ -171,6 +171,7 @@ Tooking classes to learn compiler theory more in-depth. Here's all courses I too
 - [Typescript Type System](https://www.youtube.com/watch?v=svQnyVny-Hw&ab_channel=HansSchenker)
 - [How the TypeScript Compiler Compiles](https://www.youtube.com/watch?v=X8k_4tZ16qU&ab_channel=ortatherox)
 - [Debugging the TypeScript Codebase](https://blog.andrewbran.ch/debugging-the-type-script-codebase)
+- [TypeScript AST Resources](https://twitter.com/grow_love/status/1585711764565811201)
 
 ### Rust
 
