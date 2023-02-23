@@ -226,7 +226,7 @@ Tooking classes to learn compiler theory more in-depth. Here's all courses I too
 - [RenderingNG deep-dive: LayoutNG](https://developer.chrome.com/articles/layoutng)
 - [RenderingNG: an architecture that makes and keeps Chrome fast for the long term](https://blog.chromium.org/2021/10/renderingng.html)
 
-### Careers
+## Careers
 
 - [Chromium Engineer at Browser Company](/careers/chromium-engineer-browser-company.pdf)
 - [Senior Software Engineer at Mozilla Corporation](/careers/mozilla-firefox-senior-software-engineer.pdf)
@@ -234,7 +234,7 @@ Tooking classes to learn compiler theory more in-depth. Here's all courses I too
 - [Compiler Jobs](https://mgaudet.github.io/CompilerJobs)
 - [Swift Type System Engineer](/careers/swift-type-system-engineer-apple.pdf)
 
-### People in PL
+## People in PL
 
 - [Anders Hejlsberg](https://www.youtube.com/watch?v=2K_4T7M1DKk&ab_channel=AarthiandSriram)
 
