@@ -170,6 +170,7 @@ Tooking classes to learn compiler theory more in-depth. Here's all courses I too
 - [TypeScript Bytecode Interpreter / Runtime Types](https://github.com/microsoft/TypeScript/issues/47658)
 - [Typescript Type System](https://www.youtube.com/watch?v=svQnyVny-Hw&ab_channel=HansSchenker)
 - [How the TypeScript Compiler Compiles](https://www.youtube.com/watch?v=X8k_4tZ16qU&ab_channel=ortatherox)
+- [Debugging the TypeScript Codebase](https://blog.andrewbran.ch/debugging-the-type-script-codebase)
 
 ### Rust
 
