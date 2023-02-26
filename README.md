@@ -173,6 +173,7 @@ Tooking classes to learn compiler theory more in-depth. Here's all courses I too
 - [Debugging the TypeScript Codebase](https://blog.andrewbran.ch/debugging-the-type-script-codebase)
 - [TypeScript AST Resources](https://twitter.com/grow_love/status/1585711764565811201)
 - [TypeScript Compiler API: Improve API Integrations Using Code Generation](https://blog.appsignal.com/2021/08/18/improve-api-integrations-using-code-generation.html)
+- [Investigating TypeScript compiler APIs](https://blog.scottlogic.com/2015/01/20/typescript-compiler-api.html)
 
 ### Rust
 
