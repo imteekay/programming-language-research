@@ -141,6 +141,7 @@ Tooking classes to learn compiler theory more in-depth. Here's all courses I too
 - [Type-safe embedded domain-specific languages 4/4](https://www.youtube.com/watch?v=isAu8YuI6SA)
 - [A Taste of Type Theory](https://www.youtube.com/watch?v=--2jJwdQ5js)
 - [An accessible introduction to type theory and implementing a type-checker](https://mukulrathi.com/create-your-own-programming-language/intro-to-type-checking)
+- [Discrete Math — Dr. Trefor Bazett](https://www.youtube.com/playlist?list=PLHXZ9OQGMqxersk8fUxiUMSIx0DBqsKZS)
 
 ## Books & Papers
 
