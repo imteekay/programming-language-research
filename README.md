@@ -121,6 +121,7 @@ Tooking classes to learn compiler theory more in-depth. Here's all courses I too
 - [A Python Interpreter Written in Python](http://aosabook.org/en/500L/a-python-interpreter-written-in-python.html)
 - [(How to Write a (Lisp) Interpreter (in Python))](http://norvig.com/lispy.html)
 - [Little Lisp interpreter](https://www.recurse.com/blog/21-little-lisp-interpreter)
+- [Building an Interpreter from scratch](https://www.dmitrysoshnikov.education/p/essentials-of-interpretation)
 
 ### Modern Compilers
 
