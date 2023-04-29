@@ -253,6 +253,7 @@ Tooking classes to learn compiler theory more in-depth. Here's all courses I too
 ## People in PL
 
 - [Anders Hejlsberg](https://www.youtube.com/watch?v=2K_4T7M1DKk&ab_channel=AarthiandSriram)
+- [Dmitry Soshnikov](https://twitter.com/DmitrySoshnikov)
 
 ## License
 
