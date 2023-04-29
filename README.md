@@ -106,6 +106,7 @@ Tooking classes to learn compiler theory more in-depth. Here's all courses I too
 - [Compiling to Java](https://matt.might.net/articles/compiling-to-java)
 - [Implementing a bignum calculator](https://www.youtube.com/watch?v=PXoG0WX0r_E)
 - [Lexical Scanning in Go](https://www.youtube.com/watch?v=HxaD_trXwRE)
+- [Garbage Collection Algorithms](https://www.dmitrysoshnikov.education/p/essentials-of-garbage-collectors)
 
 ### Interpreter
 
