@@ -144,6 +144,10 @@ Tooking classes to learn compiler theory more in-depth. Here's all courses I too
 - [An accessible introduction to type theory and implementing a type-checker](https://mukulrathi.com/create-your-own-programming-language/intro-to-type-checking)
 - [Discrete Math — Dr. Trefor Bazett](https://www.youtube.com/playlist?list=PLHXZ9OQGMqxersk8fUxiUMSIx0DBqsKZS)
 
+## Virtual Machines (VMs)
+
+- [Building a Virtual Machine](https://www.dmitrysoshnikov.education/p/virtual-machine)
+
 ## Books & Papers
 
 - [Practical Foundations for Programming Languages](https://www.amazon.com/Practical-Foundations-Programming-Languages-Professor/dp/1107029570)
