@@ -197,6 +197,7 @@ Tooking classes to learn compiler theory more in-depth. Here's all courses I too
 - [Making sense of TypeScript using set theory](https://blog.thoughtspile.tech/2023/01/23/typescript-sets)
 - [Reconstructing TypeScript, part 0: intro and background](https://jaked.org/blog/2021-09-07-Reconstructing-TypeScript-part-0)
 - [Reconstructing TypeScript, part 1: bidirectional type checking](https://jaked.org/blog/2021-09-15-Reconstructing-TypeScript-part-1)
+- [Reconstructing TypeScript, part 2: functions and function calls](https://jaked.org/blog/2021-09-27-Reconstructing-TypeScript-part-2)
 
 ### Ecmascript
 
