@@ -191,6 +191,10 @@ Tooking classes to learn compiler theory more in-depth. Here's all courses I too
 - [TypeScript Compiler Manual](https://sandersn.github.io/manual/Typescript-compiler-implementation.html)
 - [Making sense of TypeScript using set theory](https://blog.thoughtspile.tech/2023/01/23/typescript-sets)
 
+### Ecmascript
+
+- [Automatic semicolon insertions in JavaScript](https://articles.wesionary.team/automatic-semicolon-insertions-in-javascript-best-practices-c49ed8222e12)
+
 ### Rust
 
 - [Why Static Languages Suffer From Complexity](https://hirrolot.github.io/posts/why-static-languages-suffer-from-complexity)
