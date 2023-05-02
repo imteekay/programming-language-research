@@ -194,6 +194,7 @@ Tooking classes to learn compiler theory more in-depth. Here's all courses I too
 ### Ecmascript
 
 - [Automatic semicolon insertions in JavaScript](https://articles.wesionary.team/automatic-semicolon-insertions-in-javascript-best-practices-c49ed8222e12)
+- [`SingleEscapeCharacter`](https://262.ecma-international.org/13.0/#prod-SingleEscapeCharacter)
 
 ### Rust
 
