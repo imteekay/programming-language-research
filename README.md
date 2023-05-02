@@ -151,6 +151,7 @@ Tooking classes to learn compiler theory more in-depth. Here's all courses I too
 - [Discrete Math — Dr. Trefor Bazett](https://www.youtube.com/playlist?list=PLHXZ9OQGMqxersk8fUxiUMSIx0DBqsKZS)
 - [Building a Typechecker from scratch](https://www.udemy.com/course/typechecker)
 - [Hindley-Milner Type Checking AST](https://adamdoupe.com/teaching/classes/cse340-principles-of-programming-languages-f15/slides/Hindley-MilnerTypeChecking-Mohsen-Zohrevandi.pdf)
+- [The Hindley-Milner Type System](https://www.youtube.com/watch?v=OyrByPkiX7s&ab_channel=NicolasLaurent)
 
 ## Virtual Machines (VMs)
 
