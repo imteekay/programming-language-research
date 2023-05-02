@@ -152,6 +152,8 @@ Tooking classes to learn compiler theory more in-depth. Here's all courses I too
 - [Building a Typechecker from scratch](https://www.udemy.com/course/typechecker)
 - [Hindley-Milner Type Checking AST](https://adamdoupe.com/teaching/classes/cse340-principles-of-programming-languages-f15/slides/Hindley-MilnerTypeChecking-Mohsen-Zohrevandi.pdf)
 - [The Hindley-Milner Type System](https://www.youtube.com/watch?v=OyrByPkiX7s&ab_channel=NicolasLaurent)
+- ["Hindley-Milner Type Inference — Part 1](https://www.youtube.com/watch?v=cQf_6NsLp80&ab_channel=AdamDoup%C3%A9)
+- ["Hindley-Milner Type Inference — Part 2](https://www.youtube.com/watch?v=xJXcZp2vgLs&list=PLK06XT3hFPzilgF1mi_hHqcXO1-o_8OEe&index=37&ab_channel=AdamDoup%C3%A9)
 
 ## Virtual Machines (VMs)
 
