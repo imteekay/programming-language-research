@@ -69,6 +69,7 @@ Tooking classes to learn compiler theory more in-depth. Here's all courses I too
 - [CS520 Theories of Programming Languages — KAIST](https://www.youtube.com/playlist?list=PLvV9DPeJV9xx0NegrG4gNu8WXSXibDICu)
 - [Panel: The Future of Programming Languages](https://learn.microsoft.com/en-us/events/pdc-pdc08/tl57)
 - [Shriram Krishnamurthi and Joe Gibbs Politz - Programming Languages: Application and Interpretation](http://papl.cs.brown.edu/2015/)
+- [Principles of Programming Languages](https://www.youtube.com/playlist?list=PLK06XT3hFPzilgF1mi_hHqcXO1-o_8OEe)
 
 ## Compilers
 
