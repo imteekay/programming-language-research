@@ -110,6 +110,7 @@ Tooking classes to learn compiler theory more in-depth. Here's all courses I too
 - [Garbage Collection Algorithms](https://www.dmitrysoshnikov.education/p/essentials-of-garbage-collectors)
 - [Building a Parser from scratch](https://www.dmitrysoshnikov.education/p/parser-from-scratch)
 - [Parsing Algorithms](https://www.dmitrysoshnikov.education/p/essentials-of-parsing)
+- [IU Compiler Course](https://iucompilercourse.github.io/IU-P423-P523-E313-E513-Fall-2020)
 
 ### Interpreter
 
