@@ -201,6 +201,7 @@ Tooking classes to learn compiler theory more in-depth. Here's all courses I too
 - [Reconstructing TypeScript, part 3: operators and singleton types](https://jaked.org/blog/2021-10-06-Reconstructing-TypeScript-part-3)
 - [Reconstructing TypeScript, part 4: union types](https://jaked.org/blog/2021-10-14-Reconstructing-TypeScript-part-4)
 - [Reconstructing TypeScript, part 5: intersection types](https://jaked.org/blog/2021-10-28-Reconstructing-TypeScript-part-5)
+- [Reconstructing TypeScript, part 6: narrowing](https://jaked.org/blog/2021-11-11-Reconstructing-TypeScript-part-6)
 
 ### Ecmascript
 
