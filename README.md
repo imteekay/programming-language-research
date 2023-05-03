@@ -112,6 +112,7 @@ Tooking classes to learn compiler theory more in-depth. Here's all courses I too
 - [Building a Parser from scratch](https://www.dmitrysoshnikov.education/p/parser-from-scratch)
 - [Parsing Algorithms](https://www.dmitrysoshnikov.education/p/essentials-of-parsing)
 - [IU Compiler Course](https://iucompilercourse.github.io/IU-P423-P523-E313-E513-Fall-2020)
+- [Building a parser in C#, from first principles](https://www.youtube.com/watch?v=klHyc9HQnNQ&ab_channel=NDCConferences)
 
 ### Interpreter
 
