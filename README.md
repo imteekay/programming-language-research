@@ -113,6 +113,7 @@ Tooking classes to learn compiler theory more in-depth. Here's all courses I too
 - [Parsing Algorithms](https://www.dmitrysoshnikov.education/p/essentials-of-parsing)
 - [IU Compiler Course](https://iucompilercourse.github.io/IU-P423-P523-E313-E513-Fall-2020)
 - [Building a parser in C#, from first principles](https://www.youtube.com/watch?v=klHyc9HQnNQ&ab_channel=NDCConferences)
+- [Flattening ASTs (and Other Compiler Data Structures)](https://www.cs.cornell.edu/~asampson/blog/flattening.html)
 
 ### Interpreter
 
