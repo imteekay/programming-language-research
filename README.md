@@ -217,6 +217,7 @@ Tooking classes to learn compiler theory more in-depth. Here's all courses I too
 - [Empty Statement](https://tc39.es/ecma262/multipage/ecmascript-language-statements-and-declarations.html#sec-empty-statement)
 - [JavaScript Garbage Collector](https://javascript.info/garbage-collection)
 - [V8: Garbage Collection](https://jayconrod.com/posts/55/a-tour-of-v8-garbage-collection)
+- [V8: full compiler](https://jayconrod.com/posts/51/a-tour-of-v8--full-compiler)
 
 ### Rust
 
