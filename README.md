@@ -220,6 +220,7 @@ Tooking classes to learn compiler theory more in-depth. Here's all courses I too
 - [V8: full compiler](https://jayconrod.com/posts/51/a-tour-of-v8--full-compiler)
 - [Relation of Garbage Collector and Closure in JavaScript](https://www.geeksforgeeks.org/relation-of-garbage-collector-and-closure-in-javascript)
 - [JavaScript Memory management](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Memory_management)
+- [JavaScript Closures](http://jibbering.com/faq/notes/closures)
 
 ### Rust
 
