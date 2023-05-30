@@ -218,6 +218,7 @@ Tooking classes to learn compiler theory more in-depth. Here's all courses I too
 - [JavaScript Garbage Collector](https://javascript.info/garbage-collection)
 - [V8: Garbage Collection](https://jayconrod.com/posts/55/a-tour-of-v8-garbage-collection)
 - [V8: full compiler](https://jayconrod.com/posts/51/a-tour-of-v8--full-compiler)
+- [Relation of Garbage Collector and Closure in JavaScript](https://www.geeksforgeeks.org/relation-of-garbage-collector-and-closure-in-javascript)
 
 ### Rust
 
