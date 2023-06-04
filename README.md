@@ -210,6 +210,7 @@ Tooking classes to learn compiler theory more in-depth. Here's all courses I too
 - [Reconstructing TypeScript, part 6: narrowing](https://jaked.org/blog/2021-11-11-Reconstructing-TypeScript-part-6)
 - [AreTheTypesWrong with Andrew Branch](https://www.youtube.com/watch?v=8pOi1ccd280&ab_channel=MichiganTypeScript)
 - [Static TypeScript](https://www.microsoft.com/en-us/research/uploads/prod/2019/09/mplr19main-id10-p-41a6cf2-42682-final.pdf)
+- [JavaScript scope, Closures, and the TypeScript compiler](https://iamtk.co/javascript-scope-closures-and-the-typescript-compiler)
 
 ### Ecmascript
 
