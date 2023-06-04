@@ -116,6 +116,7 @@ Tooking classes to learn compiler theory more in-depth. Here's all courses I too
 - [Flattening ASTs (and Other Compiler Data Structures)](https://www.cs.cornell.edu/~asampson/blog/flattening.html)
 - [Pursuit of Performance on Building a JavaScript Compiler](https://rustmagazine.org/issue-3/javascript-compiler)
 - [How would compilers change in the next 10 years?](https://www.youtube.com/watch?v=p15qRHZ_Leg&ab_channel=CompilerConstruction)
+- [How To Build A Programming Language From Scratch](https://www.youtube.com/watch?v=8VB5TY1sIRo&list=PL_2VhOvlMk4UHGqYCLWc6GO8FaPl8fQTh&ab_channel=tylerlaceby)
 
 ### Interpreter
 
@@ -208,12 +209,20 @@ Tooking classes to learn compiler theory more in-depth. Here's all courses I too
 - [Reconstructing TypeScript, part 5: intersection types](https://jaked.org/blog/2021-10-28-Reconstructing-TypeScript-part-5)
 - [Reconstructing TypeScript, part 6: narrowing](https://jaked.org/blog/2021-11-11-Reconstructing-TypeScript-part-6)
 - [AreTheTypesWrong with Andrew Branch](https://www.youtube.com/watch?v=8pOi1ccd280&ab_channel=MichiganTypeScript)
+- [Static TypeScript](https://www.microsoft.com/en-us/research/uploads/prod/2019/09/mplr19main-id10-p-41a6cf2-42682-final.pdf)
 
 ### Ecmascript
 
 - [Automatic semicolon insertions in JavaScript](https://articles.wesionary.team/automatic-semicolon-insertions-in-javascript-best-practices-c49ed8222e12)
 - [`SingleEscapeCharacter`](https://262.ecma-international.org/13.0/#prod-SingleEscapeCharacter)
 - [Empty Statement](https://tc39.es/ecma262/multipage/ecmascript-language-statements-and-declarations.html#sec-empty-statement)
+- [JavaScript Garbage Collector](https://javascript.info/garbage-collection)
+- [V8: Garbage Collection](https://jayconrod.com/posts/55/a-tour-of-v8-garbage-collection)
+- [V8: full compiler](https://jayconrod.com/posts/51/a-tour-of-v8--full-compiler)
+- [Relation of Garbage Collector and Closure in JavaScript](https://www.geeksforgeeks.org/relation-of-garbage-collector-and-closure-in-javascript)
+- [JavaScript Memory management](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Memory_management)
+- [JavaScript Closures](http://jibbering.com/faq/notes/closures)
+- [Create Your Own JavaScript Runtime](https://www.youtube.com/watch?v=ynNDmp7hBdo&ab_channel=ErickWendel)
 
 ### Rust
 
