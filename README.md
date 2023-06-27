@@ -163,6 +163,10 @@ Tooking classes to learn compiler theory more in-depth. Here's all courses I too
 - [A reckless introduction to Hindley-Milner type inference](https://www.lesswrong.com/posts/vTS8K4NBSi9iyCrPo/a-reckless-introduction-to-hindley-milner-type-inference)
 - [Type Systems by Luca Cardelli, Microsoft Research](http://lucacardelli.name/papers/typesystems.pdf)
 
+### Parsers
+
+- [Rewriting the Ruby parser](https://railsatscale.com/2023-06-12-rewriting-the-ruby-parser)
+
 ## Virtual Machines (VMs)
 
 - [Building a Virtual Machine](https://www.dmitrysoshnikov.education/p/virtual-machine)
