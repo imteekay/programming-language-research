@@ -236,6 +236,7 @@ Tooking classes to learn compiler theory more in-depth. Here's all courses I too
 
 - [Why Static Languages Suffer From Complexity](https://hirrolot.github.io/posts/why-static-languages-suffer-from-complexity)
 - [Things I Learned (TIL) - Nicholas Matsakis](https://www.youtube.com/watch?v=LIYkT3p5gTs&ab_channel=PLISS)
+- [Rust fact vs. fiction: 5 Insights from Google's Rust journey in 2022](https://opensource.googleblog.com/2023/06/rust-fact-vs-fiction-5-insights-from-googles-rust-journey-2022.html)
 
 ### OCaml
 
