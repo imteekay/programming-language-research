@@ -236,6 +236,10 @@ Tooking classes to learn compiler theory more in-depth. Here's all courses I too
 - [Why Static Languages Suffer From Complexity](https://hirrolot.github.io/posts/why-static-languages-suffer-from-complexity)
 - [Things I Learned (TIL) - Nicholas Matsakis](https://www.youtube.com/watch?v=LIYkT3p5gTs&ab_channel=PLISS)
 
+### OCaml
+
+- [How Jane Street is making OCaml the new Rust](https://www.efinancialcareers.com/news/2023/06/jane-street-programming-language)
+
 ## Browser
 
 - [Browser from scratch](https://zerox-dg.github.io/blog/tags/browser-from-scratch/)
