@@ -71,6 +71,7 @@ Tooking classes to learn compiler theory more in-depth. Here's all courses I too
 - [Shriram Krishnamurthi and Joe Gibbs Politz - Programming Languages: Application and Interpretation](http://papl.cs.brown.edu/2015/)
 - [Principles of Programming Languages](https://www.youtube.com/playlist?list=PLK06XT3hFPzilgF1mi_hHqcXO1-o_8OEe)
 - [The Next Programming Language - Douglas Crockford](https://www.youtube.com/watch?v=R2idkNdKqpQ&ab_channel=code%3A%3Adiveconference)
+- [Going beyond JavaScript](https://www.youtube.com/watch?v=VwisE497Nsg&ab_channel=Intelligence.ai%3AConcepts-FirstPodcast)
 
 ## Compilers
 
