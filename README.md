@@ -220,6 +220,7 @@ Tooking classes to learn compiler theory more in-depth. Here's all courses I too
 - [JavaScript scope, Closures, and the TypeScript compiler](https://iamtk.co/javascript-scope-closures-and-the-typescript-compiler)
 - [A preview of Ezno's checker](https://kaleidawave.github.io/posts/a-preview-of-the-checker)
 - [Modules in TypeScript](https://gist.github.com/andrewbranch/79f872a8b9f0507c9c5f2641cfb3efa6)
+- [TypeScript / How the compiler compiles](https://www.huy.rocks/everyday/04-01-2022-typescript-how-the-compiler-compiles)
 
 ### Ecmascript
 
