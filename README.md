@@ -164,6 +164,7 @@ Tooking classes to learn compiler theory more in-depth. Here's all courses I too
 - ["Hindley-Milner Type Inference — Part 2](https://www.youtube.com/watch?v=xJXcZp2vgLs&list=PLK06XT3hFPzilgF1mi_hHqcXO1-o_8OEe&index=37&ab_channel=AdamDoup%C3%A9)
 - [A reckless introduction to Hindley-Milner type inference](https://www.lesswrong.com/posts/vTS8K4NBSi9iyCrPo/a-reckless-introduction-to-hindley-milner-type-inference)
 - [Type Systems by Luca Cardelli, Microsoft Research](http://lucacardelli.name/papers/typesystems.pdf)
+- [What is Gradual Typing](https://wphomes.soic.indiana.edu/jsiek/what-is-gradual-typing)
 
 ### Parsers
 
