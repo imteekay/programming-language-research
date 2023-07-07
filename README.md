@@ -167,6 +167,7 @@ Tooking classes to learn compiler theory more in-depth. Here's all courses I too
 - [Type Systems by Luca Cardelli, Microsoft Research](http://lucacardelli.name/papers/typesystems.pdf)
 - [What is Gradual Typing](https://wphomes.soic.indiana.edu/jsiek/what-is-gradual-typing)
 - [Introduction to Type Theory](https://www.cs.uoregon.edu/research/summerschool/summer22/topics.php)
+- [Gradual Type Theory](https://www.youtube.com/watch?v=EGKeWg2ES0A&ab_channel=POPL2019)
 
 ### Parsers
 
