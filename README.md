@@ -73,6 +73,7 @@ Tooking classes to learn compiler theory more in-depth. Here's all courses I too
 - [The Next Programming Language - Douglas Crockford](https://www.youtube.com/watch?v=R2idkNdKqpQ&ab_channel=code%3A%3Adiveconference)
 - [Going beyond JavaScript](https://www.youtube.com/watch?v=VwisE497Nsg&ab_channel=Intelligence.ai%3AConcepts-FirstPodcast)
 - [Stephanie Weirich speaks about Programming Language Design](https://www.youtube.com/watch?v=gLTDyrAY4Hk)
+- [Principles of Programming Languages](https://www.cs.toronto.edu/~david/course-notes/csc324.pdf)
 
 ## Compilers
 
