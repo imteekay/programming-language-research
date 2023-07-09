@@ -75,6 +75,7 @@ Tooking classes to learn compiler theory more in-depth. Here's all courses I too
 - [Stephanie Weirich speaks about Programming Language Design](https://www.youtube.com/watch?v=gLTDyrAY4Hk)
 - [Principles of Programming Languages](https://www.cs.toronto.edu/~david/course-notes/csc324.pdf)
 - [Concepts of Programming Languages](https://www.ime.usp.br/~alvaroma/ucsp/proglang/book.pdf)
+- [Principles of Programming Languages by Robert M. Siegfried](https://www.youtube.com/playlist?list=PLTo1TmBz2ekof8VsYaoTxP-9VgJ9P-dTO)
 
 ## Compilers
 
