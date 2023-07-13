@@ -32,6 +32,7 @@ Tooking classes to learn compiler theory more in-depth. Here's all courses I too
 - [Programming Languages: Application and Interpretation](https://www.goodreads.com/book/show/10580126-programming-languages)
 - [Type Theory and Functional Programming](https://www.goodreads.com/book/show/11364683-type-theory-and-functional-programming)
 - [Type Theory and Formal Proof: An Introduction](https://www.goodreads.com/book/show/21442441-type-theory-and-formal-proof)
+- [Homotopy Type Theory](https://www.goodreads.com/book/show/18106978-homotopy-type-theory)
 
 ### Experiments
 
