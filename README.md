@@ -259,6 +259,10 @@ Tooking classes to learn compiler theory more in-depth. Here's all courses I too
 
 - [How Jane Street is making OCaml the new Rust](https://www.efinancialcareers.com/news/2023/06/jane-street-programming-language)
 
+## PL Research
+
+- [Increasing the Impact of PL Research](http://www.pl-enthusiast.net/2020/07/29/increasing-the-impact-of-pl-research)
+
 ## Browser
 
 - [Browser from scratch](https://zerox-dg.github.io/blog/tags/browser-from-scratch/)
