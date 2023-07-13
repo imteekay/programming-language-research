@@ -262,6 +262,7 @@ Tooking classes to learn compiler theory more in-depth. Here's all courses I too
 ## PL Research
 
 - [Increasing the Impact of PL Research](http://www.pl-enthusiast.net/2020/07/29/increasing-the-impact-of-pl-research)
+- [What is PL research and how is it useful?](http://www.pl-enthusiast.net/2015/05/27/what-is-pl-research-and-how-is-it-useful)
 
 ## Browser
 
