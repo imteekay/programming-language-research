@@ -86,9 +86,7 @@ Tooking classes to learn compiler theory more in-depth. Here's all courses I too
 - [Principles of Programming Languages by Robert M. Siegfried](https://www.youtube.com/playlist?list=PLTo1TmBz2ekof8VsYaoTxP-9VgJ9P-dTO)
 - [Concepts of Programming Languages](https://www.youtube.com/playlist?list=PLgybIyDbLkEQUTX00Mazlcb7KhX1UzpXs)
 
-## Compilers
-
-### Compiler Construction
+## Compiler
 
 - [Let's build a compiler](https://generalproblem.net/)
 - [Compiler Design course](https://www.youtube.com/playlist?list=PLDAE55AEE0731D729&feature=plcp)
@@ -133,7 +131,7 @@ Tooking classes to learn compiler theory more in-depth. Here's all courses I too
 - [How would compilers change in the next 10 years?](https://www.youtube.com/watch?v=p15qRHZ_Leg&ab_channel=CompilerConstruction)
 - [How To Build A Programming Language From Scratch](https://www.youtube.com/watch?v=8VB5TY1sIRo&list=PL_2VhOvlMk4UHGqYCLWc6GO8FaPl8fQTh&ab_channel=tylerlaceby)
 
-### Interpreter
+## Interpreter
 
 - [Building an Interpreter](https://www.iamtk.co/series/building-an-interpreter)
 - [Crafting an Interpreter](https://github.com/imteekay/crafting-an-interpreter)
@@ -148,7 +146,7 @@ Tooking classes to learn compiler theory more in-depth. Here's all courses I too
 - [Building an Interpreter from scratch](https://www.dmitrysoshnikov.education/p/essentials-of-interpretation)
 - [Cheaply writing a fast interpreter](https://www.youtube.com/watch?v=V8dnIw3amLA&ab_channel=PerformanceSummit)
 
-### Modern Compilers
+## Modern Compilers
 
 - [Write you a Haskell](http://dev.stephendiehl.com/fun/)
 - [Quick look at the TypeScript Compiler API](https://www.youtube.com/watch?v=AnjfW633e8o%E2%80%8E.%E2%80%8Edev)
@@ -156,7 +154,7 @@ Tooking classes to learn compiler theory more in-depth. Here's all courses I too
 - [TypeScript Compiler Notes](https://github.com/microsoft/TypeScript-Compiler-Notes)
 - [A miniature model of the Typescript compiler](https://github.com/sandersn/mini-typescript)
 
-### Type System
+## Type System
 
 - [Let's build a typesystem in Haskell!](https://www.youtube.com/watch?v=aZFWY6DxX54)
 - [Safe & Efficient Gradual Typing for TypeScript](https://www.cs.umd.edu/~aseem/safets.pdf)
@@ -183,7 +181,7 @@ Tooking classes to learn compiler theory more in-depth. Here's all courses I too
 - [Gradual Typing: A New Perspective](https://www.youtube.com/watch?v=JuwHDskX7Qg&ab_channel=POPL2019)
 - [Putting gradual types to work](https://arxiv.org/pdf/2101.12299.pdf)
 
-### Parsers
+## Parsers
 
 - [Rewriting the Ruby parser](https://railsatscale.com/2023-06-12-rewriting-the-ruby-parser)
 
