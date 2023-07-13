@@ -30,6 +30,7 @@ Tooking classes to learn compiler theory more in-depth. Here's all courses I too
 - [Concepts of Programming Languages](https://www.goodreads.com/book/show/603257.Concepts_of_Programming_Languages)
 - [How to Design Programs: An Introduction to Programming and Computing](https://www.goodreads.com/book/show/1119079.How_to_Design_Programs)
 - [Programming Languages: Application and Interpretation](https://www.goodreads.com/book/show/10580126-programming-languages)
+- [Type Theory and Functional Programming](https://www.goodreads.com/book/show/11364683-type-theory-and-functional-programming)
 
 ### Experiments
 
