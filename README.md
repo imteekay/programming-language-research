@@ -27,6 +27,7 @@ Tooking classes to learn compiler theory more in-depth. Here's all courses I too
 - [Modern Compiler Design](https://www.amazon.com/Modern-Compiler-Design-Dick-Grune/dp/1461446988/ref=sr_1_1?crid=7JFBNCBOHIW9&keywords=Modern+Compiler+Design&qid=1675768609&s=books&sprefix=modern+compiler+design%2Cstripbooks-intl-ship%2C228&sr=1-1)
 - [The Elements Of Computing Systems](https://www.amazon.com/Elements-Computing-Systems-second-Principles/dp/0262539802/ref=sr_1_1?crid=2CZ8FBOMQ0X7C&keywords=The+Elements+Of+Computing+Systems&qid=1675768639&s=books&sprefix=the+elements+of+computing+systems%2Cstripbooks-intl-ship%2C463&sr=1-1)
 - [Parsing Techniques: A Practical Guide](https://www.goodreads.com/en/book/show/1756599)
+- [Concepts of Programming Languages](https://www.goodreads.com/book/show/603257.Concepts_of_Programming_Languages)
 
 ### Experiments
 
