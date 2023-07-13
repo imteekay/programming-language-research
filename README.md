@@ -35,6 +35,8 @@ Tooking classes to learn compiler theory more in-depth. Here's all courses I too
 - [Homotopy Type Theory](https://www.goodreads.com/book/show/18106978-homotopy-type-theory)
 - [Compiling with Continuations](https://www.goodreads.com/book/show/2079575.Compiling_with_Continuations)
 - [Compiler Design](https://www.goodreads.com/book/show/5205564-compiler-design-mar-15-2006-chattopadhyay-santanu)
+- [Practical Foundations for Programming Languages](https://www.amazon.com/Practical-Foundations-Programming-Languages-Professor/dp/1107029570)
+- [HTDP](https://htdp.org/2020-8-1/Book/index.html)
 
 ### Experiments
 
@@ -52,6 +54,8 @@ Tooking classes to learn compiler theory more in-depth. Here's all courses I too
 - [Call-by-name, call-by-value, and the λ-calculus](https://www.sciencedirect.com/science/article/pii/0304397575900171?ref=pdf_download&fr=RR-2&rr=795ba8dc2acd4edd)
 - [A syntactic approach to type soundness](https://web.eecs.umich.edu/~weimerw/2008-615/reading/wright92syntactic.pdf)
 - [Fundamental concepts in programming languages](https://www.math.pku.edu.cn/teachers/qiuzy/plan/lits/FundamentalConceptOfPL.pdf)
+- [Papers to read](https://github.com/haskellcamargo/papers-to-read)
+- [Papers on programming languages: ideas from 70's for today](https://medium.com/@mikhail.barash.mikbar/papers-on-programming-languages-ideas-from-70s-for-today-2931891d4dbd)
 
 ## Programming Language Design / Theory
 
@@ -189,23 +193,15 @@ Tooking classes to learn compiler theory more in-depth. Here's all courses I too
 
 - [Building a Virtual Machine](https://www.dmitrysoshnikov.education/p/virtual-machine)
 
-## Books & Papers
-
-- [Practical Foundations for Programming Languages](https://www.amazon.com/Practical-Foundations-Programming-Languages-Professor/dp/1107029570)
-- [SICP](https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html)
-- [HTDP](https://htdp.org/2020-8-1/Book/index.html)
-- [Papers to read](https://github.com/haskellcamargo/papers-to-read)
-- [Papers on programming languages: ideas from 70's for today](https://medium.com/@mikhail.barash.mikbar/papers-on-programming-languages-ideas-from-70s-for-today-2931891d4dbd)
-
 ## Language Learnings
 
-- [JavaScript](https://github.com/imteekay/programming-language-theory/tree/master/language-learning/javascript)
-- [Python](https://github.com/imteekay/programming-language-theory/tree/master/language-learning/python)
-- [Ruby](https://github.com/imteekay/programming-language-theory/tree/master/language-learning/ruby)
-- [Haskell](https://github.com/imteekay/programming-language-theory/tree/master/language-learning/haskell)
-- [Elixir](https://github.com/imteekay/programming-language-theory/tree/master/language-learning/elixir)
-- [Clojure](https://github.com/imteekay/programming-language-theory/tree/master/language-learning/clojure)
-- [Rust](https://github.com/imteekay/programming-language-theory/tree/master/language-learning/rust)
+- [JavaScript](https://github.com/imteekay/programming-language-research/tree/master/language-learning/javascript)
+- [Python](https://github.com/imteekay/programming-language-research/tree/master/language-learning/python)
+- [Ruby](https://github.com/imteekay/programming-language-research/tree/master/language-learning/ruby)
+- [Haskell](https://github.com/imteekay/programming-language-research/tree/master/language-learning/haskell)
+- [Elixir](https://github.com/imteekay/programming-language-research/tree/master/language-learning/elixir)
+- [Clojure](https://github.com/imteekay/programming-language-research/tree/master/language-learning/clojure)
+- [Rust](https://github.com/imteekay/programming-language-research/tree/master/language-learning/rust)
 
 ### TypeScript
 
