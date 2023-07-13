@@ -29,6 +29,7 @@ Tooking classes to learn compiler theory more in-depth. Here's all courses I too
 - [Parsing Techniques: A Practical Guide](https://www.goodreads.com/en/book/show/1756599)
 - [Concepts of Programming Languages](https://www.goodreads.com/book/show/603257.Concepts_of_Programming_Languages)
 - [How to Design Programs: An Introduction to Programming and Computing](https://www.goodreads.com/book/show/1119079.How_to_Design_Programs)
+- [Programming Languages: Application and Interpretation](https://www.goodreads.com/book/show/10580126-programming-languages)
 
 ### Experiments
 
