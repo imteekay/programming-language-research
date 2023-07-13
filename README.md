@@ -57,7 +57,7 @@ Tooking classes to learn compiler theory more in-depth. Here's all courses I too
 - [Papers to read](https://github.com/haskellcamargo/papers-to-read)
 - [Papers on programming languages: ideas from 70's for today](https://medium.com/@mikhail.barash.mikbar/papers-on-programming-languages-ideas-from-70s-for-today-2931891d4dbd)
 
-## Programming Language Design / Theory
+## Programming Language Design / PLT
 
 - [A Tale of Two Asyncs: Open Source Language Design in Rust and Node.js](https://www.youtube.com/watch?v=aGJTXdXQN2o)
 - [Another Go at Language Design](https://www.youtube.com/watch?v=7VcArS4Wpqk)
