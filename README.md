@@ -32,7 +32,7 @@ Tooking classes to learn compiler theory more in-depth. Here's all courses I too
 
 - [An interpreter for the Monkey programming language](https://github.com/imteekay/crafting-an-interpreter)
 - [An interpreter for the Lox programming language](./research/experiments/lox.ts)
-- [How the TypeScript compiler works](./research/experiments/typescript)
+- [How the TypeScript compiler works](https://www.iamtk.co/series/the-typescript-compiler)
 
 ### Papers
 
