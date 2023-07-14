@@ -186,6 +186,7 @@ Tooking classes to learn compiler theory more in-depth. Here's all courses I too
 - [Gradual Typing: A New Perspective](https://www.youtube.com/watch?v=JuwHDskX7Qg&ab_channel=POPL2019)
 - [Putting gradual types to work](https://arxiv.org/pdf/2101.12299.pdf)
 - [What Is Decidable about Gradual Types?](https://dl.acm.org/doi/pdf/10.1145/3371097)
+- [What is Decidable about Gradual Types?](https://www.youtube.com/watch?v=rPZ7HhyGPh4&ab_channel=ACMSIGPLAN)
 
 ## Parsers
 
