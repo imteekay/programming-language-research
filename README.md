@@ -61,6 +61,7 @@ Tooking classes to learn compiler theory more in-depth. Here's all courses I too
 - [Abstracting Gradual Typing](https://www.cs.ubc.ca/~rxg/agt.pdf)
 - [Efficient Gradual Typing](https://arxiv.org/pdf/1802.06375.pdf)
 - [Towards Practical Gradual Typing](https://www2.ccs.neu.edu/racket/pubs/ecoop2015-takikawa-et-al.pdf)
+- [The Behavior of Gradual Types: A User Study](https://cs.brown.edu/~sk/Publications/Papers/Published/tgpk-beh-grad-types-user-study/paper.pdf)
 
 ## Programming Language Design / PLT
 
