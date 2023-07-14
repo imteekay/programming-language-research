@@ -57,6 +57,7 @@ Tooking classes to learn compiler theory more in-depth. Here's all courses I too
 - [Fundamental concepts in programming languages](https://www.math.pku.edu.cn/teachers/qiuzy/plan/lits/FundamentalConceptOfPL.pdf)
 - [Papers to read](https://github.com/haskellcamargo/papers-to-read)
 - [Papers on programming languages: ideas from 70's for today](https://medium.com/@mikhail.barash.mikbar/papers-on-programming-languages-ideas-from-70s-for-today-2931891d4dbd)
+- [Pluggable Type Systems](https://bracha.org/pluggableTypesPosition.pdf)
 
 ## Programming Language Design / PLT
 
