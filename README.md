@@ -58,6 +58,7 @@ Tooking classes to learn compiler theory more in-depth. Here's all courses I too
 - [Papers to read](https://github.com/haskellcamargo/papers-to-read)
 - [Papers on programming languages: ideas from 70's for today](https://medium.com/@mikhail.barash.mikbar/papers-on-programming-languages-ideas-from-70s-for-today-2931891d4dbd)
 - [Pluggable Type Systems](https://bracha.org/pluggableTypesPosition.pdf)
+- [Abstracting Gradual Typing](https://www.cs.ubc.ca/~rxg/agt.pdf)
 
 ## Programming Language Design / PLT
 
