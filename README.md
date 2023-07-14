@@ -60,6 +60,7 @@ Tooking classes to learn compiler theory more in-depth. Here's all courses I too
 - [Pluggable Type Systems](https://bracha.org/pluggableTypesPosition.pdf)
 - [Abstracting Gradual Typing](https://www.cs.ubc.ca/~rxg/agt.pdf)
 - [Efficient Gradual Typing](https://arxiv.org/pdf/1802.06375.pdf)
+- [Towards Practical Gradual Typing](https://www2.ccs.neu.edu/racket/pubs/ecoop2015-takikawa-et-al.pdf)
 
 ## Programming Language Design / PLT
 
