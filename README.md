@@ -37,6 +37,7 @@ Tooking classes to learn compiler theory more in-depth. Here's all courses I too
 - [Compiler Design](https://www.goodreads.com/book/show/5205564-compiler-design-mar-15-2006-chattopadhyay-santanu)
 - [Practical Foundations for Programming Languages](https://www.amazon.com/Practical-Foundations-Programming-Languages-Professor/dp/1107029570)
 - [HTDP](https://htdp.org/2020-8-1/Book/index.html)
+- [Compiler Construction](https://c9x.me/compile/bib/wirthcc.pdf)
 
 ### Experiments
 
