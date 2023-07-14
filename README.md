@@ -346,6 +346,7 @@ Tooking classes to learn compiler theory more in-depth. Here's all courses I too
 - [Dmitry Soshnikov](https://twitter.com/DmitrySoshnikov)
 - [Gilad Bracha](https://bracha.org/Site/Home.html)
 - [Researchers in Programming Languages and Compilers](https://www.cs.cmu.edu/~mleone/language-people.html)
+- [Roberto Giacobazzi](http://profs.sci.univr.it/~giaco/)
 
 ## License
 
