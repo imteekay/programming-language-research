@@ -205,6 +205,10 @@ Tooking classes to learn compiler theory more in-depth. Here's all courses I too
 
 - [Building a Virtual Machine](https://www.dmitrysoshnikov.education/p/virtual-machine)
 
+## Backend
+
+- [How LLVM & Clang work](https://www.youtube.com/watch?v=IR_L1xf4PrU&ab_channel=tanmaybakshi)
+
 ## Language Learnings
 
 - [JavaScript](https://github.com/imteekay/programming-language-research/tree/master/language-learning/javascript)
