@@ -29,18 +29,18 @@
 
 - Hash tables
 - Binary search trees (BST)
-- Balanced search trees (e.g., AVL trees, Red-Black trees)
+- Balanced search trees (e.g. AVL trees, Red-Black trees)
 
 ### Type Checking Algorithms
 
 - Constraint-based type inference algorithms
-- Unification algorithms (e.g., Robinson's unification algorithm)
+- Unification algorithms (e.g. Robinson's unification algorithm)
 
 ### Control Flow Analysis
 
 - Control flow graph (CFG)
 - Dominator analysis
-- Data flow analysis (e.g., reaching definitions, liveness analysis)
+- Data flow analysis (e.g. reaching definitions, liveness analysis)
 
 ### Intermediate Representation (IR)
 
@@ -53,11 +53,11 @@
 - Constant propagation
 - Common subexpression elimination
 - Dead code elimination
-- Loop optimization techniques (e.g., loop unrolling, loop fusion)
+- Loop optimization techniques (e.g. loop unrolling, loop fusion)
 
 ### Code Generation
 
-- Register allocation techniques (e.g., graph coloring, linear scan)
+- Register allocation techniques (e.g. graph coloring, linear scan)
 - Instruction selection and scheduling
 - Stack frame layout
 
