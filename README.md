@@ -253,6 +253,7 @@ Tooking classes to learn compiler theory more in-depth. Here's all courses I too
 - [TypeScript's type-independent output](https://neugierig.org/software/blog/2016/04/typescript-types.html)
 - [Typescript Performance: Going Beyond The Surface](https://www.youtube.com/watch?v=lJ63-j0OHG0&ab_channel=BeJS)
 - [@typescript/analyze-trace](https://github.com/microsoft/typescript-analyze-trace)
+- [TypeScript Performance](https://github.com/microsoft/TypeScript/wiki/Performance)
 
 ### Ecmascript
 
