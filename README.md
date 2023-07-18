@@ -251,6 +251,7 @@ Tooking classes to learn compiler theory more in-depth. Here's all courses I too
 - [TypeScript / How the compiler compiles](https://www.huy.rocks/everyday/04-01-2022-typescript-how-the-compiler-compiles)
 - [TypeScript Compiler Internals](https://basarat.gitbook.io/typescript/overview)
 - [TypeScript's type-independent output](https://neugierig.org/software/blog/2016/04/typescript-types.html)
+- [Typescript Performance: Going Beyond The Surface](https://www.youtube.com/watch?v=lJ63-j0OHG0&ab_channel=BeJS)
 
 ### Ecmascript
 
