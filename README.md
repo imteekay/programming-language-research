@@ -349,6 +349,7 @@ Tooking classes to learn compiler theory more in-depth. Here's all courses I too
 
 - [Compiler Engineer Path](http://dmitrysoshnikov.com/courses/compiler-engineer-path)
 - [PLR & Compiler Learning Path](learning-path.md)
+- [Programming Language Theory Path](https://steshaw.org/plt)
 
 ## People in PL
 
