@@ -64,6 +64,7 @@ Tooking classes to learn compiler theory more in-depth. Here's all courses I too
 - [Towards Practical Gradual Typing](https://www2.ccs.neu.edu/racket/pubs/ecoop2015-takikawa-et-al.pdf)
 - [The Behavior of Gradual Types: A User Study](https://cs.brown.edu/~sk/Publications/Papers/Published/tgpk-beh-grad-types-user-study/paper.pdf)
 - [Gradual Typing: A New Perspective](https://www.irif.fr/~gc/papers/popl19.pdf)
+- [What every compiler writer should know about programmers](https://www.complang.tuwien.ac.at/kps2015/proceedings/KPS_2015_submission_29.pdf)
 
 ## Programming Language Design / PLT
 
