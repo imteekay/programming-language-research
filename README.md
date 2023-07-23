@@ -71,6 +71,14 @@ Tooking classes to learn compiler theory more in-depth. Here's all courses I too
 - [Gradual Type Theory](https://arxiv.org/pdf/1811.02440.pdf)
 - [Refined Criteria for Gradual Typing](https://drops.dagstuhl.de/opus/volltexte/2015/5031/pdf/21.pdf)
 - [Gradual Typing for Functional Languages](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=b7ca4b0e6d3119aa341af73964dbe38d341061dd)
+- [On Model Subtyping](https://hal.inria.fr/hal-00695034/document)
+- [On Understanding Types, Data Abstraction, and Polymorphism](http://lucacardelli.name/Papers/OnUnderstanding.A4.pdf)
+- [Programming in Homotopy Type Theory](http://dlicata.web.wesleyan.edu/pubs/lh122tttalks/lh12wg2.8.pdf)
+- [Type Inference Algorithms](http://www.win.tue.nl/~hzantema/semssm.pdf)
+- [Type Inference for Records in a Natural Extension of ML](https://www.cs.cmu.edu/~aldrich/courses/819/row.pdf)
+- [Type Systems](http://lucacardelli.name/papers/typesystems.pdf)
+- [Type Systems for Object-Oriented Programming Languages](http://i.stanford.edu/pub/cstr/reports/cs/tr/98/1602/CS-TR-98-1602.pdf)
+- [Why Dependent Types Matter](http://www.cs.nott.ac.uk/~psztxa/publ/ydtm.pdf)
 
 ## Programming Language Design / PLT
 
