@@ -208,6 +208,7 @@ Tooking classes to learn compiler theory more in-depth. Here's all courses I too
 ## Parsers
 
 - [Rewriting the Ruby parser](https://railsatscale.com/2023-06-12-rewriting-the-ruby-parser)
+- [Building Extensible Parsers with Camlp4](https://asankhaya.github.io/pdf/BuildingExtensibleParserswithCamlp4.pdf)
 
 ## Virtual Machines (VMs)
 
