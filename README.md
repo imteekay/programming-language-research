@@ -18,6 +18,7 @@ Tooking classes to learn compiler theory more in-depth. Here's all courses I too
 - [Introduction to Functional Programming](./research/courses/introduction-to-functional-programming)
 - [UFMG Compilers Course](./research/courses/ufmg-compilers-course)
 - [Programming Languages Ⅰ](https://www.coursera.org/learn/programming-languages-1)
+- [Programming Languages Ⅱ](https://www.coursera.org/learn/programming-languages2)
 
 ### Books & Notes
 
