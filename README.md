@@ -272,6 +272,7 @@ Tooking classes to learn compiler theory more in-depth. Here's all courses I too
 - [@typescript/analyze-trace](https://github.com/microsoft/typescript-analyze-trace)
 - [TypeScript Performance](https://github.com/microsoft/TypeScript/wiki/Performance)
 - [TypeScript Performance Tracing](https://github.com/microsoft/TypeScript/wiki/Performance-Tracing)
+- [Hidden Gems of TypeScript compiler](https://www.youtube.com/watch?v=WkJagE7b5U0&t=12s&ab_channel=NG-BE)
 
 ### Ecmascript
 
