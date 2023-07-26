@@ -79,6 +79,7 @@ Tooking classes to learn compiler theory more in-depth. Here's all courses I too
 - [Type Systems](http://lucacardelli.name/papers/typesystems.pdf)
 - [Type Systems for Object-Oriented Programming Languages](http://i.stanford.edu/pub/cstr/reports/cs/tr/98/1602/CS-TR-98-1602.pdf)
 - [Why Dependent Types Matter](http://www.cs.nott.ac.uk/~psztxa/publ/ydtm.pdf)
+- [Static Typing Where Possible, Dynamic Typing When Needed: The End of the Cold War Between Programming Languages](https://www.ics.uci.edu/~lopes/teaching/inf212W12/readings/rdl04meijer.pdf)
 
 ## Programming Language Design / PLT
 
