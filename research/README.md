@@ -24,4 +24,8 @@
 
 - [How Statically-Typed Functional Programmers Write Code](./papers/how-statically-typed-functional-programmers-write-code)
 
+## Talks
+
+- [A Trip into the Compiler: ES class private fields](./talks/a-trip-into-the-compiler)
+
 </samp>
