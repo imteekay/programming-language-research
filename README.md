@@ -214,6 +214,7 @@ Tooking classes to learn compiler theory more in-depth. Here's all courses I too
 - [Types and Programming Languages Book club](https://www.youtube.com/playlist?list=PLlw1FcLpWd42E0AMWz9fY-oXa_m3DA3SW)
 - [Gradual Typing from Theory to Practice](https://blog.sigplan.org/2019/07/12/gradual-typing-theory-practice)
 - [Type Checking If Expressions](http://journal.stuffwithstuff.com/2023/01/03/type-checking-if-expressions)
+- [Bootstrapping a Type System](http://journal.stuffwithstuff.com/2010/10/29/bootstrapping-a-type-system)
 
 ## Parsers
 
