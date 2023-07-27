@@ -293,6 +293,7 @@ Tooking classes to learn compiler theory more in-depth. Here's all courses I too
 - [Create Your Own JavaScript Runtime](https://www.youtube.com/watch?v=ynNDmp7hBdo&ab_channel=ErickWendel)
 - [JavaScript Static Analysis for Evolving Language Specifications](https://plrg.korea.ac.kr/assets/data/publication/thesis22-park.pdf)
 - [From Research Prototypes to Continuous Integration: Guiding the Design and Implementation of JavaScript](https://blog.sigplan.org/2023/01/12/from-research-prototypes-to-continuous-integration-guiding-the-design-and-implementation-of-javascript)
+- [Deep JavaScript](https://exploringjs.com/deep-js/toc.html)
 
 ### Rust
 
