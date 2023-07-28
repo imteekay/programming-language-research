@@ -75,3 +75,10 @@
 
 - Topological sorting
 - Graph coloring
+
+## Learning the TypeScript compiler
+
+- Design and implement one feature at a time
+- Go through the source code to understand how it's implemented
+- Write down all the questions I have and ask about them on Discord
+- Receive code review from the compiler team
