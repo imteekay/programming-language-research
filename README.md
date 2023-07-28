@@ -371,7 +371,7 @@ Tooking classes to learn compiler theory more in-depth. Here's all courses I too
 - [Swift Type System Engineer](/careers/swift-type-system-engineer-apple.pdf)
 - [Compiler Engineer](/careers/woven-by-toyota.pdf)
 
-### Learning Paths
+## Learning Paths
 
 - [Compiler Engineer Path](http://dmitrysoshnikov.com/courses/compiler-engineer-path)
 - [PLR & Compiler Learning Path](learning-path.md)
