@@ -387,6 +387,10 @@ Tooking classes to learn compiler theory more in-depth. Here's all courses I too
 - [Roberto Giacobazzi](http://profs.sci.univr.it/~giaco/)
 - [Bob Nystrom](http://journal.stuffwithstuff.com)
 
+## Schools
+
+- [Indiana University Bloomington](https://cs.indiana.edu)
+
 ## License
 
 [MIT](/LICENSE) © [TK](https://iamtk.co)
