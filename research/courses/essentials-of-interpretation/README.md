@@ -56,7 +56,7 @@ These are notes from the [Essentials of Interpretation](https://dmitrysoshnikov.
       - the result is in an accumulator register
       - mapped to real via register
 
-## Lecture 3:
+## Lecture 3: Compilers — AOT, JIT, Transpiler
 
 - AOT Compiler — Ahead of time translation
   - it's done before execution
