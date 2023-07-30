@@ -56,4 +56,18 @@ These are notes from the [Essentials of Interpretation](https://dmitrysoshnikov.
       - the result is in an accumulator register
       - mapped to real via register
 
+## Lecture 3:
+
+- AOT Compiler — Ahead of time translation
+  - it's done before execution
+  - code generator
+    - produces intermediate representation
+    - produces native code (x86 / x64)
+- JIT Compiler — translation at runtime
+  - call code generator in runtime, generate native code, and the CPU can interpret that
+  - next time the code is called, it gets from the cache so it doesn't need to go through all the steps again
+- AST Transformer — high level translation, also called transpiler
+  - transform an AST into another AST
+  - it can be the same language (e.g. JS to older versions of JS) or completely different language (e.g. Python to JavaScript)
+
 </samp>
