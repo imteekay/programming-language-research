@@ -12,6 +12,7 @@ All [notes](./research) from my research on programming languages and compilers.
 
 Tooking classes to learn compiler theory more in-depth. Here's all courses I took and the notes I wrote.
 
+- [Essentials of Interpretation](./research/courses/essentials-of-interpretation)
 - [Programming Languages Part A](./research/courses/programming-languages-part-a)
 - [Compilers: Theory and Practice](./research/courses/compilers-theory-and-practice)
 - [Compiler — Stanford](./research/courses/compilers-stanford-course)
