@@ -20,6 +20,7 @@ Tooking classes to learn compiler theory more in-depth. Here's all courses I too
 - [UFMG Compilers Course](./research/courses/ufmg-compilers-course)
 - [Programming Languages Ⅰ](https://www.coursera.org/learn/programming-languages-1)
 - [Programming Languages Ⅱ](https://www.coursera.org/learn/programming-languages2)
+- [Compilers — Stanford](https://online.stanford.edu/courses/soe-ycscs1-compilers)
 
 ### Books & Notes
 
