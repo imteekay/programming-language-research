@@ -70,4 +70,141 @@ These are notes from the [Essentials of Interpretation](https://dmitrysoshnikov.
   - transform an AST into another AST
   - it can be the same language (e.g. JS to older versions of JS) or completely different language (e.g. Python to JavaScript)
 
+## Lecture 4: Eva Programming Language
+
+Representing an AST. For this source code
+
+```
+total = current + 150;
+```
+
+We have this AST
+
+```
+{
+  type: "Assignment",
+  left: {
+    type: "Identifier",
+    value: "total"
+  },
+  right: {
+    type: "Addition",
+    left: {
+      type: "Identifier",
+      value: "current"
+    },
+    right: {
+      type: "Literal",
+      value: 150
+    }
+  }
+}
+```
+
+But it can be simplified
+
+- `type`: 0
+- `left`: 1
+- `right`: 2
+
+```
+{
+  0: "Assignment",
+  1: {
+    0: "Identifier",
+    value: "total"
+  },
+  2: {
+    0: "Addition",
+    1: {
+      0: "Identifier",
+      value: "current"
+    },
+    2: {
+      0: "Literal",
+      value: 150
+    }
+  }
+}
+```
+
+But now that it's using indices, we can transform this from a map to an array
+
+```
+[
+  "Assignment",
+  [
+    "Identifier",
+    "total"
+  ],
+  [
+    "Addition",
+    [
+      "Identifier",
+      "current"
+    ],
+    [
+      "Literal",
+      150
+    ]
+  ]
+]
+```
+
+To simplify even more, we can transform the operators into actual symbols
+
+```
+[
+  "set", // type tag
+  "total", // left hand side
+  [
+    "+", // type tag
+    "current", // left hand side
+    150 // right hand side
+  ] // right hand side
+]
+```
+
+This representation has a name and it's called "S-expression" or "Symbolic expression"
+
+### The Eva programming language
+
+- Expression format
+
+```
+(+ 5 10) // adition -> 15
+(set x 15) // assignment
+(if (> x 10)
+    (print "ok)
+    (print "err))
+```
+
+- Function declaration
+
+```
+(def foo (bar)
+  (+ bar 10))
+```
+
+All functions in Eva are closures.
+
+- Lambda expression: anynmous function
+
+```
+(lambda (x) (* x x) 10) // 10 — IILE - immediately-invoked lambda expression
+```
+
+- Design goals
+  - simple syntax: S-expression
+  - Everything is an expression
+    - statement vs expression
+      - statement: there's no value produced
+      - expression: always produces a value
+  - No explicit return, last evaluated expression is the result
+  - Support first-class functions: assign to variables, pass as arguments, return as values
+  - Static scope: all functions are closures
+  - FP, imperative, OOP
+  - Namespaces and modules
+  - Lambda functions, IILEs
+
 </samp>
