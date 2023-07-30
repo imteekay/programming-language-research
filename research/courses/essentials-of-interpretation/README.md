@@ -207,4 +207,8 @@ All functions in Eva are closures.
   - Namespaces and modules
   - Lambda functions, IILEs
 
+## Lecture 5: Self-evaluating expressions
+
+To define the semantics of the Eva language, we'll be using the BNF (Backus-Naur Form)
+
 </samp>
