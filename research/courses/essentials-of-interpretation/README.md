@@ -38,4 +38,6 @@ These are notes from the [Essentials of Interpretation](https://dmitrysoshnikov.
   - In the very low level, the interpreter exists: the CPU.
     - If you compile the code into machine code (x86/x64), the CPU will be able to execute it
 
+### Lecture 2: AST Interpreters and Virtual Machines
+
 </samp>
