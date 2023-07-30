@@ -40,4 +40,20 @@ These are notes from the [Essentials of Interpretation](https://dmitrysoshnikov.
 
 ### Lecture 2: AST Interpreters and Virtual Machines
 
+- AST based interpreters
+  - Using tree data structures to represent the source code
+- Bytecode based interpreters (VMs)
+  - it has an extra step called bytecode emitter phase to generate bytecode
+  - AST can take more space and slower to traverse
+  - it's plain array of bytes
+  - types
+    - stack-based machines
+      - stack for operands and operators
+      - the result is on top of the stack
+    - regiter-based machines
+      - set of virtual registers
+      - register is a data storage
+      - the result is in an accumulator register
+      - mapped to real via register
+
 </samp>
