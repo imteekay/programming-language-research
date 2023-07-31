@@ -178,6 +178,7 @@ Tooking classes to learn compiler theory more in-depth. Here's all courses I too
 - [Little Lisp interpreter](https://www.recurse.com/blog/21-little-lisp-interpreter)
 - [Building an Interpreter from scratch](https://www.dmitrysoshnikov.education/p/essentials-of-interpretation)
 - [Cheaply writing a fast interpreter](https://www.youtube.com/watch?v=V8dnIw3amLA&ab_channel=PerformanceSummit)
+- [How languages work #1: String interpolation](https://martin.janiczek.cz/2023/07/27/how-languages-work-1-string-interpolation.html)
 
 ## Modern Compilers
 
