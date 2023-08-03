@@ -44,6 +44,7 @@ Tooking classes to learn compiler theory more in-depth. Here's all courses I too
 - [HTDP](https://htdp.org/2020-8-1/Book/index.html)
 - [Compiler Construction](https://c9x.me/compile/bib/wirthcc.pdf)
 - [Discrete Mathematics for Computing](https://www.amazon.com/gp/product/0230216110/ref=sw_img_1?smid=ATVPDKIKX0DER&psc=1)
+- [Introduction to Compilers and Language Design](https://www3.nd.edu/~dthain/compilerbook/compilerbook.pdf)
 
 ### Experiments
 
