@@ -85,6 +85,7 @@ Tooking classes to learn compiler theory more in-depth. Here's all courses I too
 - [Why Dependent Types Matter](http://www.cs.nott.ac.uk/~psztxa/publ/ydtm.pdf)
 - [Static Typing Where Possible, Dynamic Typing When Needed: The End of the Cold War Between Programming Languages](https://www.ics.uci.edu/~lopes/teaching/inf212W12/readings/rdl04meijer.pdf)
 - [Migrating Gradual Types](https://dl.acm.org/doi/pdf/10.1145/3158103)
+- [The Design Principles of the Elixir Type System](https://arxiv.org/pdf/2306.06391.pdf)
 
 ## Programming Language Design / PLT
 
