@@ -121,6 +121,7 @@ Tooking classes to learn compiler theory more in-depth. Here's all courses I too
 - [Concepts of Programming Languages](https://www.youtube.com/playlist?list=PLgybIyDbLkEQUTX00Mazlcb7KhX1UzpXs)
 - [How To Create Your Own Programming Language](https://dev.to/jasonsbarr/how-to-create-your-own-programming-language-2642)
 - [Delimited Continuations, Demystified by Alexis King](https://www.youtube.com/watch?v=TE48LsgVlIU&ab_channel=CodeSync)
+- [Why Study Programming Languages](https://rachit.pl/post/why-study-programming-languages)
 
 ## Compiler
 
