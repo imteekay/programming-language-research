@@ -182,6 +182,7 @@ Tooking classes to learn compiler theory more in-depth. Here's all courses I too
 - [Building an Interpreter from scratch](https://www.dmitrysoshnikov.education/p/essentials-of-interpretation)
 - [Cheaply writing a fast interpreter](https://www.youtube.com/watch?v=V8dnIw3amLA&ab_channel=PerformanceSummit)
 - [How languages work #1: String interpolation](https://martin.janiczek.cz/2023/07/27/how-languages-work-1-string-interpolation.html)
+- [What do people mean when they say “transpiler”?](https://decomposition.al/blog/2017/07/30/what-do-people-mean-when-they-say-transpiler)
 
 ## Modern Compilers
 
