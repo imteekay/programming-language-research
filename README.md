@@ -384,6 +384,7 @@ Tooking classes to learn compiler theory more in-depth. Here's all courses I too
 - [Swift Type System Engineer](/careers/swift-type-system-engineer-apple.pdf)
 - [Compiler Engineer](/careers/woven-by-toyota.pdf)
 - [Groq Compiler Engineer](/careers/groq-compiler-engineer.pdf)
+- [Modular AI Compiler Engineer](/careers/modular-ai-compiler-engineer.pdf)
 
 ## Learning Paths
 
