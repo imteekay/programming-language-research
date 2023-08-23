@@ -227,6 +227,7 @@ Tooking classes to learn compiler theory more in-depth. Here's all courses I too
 - [Bootstrapping a Type System](http://journal.stuffwithstuff.com/2010/10/29/bootstrapping-a-type-system)
 - [Bringing Types to Elixir by Giuseppe Castagna and Guillaume Duboc](https://www.youtube.com/watch?v=gJJH7a2J9O8&ab_channel=CodeSync)
 - [How should I read type system notation?](https://langdev.stackexchange.com/questions/2692/how-should-i-read-type-system-notation/2693#2693)
+- [Propositions as types: explained](https://lawrencecpaulson.github.io/2023/08/23/Propositions_as_Types.html)
 
 ## Parsers
 
