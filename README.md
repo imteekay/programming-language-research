@@ -22,6 +22,7 @@ Tooking classes to learn compiler theory more in-depth. Here's all courses I too
 - [Programming Languages Ⅱ](https://www.coursera.org/learn/programming-languages2)
 - [Compilers — Stanford](https://online.stanford.edu/courses/soe-ycscs1-compilers)
 - [Compilers: Theory and Practice — Udacity](https://www.udacity.com/course/compilers-theory-and-practice--ud168)
+- [Building a Parser from scratch](https://dmitrysoshnikov.teachable.com/p/parser-from-scratch)
 
 ### Books & Notes
 
