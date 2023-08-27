@@ -407,6 +407,7 @@ Tooking classes to learn compiler theory more in-depth. Here's all courses I too
 
 ## Schools
 
+- [Programming Language and Compiler Research Groups](https://www.cs.cmu.edu/~mleone/language/projects.html)
 - [Indiana University Bloomington](https://cs.indiana.edu)
 - [KAIST Programming Language Research Group](https://plrg.kaist.ac.kr)
 - [Tokyo Institute of Technology](https://prg.is.titech.ac.jp)
