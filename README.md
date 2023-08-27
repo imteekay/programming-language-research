@@ -409,6 +409,7 @@ Tooking classes to learn compiler theory more in-depth. Here's all courses I too
 
 - [Indiana University Bloomington](https://cs.indiana.edu)
 - [KAIST Programming Language Research Group](https://plrg.kaist.ac.kr)
+- [Tokyo Institute of Technology](https://www.titech.ac.jp/english)
 
 ## License
 
