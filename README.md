@@ -404,6 +404,7 @@ Tooking classes to learn compiler theory more in-depth. Here's all courses I too
 - [Roberto Giacobazzi](http://profs.sci.univr.it/~giaco/)
 - [Bob Nystrom](http://journal.stuffwithstuff.com)
 - [StackExchange: Programming Language Design and Implementation](https://langdev.stackexchange.com)
+- [Paulette Koronkevich](https://koronkevi.ch)
 
 ## Schools
 
