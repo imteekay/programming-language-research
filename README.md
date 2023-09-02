@@ -169,6 +169,11 @@ Tooking classes to learn compiler theory more in-depth. Here's all courses I too
 - [Pursuit of Performance on Building a JavaScript Compiler](https://rustmagazine.org/issue-3/javascript-compiler)
 - [How would compilers change in the next 10 years?](https://www.youtube.com/watch?v=p15qRHZ_Leg&ab_channel=CompilerConstruction)
 - [How To Build A Programming Language From Scratch](https://www.youtube.com/watch?v=8VB5TY1sIRo&list=PL_2VhOvlMk4UHGqYCLWc6GO8FaPl8fQTh&ab_channel=tylerlaceby)
+- [Write you a Haskell](http://dev.stephendiehl.com/fun/)
+- [Quick look at the TypeScript Compiler API](https://www.youtube.com/watch?v=AnjfW633e8o%E2%80%8E.%E2%80%8Edev)
+- [Typescript Compiler explained by the Author Anders Hejlsberg](https://www.youtube.com/watch?v=f6TCB61fDwY)
+- [TypeScript Compiler Notes](https://github.com/microsoft/TypeScript-Compiler-Notes)
+- [A miniature model of the Typescript compiler](https://github.com/sandersn/mini-typescript)
 
 ## Interpreter
 
@@ -187,13 +192,10 @@ Tooking classes to learn compiler theory more in-depth. Here's all courses I too
 - [How languages work #1: String interpolation](https://martin.janiczek.cz/2023/07/27/how-languages-work-1-string-interpolation.html)
 - [What do people mean when they say “transpiler”?](https://decomposition.al/blog/2017/07/30/what-do-people-mean-when-they-say-transpiler)
 
-## Modern Compilers
+## PL Research
 
-- [Write you a Haskell](http://dev.stephendiehl.com/fun/)
-- [Quick look at the TypeScript Compiler API](https://www.youtube.com/watch?v=AnjfW633e8o%E2%80%8E.%E2%80%8Edev)
-- [Typescript Compiler explained by the Author Anders Hejlsberg](https://www.youtube.com/watch?v=f6TCB61fDwY)
-- [TypeScript Compiler Notes](https://github.com/microsoft/TypeScript-Compiler-Notes)
-- [A miniature model of the Typescript compiler](https://github.com/sandersn/mini-typescript)
+- [Increasing the Impact of PL Research](http://www.pl-enthusiast.net/2020/07/29/increasing-the-impact-of-pl-research)
+- [What is PL research and how is it useful?](http://www.pl-enthusiast.net/2015/05/27/what-is-pl-research-and-how-is-it-useful)
 
 ## Type System
 
@@ -237,13 +239,10 @@ Tooking classes to learn compiler theory more in-depth. Here's all courses I too
 - [Building Extensible Parsers with Camlp4](https://asankhaya.github.io/pdf/BuildingExtensibleParserswithCamlp4.pdf)
 - [Demystifying Pratt Parsers](https://martin.janiczek.cz/2023/07/03/demystifying-pratt-parsers.html)
 
-## Virtual Machines (VMs)
-
-- [Building a Virtual Machine](https://www.dmitrysoshnikov.education/p/virtual-machine)
-
 ## Backend
 
 - [How LLVM & Clang work](https://www.youtube.com/watch?v=IR_L1xf4PrU&ab_channel=tanmaybakshi)
+- [Building a Virtual Machine](https://www.dmitrysoshnikov.education/p/virtual-machine)
 
 ## Language Learnings
 
@@ -322,11 +321,6 @@ Tooking classes to learn compiler theory more in-depth. Here's all courses I too
 
 - [How Jane Street is making OCaml the new Rust](https://www.efinancialcareers.com/news/2023/06/jane-street-programming-language)
 
-## PL Research
-
-- [Increasing the Impact of PL Research](http://www.pl-enthusiast.net/2020/07/29/increasing-the-impact-of-pl-research)
-- [What is PL research and how is it useful?](http://www.pl-enthusiast.net/2015/05/27/what-is-pl-research-and-how-is-it-useful)
-
 ## Browser
 
 - [Browser from scratch](https://zerox-dg.github.io/blog/tags/browser-from-scratch/)
@@ -358,8 +352,12 @@ Tooking classes to learn compiler theory more in-depth. Here's all courses I too
 - [Intro to Rust-lang (Adding a Style Tree to our Browser)](https://www.youtube.com/watch?v=8e37RsyiGSE&list=PLJbE2Yu2zumDF6BX6_RdPisRVHgzV02NW&index=25&ab_channel=TensorProgramming)
 - [Intro to Rust (Building a Browser Engine: Commands and Rendering in OpenGL)](https://www.youtube.com/watch?v=rszgtm7i0n8&list=PLJbE2Yu2zumDF6BX6_RdPisRVHgzV02NW&index=27&ab_channel=TensorProgramming)
 - [Chrome University 2018: Life of a Script](https://www.youtube.com/watch?v=voDhHPNMEzg&ab_channel=BlinkOn)
+- [Overview of the RenderingNG architecture](https://developer.chrome.com/articles/renderingng-architecture)
+- [Key data structures and their roles in RenderingNG](https://developer.chrome.com/articles/renderingng-data-structures)
+- [RenderingNG deep-dive: LayoutNG](https://developer.chrome.com/articles/layoutng)
+- [RenderingNG: an architecture that makes and keeps Chrome fast for the long term](https://blog.chromium.org/2021/10/renderingng.html)
 
-### Web UI
+## Web UI
 
 - [PL web frameworks](https://twitter.com/sliminality/status/1516175554550018048)
 - [Algebraic Effects for the Rest of Us](https://overreacted.io/algebraic-effects-for-the-rest-of-us/)
@@ -368,13 +366,6 @@ Tooking classes to learn compiler theory more in-depth. Here's all courses I too
 - [TypeScript + fp-ts: ReaderTaskEither and React](https://andywhite.xyz/posts/2021-01-28-rte-react/)
 - [React - Basic Theoretical Concepts](https://github.com/reactjs/react-basic)
 - [React Concurrent mode](https://twitter.com/dan_abramov/status/1120971795425832961)
-
-### Chrome
-
-- [Overview of the RenderingNG architecture](https://developer.chrome.com/articles/renderingng-architecture)
-- [Key data structures and their roles in RenderingNG](https://developer.chrome.com/articles/renderingng-data-structures)
-- [RenderingNG deep-dive: LayoutNG](https://developer.chrome.com/articles/layoutng)
-- [RenderingNG: an architecture that makes and keeps Chrome fast for the long term](https://blog.chromium.org/2021/10/renderingng.html)
 
 ## Careers
 
