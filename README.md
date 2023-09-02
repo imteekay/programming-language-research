@@ -54,6 +54,13 @@ Tooking classes to learn compiler theory more in-depth. Here's all courses I too
 - [How the TypeScript compiler works](https://www.iamtk.co/series/the-typescript-compiler)
 - [A miniature model of the Typescript compiler](https://github.com/imteekay/mini-typescript)
 
+## Learning Paths
+
+- [Compiler Engineer Path](http://dmitrysoshnikov.com/courses/compiler-engineer-path)
+- [PLR & Compiler Learning Path](learning-path.md)
+- [Programming Language Theory Path](https://steshaw.org/plt)
+- [Learn Type Theory](https://github.com/jozefg/learn-tt)
+
 ### Papers
 
 - [How Statically-Typed Functional Programmers Write Code](./research/papers/how-statically-typed-functional-programmers-write-code)
@@ -380,12 +387,12 @@ Tooking classes to learn compiler theory more in-depth. Here's all courses I too
 - [Groq Compiler Engineer](/careers/groq-compiler-engineer.pdf)
 - [Modular AI Compiler Engineer](/careers/modular-ai-compiler-engineer.pdf)
 
-## Learning Paths
+### Schools
 
-- [Compiler Engineer Path](http://dmitrysoshnikov.com/courses/compiler-engineer-path)
-- [PLR & Compiler Learning Path](learning-path.md)
-- [Programming Language Theory Path](https://steshaw.org/plt)
-- [Learn Type Theory](https://github.com/jozefg/learn-tt)
+- [Programming Language and Compiler Research Groups](https://www.cs.cmu.edu/~mleone/language/projects.html)
+- [Indiana University Bloomington](https://cs.indiana.edu)
+- [KAIST Programming Language Research Group](https://plrg.kaist.ac.kr)
+- [Tokyo Institute of Technology](https://prg.is.titech.ac.jp)
 
 ## People in PL
 
@@ -397,13 +404,6 @@ Tooking classes to learn compiler theory more in-depth. Here's all courses I too
 - [Bob Nystrom](http://journal.stuffwithstuff.com)
 - [StackExchange: Programming Language Design and Implementation](https://langdev.stackexchange.com)
 - [Paulette Koronkevich](https://koronkevi.ch)
-
-## Schools
-
-- [Programming Language and Compiler Research Groups](https://www.cs.cmu.edu/~mleone/language/projects.html)
-- [Indiana University Bloomington](https://cs.indiana.edu)
-- [KAIST Programming Language Research Group](https://plrg.kaist.ac.kr)
-- [Tokyo Institute of Technology](https://prg.is.titech.ac.jp)
 
 ## License
 
