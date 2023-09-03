@@ -239,6 +239,7 @@ Tooking classes to learn compiler theory more in-depth. Here's all courses I too
 - [Bringing Types to Elixir by Giuseppe Castagna and Guillaume Duboc](https://www.youtube.com/watch?v=gJJH7a2J9O8&ab_channel=CodeSync)
 - [How should I read type system notation?](https://langdev.stackexchange.com/questions/2692/how-should-i-read-type-system-notation/2693#2693)
 - [Propositions as types: explained](https://lawrencecpaulson.github.io/2023/08/23/Propositions_as_Types.html)
+- [A brief introduction to type theory and the univalence axiom](https://math.uchicago.edu/~may/REU2015/REUPapers/Macor.pdf)
 
 ## Parsers
 
