@@ -303,7 +303,8 @@ Tooking classes to learn compiler theory more in-depth. Here's all courses I too
 - [Hidden Gems of TypeScript compiler](https://www.youtube.com/watch?v=WkJagE7b5U0&t=12s&ab_channel=NG-BE)
 - [A Trip into the Compiler](https://www.youtube.com/watch?v=oNtz0fx_z_A&ab_channel=SitePen)
 - [The Road to Private Methods](https://www.youtube.com/watch?v=wpgBdN9ZwkQ&ab_channel=SitePen)
-- [how safe is "safe enough" for TypeScript](https://www.youtube.com/watch?v=ZwoPLuSB94I&ab_channel=MichiganTypeScript)
+- [How safe is "safe enough" for TypeScript](https://www.youtube.com/watch?v=ZwoPLuSB94I&ab_channel=MichiganTypeScript)
+- [TypeScript and the dawn of gradual types](https://github.com/readme/featured/typescript-gradual-types)
 
 ### Ecmascript
 
