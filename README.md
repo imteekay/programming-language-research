@@ -241,6 +241,7 @@ Tooking classes to learn compiler theory more in-depth. Here's all courses I too
 - [Propositions as types: explained](https://lawrencecpaulson.github.io/2023/08/23/Propositions_as_Types.html)
 - [A brief introduction to type theory and the univalence axiom](https://math.uchicago.edu/~may/REU2015/REUPapers/Macor.pdf)
 - [Understanding types as sets](https://portal.gitnation.org/contents/understanding-types-as-sets)
+- [Type inference under the hood](https://www.aleksandra.codes/type-inference)
 
 ## Parsers
 
