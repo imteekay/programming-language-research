@@ -397,6 +397,7 @@ Tooking classes to learn compiler theory more in-depth. Here's all courses I too
 - [Indiana University Bloomington](https://cs.indiana.edu)
 - [KAIST Programming Language Research Group](https://plrg.kaist.ac.kr)
 - [Tokyo Institute of Technology](https://prg.is.titech.ac.jp)
+  - [TIT: How to Join the Group](https://prg.is.titech.ac.jp/people/how-to-join)
 
 ## People in PL
 
