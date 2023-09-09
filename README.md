@@ -182,6 +182,10 @@ Tooking classes to learn compiler theory more in-depth. Here's all courses I too
 - [TypeScript Compiler Notes](https://github.com/microsoft/TypeScript-Compiler-Notes)
 - [A miniature model of the Typescript compiler](https://github.com/sandersn/mini-typescript)
 
+## PL Paradigms
+
+- [Continuation-passing style in JavaScript](https://matt.might.net/articles/by-example-continuation-passing-style)
+
 ## Interpreter
 
 - [Building an Interpreter](https://www.iamtk.co/series/building-an-interpreter)
