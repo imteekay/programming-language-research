@@ -405,6 +405,7 @@ Tooking classes to learn compiler theory more in-depth. Here's all courses I too
 - [Tokyo Institute of Technology](https://prg.is.titech.ac.jp)
   - [TIT: How to Join the Group](https://prg.is.titech.ac.jp/people/how-to-join)
   - [Scholarships: Mext](https://www.titech.ac.jp/english/prospective-students/scholarships)
+  - [Examples of Dissertations](https://prg.is.titech.ac.jp/dissertations/)
 
 ## People in PL
 
