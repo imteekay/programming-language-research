@@ -56,6 +56,15 @@ Tooking classes to learn compiler theory more in-depth. Here's all courses I too
 - [COP 4020 - Programming Languages I](https://www.cs.ucf.edu/~leavens/COP4020/resources.shtml)
 - [Concepts in Programming Languages](https://www.cl.cam.ac.uk/teaching/1617/ConceptsPL/materials.html)
 - [CS 242: Programming Languages, Fall 2019](https://stanford-cs242.github.io/f19)
+- [Principles of Compiler Design](https://www.bilibili.com/video/BV1qt41167uU?p=1)
+- [Indiana University Compiler Course](https://iu.mediaspace.kaltura.com/media/Compiler+Course/1_hwlujpzd)
+- [Jay McCarthy - 406 Compiler Construction](https://youtu.be/4tUj8BuC0qM)
+- [CSE 131 - Compiler Construction](https://podcast.ucsd.edu/watch/SP17/cse131_sp17/23)
+- [CS164 Programming Languages and Compilers](https://www.bilibili.com/video/BV1NW411b79N?p=1)
+- [CMSC 430: Design and Implementation of Programming Languages](https://www.youtube.com/watch?v=KTWq1XAfuMQ&list=PLsg0tbEwZlcz0Xzv1rACy7xcQZiBcQ_iE&ab_channel=cmsc430)
+- [CMU - CS6120 - Advanced Compilers](https://www.cs.cornell.edu/courses/cs6120/2022sp/lesson)
+- [Compilers Design Recipe](https://soft.vub.ac.be/compilers/book_sec_recipe.html)
+- [Introduction to Compiler Construction](https://www.students.cs.ubc.ca/~cs-411/2020w2/index.html)
 
 ### Books & Notes
 
