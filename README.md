@@ -133,6 +133,7 @@ Tooking classes to learn compiler theory more in-depth. Here's all courses I too
 - [Delimited Continuations, Demystified by Alexis King](https://www.youtube.com/watch?v=TE48LsgVlIU&ab_channel=CodeSync)
 - [Why Study Programming Languages](https://rachit.pl/post/why-study-programming-languages)
 - [The Study of Programming Languages](https://cs.lmu.edu/~ray/notes/plstudy)
+- [Linguistics and Compilers](https://www.youtube.com/watch?v=Ix6M9Nj_Dug&ab_channel=FunctionalSC)
 
 ## Compiler
 
