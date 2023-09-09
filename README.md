@@ -266,6 +266,10 @@ Tooking classes to learn compiler theory more in-depth. Here's all courses I too
 - [How LLVM & Clang work](https://www.youtube.com/watch?v=IR_L1xf4PrU&ab_channel=tanmaybakshi)
 - [Building a Virtual Machine](https://www.dmitrysoshnikov.education/p/virtual-machine)
 
+## Program Synthesis
+
+- [Generating Programs from Types](https://www.youtube.com/watch?v=ZPyVcnCabIU&ab_channel=SkillsMatter)
+
 ## Language Learnings
 
 - [JavaScript](https://github.com/imteekay/programming-language-research/tree/master/language-learning/javascript)
