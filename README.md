@@ -252,6 +252,7 @@ Tooking classes to learn compiler theory more in-depth. Here's all courses I too
 - [Understanding types as sets](https://portal.gitnation.org/contents/understanding-types-as-sets)
 - [Type inference under the hood](https://www.aleksandra.codes/type-inference)
 - [Type Theory Workshop](https://functionalcs.github.io/curriculum/typetheory.html)
+- [Thinking with Types](https://www.youtube.com/playlist?list=PLE-CSy3N6yEeYY5tx1u5IP3d_2xZOmpKO)
 
 ## Parsers
 
