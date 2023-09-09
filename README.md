@@ -84,13 +84,6 @@
 - [Introduction to Compilers and Language Design](https://www3.nd.edu/~dthain/compilerbook/compilerbook.pdf)
 - [Thinking with Types: Type-Level Programming in Haskell](https://leanpub.com/thinking-with-types)
 
-## Experiments
-
-- [An interpreter for the Monkey programming language](https://github.com/imteekay/crafting-an-interpreter)
-- [An interpreter for the Lox programming language](./research/experiments/lox.ts)
-- [How the TypeScript compiler works](https://www.iamtk.co/series/the-typescript-compiler)
-- [A miniature model of the Typescript compiler](https://github.com/imteekay/mini-typescript)
-
 ## Learning Paths
 
 - [Compiler Engineer Path](http://dmitrysoshnikov.com/courses/compiler-engineer-path)
@@ -98,6 +91,13 @@
 - [Programming Language Theory Path](https://steshaw.org/plt)
 - [Learn Type Theory](https://github.com/jozefg/learn-tt)
 - [Advanced Programming Languages](http://di002.edv.uniovi.es/~labra/APL.html)
+
+## Experiments
+
+- [An interpreter for the Monkey programming language](https://github.com/imteekay/crafting-an-interpreter)
+- [An interpreter for the Lox programming language](./research/experiments/lox.ts)
+- [How the TypeScript compiler works](https://www.iamtk.co/series/the-typescript-compiler)
+- [A miniature model of the Typescript compiler](https://github.com/imteekay/mini-typescript)
 
 ### Papers
 
