@@ -290,6 +290,7 @@
 - [Type inference under the hood](https://www.aleksandra.codes/type-inference)
 - [Type Theory Workshop](https://functionalcs.github.io/curriculum/typetheory.html)
 - [Thinking with Types](https://www.youtube.com/playlist?list=PLE-CSy3N6yEeYY5tx1u5IP3d_2xZOmpKO)
+- [Types are like the Weather, Type Systems are like Weathermen](https://www.youtube.com/watch?v=XTl7Jn_kmio&ab_channel=ClojureTV)
 
 ## Parsers
 
