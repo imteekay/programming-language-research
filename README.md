@@ -186,6 +186,7 @@ Tooking classes to learn compiler theory more in-depth. Here's all courses I too
 
 - [Continuation-passing style](https://en.wikipedia.org/wiki/Continuation-passing_style)
 - [Continuation-passing style in JavaScript](https://matt.might.net/articles/by-example-continuation-passing-style)
+- [Compiling with Continuations or without? Whatever](https://www.youtube.com/watch?v=cPBr59ECiRU&ab_channel=ACMSIGPLAN)
 
 ## Interpreter
 
