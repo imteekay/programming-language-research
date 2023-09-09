@@ -60,6 +60,7 @@ Tooking classes to learn compiler theory more in-depth. Here's all courses I too
 - [PLR & Compiler Learning Path](learning-path.md)
 - [Programming Language Theory Path](https://steshaw.org/plt)
 - [Learn Type Theory](https://github.com/jozefg/learn-tt)
+- [Advanced Programming Languages](http://di002.edv.uniovi.es/~labra/APL.html)
 
 ### Papers
 
