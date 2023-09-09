@@ -2,13 +2,9 @@
 
 # Programming Language Research
 
-Research on programming languages, compilers, functional programming, devtools.
+[Research](./research) on programming languages, compilers, functional programming, devtools.
 
-## Research
-
-All [notes](./research) from my research on programming languages and compilers.
-
-### Courses
+## Courses
 
 - [Essentials of Interpretation](./research/courses/essentials-of-interpretation)
 - [Programming Languages Part A](./research/courses/programming-languages-part-a)
@@ -64,7 +60,7 @@ All [notes](./research) from my research on programming languages and compilers.
 - [Compilers Design Recipe](https://soft.vub.ac.be/compilers/book_sec_recipe.html)
 - [Introduction to Compiler Construction](https://www.students.cs.ubc.ca/~cs-411/2020w2/index.html)
 
-### Books
+## Books
 
 - [SICP — Structure and Interpretation of Computer](./research/books/sicp)
 - [Modern Compiler Implementation in C](https://www.amazon.com/Modern-Compiler-Implementation-Andrew-Appel/dp/0521607655)
@@ -88,7 +84,7 @@ All [notes](./research) from my research on programming languages and compilers.
 - [Introduction to Compilers and Language Design](https://www3.nd.edu/~dthain/compilerbook/compilerbook.pdf)
 - [Thinking with Types: Type-Level Programming in Haskell](https://leanpub.com/thinking-with-types)
 
-### Experiments
+## Experiments
 
 - [An interpreter for the Monkey programming language](https://github.com/imteekay/crafting-an-interpreter)
 - [An interpreter for the Lox programming language](./research/experiments/lox.ts)
