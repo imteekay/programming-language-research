@@ -8,7 +8,7 @@ Research on programming languages, compilers, functional programming, devtools.
 
 All [notes](./research) from my research on programming languages and compilers.
 
-### Courses & Notes
+### Courses
 
 Tooking classes to learn compiler theory more in-depth. Here's all courses I took and the notes I wrote.
 
@@ -66,7 +66,7 @@ Tooking classes to learn compiler theory more in-depth. Here's all courses I too
 - [Compilers Design Recipe](https://soft.vub.ac.be/compilers/book_sec_recipe.html)
 - [Introduction to Compiler Construction](https://www.students.cs.ubc.ca/~cs-411/2020w2/index.html)
 
-### Books & Notes
+### Books
 
 - [SICP — Structure and Interpretation of Computer](./research/books/sicp)
 - [Modern Compiler Implementation in C](https://www.amazon.com/Modern-Compiler-Implementation-Andrew-Appel/dp/0521607655)
