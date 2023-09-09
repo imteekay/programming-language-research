@@ -462,6 +462,7 @@
 - [Roberto Giacobazzi](http://profs.sci.univr.it/~giaco)
 - [Bob Nystrom](http://journal.stuffwithstuff.com)
 - [StackExchange: Programming Language Design and Implementation](https://langdev.stackexchange.com)
+- [Matthias Felleisen](https://felleisen.org/matthias)
 - [Paulette Koronkevich](https://koronkevi.ch)
 
 ## License
