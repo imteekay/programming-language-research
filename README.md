@@ -221,6 +221,7 @@
 - [Typescript Compiler explained by the Author Anders Hejlsberg](https://www.youtube.com/watch?v=f6TCB61fDwY)
 - [TypeScript Compiler Notes](https://github.com/microsoft/TypeScript-Compiler-Notes)
 - [A miniature model of the Typescript compiler](https://github.com/sandersn/mini-typescript)
+- [An Introduction to Interpreters and JIT Compilation](https://stefan-marr.de/2023/09/pliss-summer-school)
 
 ## PL Paradigms
 
