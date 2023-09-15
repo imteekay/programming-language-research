@@ -171,6 +171,7 @@
 - [Why Study Programming Languages](https://rachit.pl/post/why-study-programming-languages)
 - [The Study of Programming Languages](https://cs.lmu.edu/~ray/notes/plstudy)
 - [Linguistics and Compilers](https://www.youtube.com/watch?v=Ix6M9Nj_Dug&ab_channel=FunctionalSC)
+- [A Language Creators' Conversation: Guido van Rossum, James Gosling, Larry Wall & Anders Hejlsberg](https://www.youtube.com/watch?v=csL8DLXGNlU&ab_channel=PyCascades)
 
 ## Compiler
 
