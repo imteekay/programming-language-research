@@ -360,6 +360,7 @@
 - [The Road to Private Methods](https://www.youtube.com/watch?v=wpgBdN9ZwkQ&ab_channel=SitePen)
 - [How safe is "safe enough" for TypeScript](https://www.youtube.com/watch?v=ZwoPLuSB94I&ab_channel=MichiganTypeScript)
 - [TypeScript and the dawn of gradual types](https://github.com/readme/featured/typescript-gradual-types)
+- [TypeScript Performance](https://www.youtube.com/watch?v=ZL3z1oBZntk&ab_channel=MattPocock)
 
 ### Ecmascript
 
