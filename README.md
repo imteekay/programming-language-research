@@ -294,6 +294,7 @@
 - [Type Theory Workshop](https://functionalcs.github.io/curriculum/typetheory.html)
 - [Thinking with Types](https://www.youtube.com/playlist?list=PLE-CSy3N6yEeYY5tx1u5IP3d_2xZOmpKO)
 - [Types are like the Weather, Type Systems are like Weathermen](https://www.youtube.com/watch?v=XTl7Jn_kmio&ab_channel=ClojureTV)
+- [Strong arrows: a new approach to gradual typing](https://elixir-lang.org/blog/2023/09/20/strong-arrows-gradual-typing)
 
 ## Parsers
 
