@@ -65,6 +65,7 @@
 - [📚 Homotopy Type Theory](https://www.goodreads.com/book/show/18106978-homotopy-type-theory)
 - [📚 How to Design Programs: An Introduction to Programming and Computing](https://www.goodreads.com/book/show/1119079.How_to_Design_Programs)
 - [📚 HTDP](https://htdp.org/2020-8-1/Book/index.html)
+- [📚 Human-Centered Programming Languages](https://bookish.press/hcpl)
 - [📚 Introduction to Compilers and Language Design](https://www3.nd.edu/~dthain/compilerbook/compilerbook.pdf)
 - [📚 Modern Compiler Design](https://www.amazon.com/Modern-Compiler-Design-Dick-Grune/dp/1461446988/ref=sr_1_1?crid=7JFBNCBOHIW9&keywords=Modern+Compiler+Design&qid=1675768609&s=books&sprefix=modern+compiler+design%2Cstripbooks-intl-ship%2C228&sr=1-1)
 - [📚 Modern Compiler Implementation in C](https://www.amazon.com/Modern-Compiler-Implementation-Andrew-Appel/dp/0521607655)
