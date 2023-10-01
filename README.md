@@ -145,6 +145,7 @@
 - [🎥 On understanding types, data abstraction and effects](https://www.youtube.com/watch?v=3Cdw5x72k_g&ab_channel=MicrosoftResearch)
 - [🎥 Principles of Programming Languages by Robert M. Siegfried](https://www.youtube.com/playlist?list=PLTo1TmBz2ekof8VsYaoTxP-9VgJ9P-dTO)
 - [🎥 Principles of Programming Languages](https://www.youtube.com/playlist?list=PLK06XT3hFPzilgF1mi_hHqcXO1-o_8OEe)
+- [🎥 So many programming languages so little time](https://www.youtube.com/watch?v=FEjH5VxmDoY&ab_channel=MicrosoftDeveloper)
 - [🎥 Stephanie Weirich speaks about Programming Language Design](https://www.youtube.com/watch?v=gLTDyrAY4Hk)
 - [🎥 The Mess We're In](https://www.youtube.com/watch?v=lKXe3HUG2l4)
 - [🎥 The Next Programming Language - Douglas Crockford](https://www.youtube.com/watch?v=R2idkNdKqpQ&ab_channel=code%3A%3Adiveconference)
