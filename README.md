@@ -470,6 +470,7 @@
 - [StackExchange: Programming Language Design and Implementation](https://langdev.stackexchange.com)
 - [Matthias Felleisen](https://felleisen.org/matthias)
 - [Paulette Koronkevich](https://koronkevi.ch)
+- [Programming Linnguistics](https://pling.jondgoodwin.com)
 
 ## License
 
