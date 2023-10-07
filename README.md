@@ -285,6 +285,7 @@
 - [📝 Hindley-Milner Type Checking AST](https://adamdoupe.com/teaching/classes/cse340-principles-of-programming-languages-f15/slides/Hindley-MilnerTypeChecking-Mohsen-Zohrevandi.pdf)
 - [📝 How should I read type system notation?](https://langdev.stackexchange.com/questions/2692/how-should-i-read-type-system-notation/2693#2693)
 - [📝 Introduction to Type Theory](https://www.cs.uoregon.edu/research/summerschool/summer22/topics.php)
+- [📝 Programming and Programming Languages: Type Inference](https://papl.cs.brown.edu/2018/Type_Inference.html)
 - [📝 Propositions as types: explained](https://lawrencecpaulson.github.io/2023/08/23/Propositions_as_Types.html)
 - [📝 Strong arrows: a new approach to gradual typing](https://elixir-lang.org/blog/2023/09/20/strong-arrows-gradual-typing)
 - [📝 Type Checking If Expressions](http://journal.stuffwithstuff.com/2023/01/03/type-checking-if-expressions)
