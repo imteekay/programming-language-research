@@ -265,6 +265,7 @@
 - [🎥 Let's build a typesystem in Haskell!](https://www.youtube.com/watch?v=aZFWY6DxX54)
 - [🎥 The Hindley-Milner Type System](https://www.youtube.com/watch?v=OyrByPkiX7s&ab_channel=NicolasLaurent)
 - [🎥 Thinking with Types](https://www.youtube.com/playlist?list=PLE-CSy3N6yEeYY5tx1u5IP3d_2xZOmpKO)
+- [🎥 Type Systems - The Good, Bad and Ugly](https://www.youtube.com/watch?v=SWTWkYbcWU0&t=2s&ab_channel=StrangeLoopConference)
 - [🎥 Type-safe embedded domain-specific languages 1/4](https://www.youtube.com/watch?v=4sTeT7poU3g)
 - [🎥 Type-safe embedded domain-specific languages 2/4](https://www.youtube.com/watch?v=OM_riJgZF8A)
 - [🎥 Type-safe embedded domain-specific languages 3/4](https://www.youtube.com/watch?v=gFJTKJgL2zI)
