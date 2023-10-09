@@ -276,6 +276,7 @@
 - [🎥 Typing the Untyped: Soundness in Gradual Type Systems](https://www.youtube.com/watch?v=uJHD2xyv7xo)
 - [🎥 What is Decidable about Gradual Types?](https://www.youtube.com/watch?v=rPZ7HhyGPh4&ab_channel=ACMSIGPLAN)
 - [💻 Building a Typechecker from scratch](https://www.udemy.com/course/typechecker)
+- [📜 How to evaluate the performance of gradual type systems](https://users.cs.utah.edu/~blg/publications/pe4gt/gtnffvf-jfp-2019.pdf)
 - [📜 Optimizing and Evaluating Transient Gradual Typing](https://dl.acm.org/doi/pdf/10.1145/3359619.3359742)
 - [📜 Putting gradual types to work](https://arxiv.org/pdf/2101.12299.pdf)
 - [📜 Safe & Efficient Gradual Typing for TypeScript](https://www.cs.umd.edu/~aseem/safets.pdf)
