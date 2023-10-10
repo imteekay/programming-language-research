@@ -295,6 +295,7 @@
 - [📝 Programming and Programming Languages: Type Inference](https://papl.cs.brown.edu/2018/Type_Inference.html)
 - [📝 Propositions as types: explained](https://lawrencecpaulson.github.io/2023/08/23/Propositions_as_Types.html)
 - [📝 Python internals: Symbol tables, part 1](https://eli.thegreenplace.net/2010/09/18/python-internals-symbol-tables-part-1)
+- [📝 Python internals: Symbol tables, part 2](https://eli.thegreenplace.net/2010/09/20/python-internals-symbol-tables-part-2)
 - [📝 Strong arrows: a new approach to gradual typing](https://elixir-lang.org/blog/2023/09/20/strong-arrows-gradual-typing)
 - [📝 Type Checking If Expressions](http://journal.stuffwithstuff.com/2023/01/03/type-checking-if-expressions)
 - [📝 Type inference under the hood](https://www.aleksandra.codes/type-inference)
