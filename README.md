@@ -292,6 +292,7 @@
 - [📝 Hindley-Milner Type Checking AST](https://adamdoupe.com/teaching/classes/cse340-principles-of-programming-languages-f15/slides/Hindley-MilnerTypeChecking-Mohsen-Zohrevandi.pdf)
 - [📝 How should I read type system notation?](https://langdev.stackexchange.com/questions/2692/how-should-i-read-type-system-notation/2693#2693)
 - [📝 Introduction to Type Theory](https://www.cs.uoregon.edu/research/summerschool/summer22/topics.php)
+- [📝 MyPy TypeChecker](https://github.com/python/mypy/wiki/Type-Checker)
 - [📝 Programming and Programming Languages: Type Inference](https://papl.cs.brown.edu/2018/Type_Inference.html)
 - [📝 Propositions as types: explained](https://lawrencecpaulson.github.io/2023/08/23/Propositions_as_Types.html)
 - [📝 Python internals: Symbol tables, part 1](https://eli.thegreenplace.net/2010/09/18/python-internals-symbol-tables-part-1)
