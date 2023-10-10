@@ -196,6 +196,7 @@
 - [📝 Bob Nystrom - Expression Parsing Made Easy](http://journal.stuffwithstuff.com/2011/03/19/pratt-parsers-expression-parsing-made-easy)
 - [📝 Building a Parser from scratch](https://www.dmitrysoshnikov.education/p/parser-from-scratch)
 - [📝 Compilers and Interpreters](https://medium.com/hackernoon/compilers-and-interpreters-3e354a2e41cf)
+- [📝 Compilers Resources](https://glyphack.com/blog/compiler-resources)
 - [📝 Compiling Scheme to C with closure conversion](https://matt.might.net/articles/compiling-scheme-to-c)
 - [📝 Compiling to Java](https://matt.might.net/articles/compiling-to-java)
 - [📝 Compiling to lambda-calculus](https://matt.might.net/articles/compiling-up-to-lambda-calculus)
