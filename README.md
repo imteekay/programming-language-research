@@ -197,6 +197,7 @@
 - [📝 Building a Parser from scratch](https://www.dmitrysoshnikov.education/p/parser-from-scratch)
 - [📝 Compilers and Interpreters](https://medium.com/hackernoon/compilers-and-interpreters-3e354a2e41cf)
 - [📝 Compilers Resources](https://glyphack.com/blog/compiler-resources)
+- [📝 Compilers: Nuts and bolts of Programming Languages](https://pgrandinetti.github.io/compilers)
 - [📝 Compiling Scheme to C with closure conversion](https://matt.might.net/articles/compiling-scheme-to-c)
 - [📝 Compiling to Java](https://matt.might.net/articles/compiling-to-java)
 - [📝 Compiling to lambda-calculus](https://matt.might.net/articles/compiling-up-to-lambda-calculus)
