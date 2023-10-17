@@ -193,6 +193,7 @@
 - [📝 Alias analysis](https://en.wikipedia.org/wiki/Alias_analysis)
 - [📝 An Incremental Approach to Compiler Construction](http://scheme2006.cs.uchicago.edu/11-ghuloum.pdf)
 - [📝 An Introduction to Interpreters and JIT Compilation](https://stefan-marr.de/2023/09/pliss-summer-school)
+- [📝 An Introduction to Interpreters and JIT Compilation](https://stefan-marr.de/2023/09/pliss-summer-school)
 - [📝 AST (Abstract Syntax Tree)](https://medium.com/@dinis.cruz/ast-abstract-syntax-tree-538aa146c53b)
 - [📝 Bob Nystrom - Expression Parsing Made Easy](http://journal.stuffwithstuff.com/2011/03/19/pratt-parsers-expression-parsing-made-easy)
 - [📝 Building a Parser from scratch](https://www.dmitrysoshnikov.education/p/parser-from-scratch)
@@ -226,8 +227,8 @@
 - [📝 Scheme from Scratch - Introduction](http://peter.michaux.ca/articles/scheme-from-scratch-introduction)
 - [📝 TypeScript Compiler Notes](https://github.com/microsoft/TypeScript-Compiler-Notes)
 - [📝 Understanding GC in JSC From Scratch](https://webkit.org/blog/12967/understanding-gc-in-jsc-from-scratch)
-- [📝 Write you a Haskell](http://dev.stephendiehl.com/fun)
 - [📝 Which Interpreters are Faster, AST or Bytecode?](https://stefan-marr.de/2023/10/ast-vs-bytecode-interpreters)
+- [📝 Write you a Haskell](http://dev.stephendiehl.com/fun)
 
 ## PL Paradigms
 
