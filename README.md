@@ -489,6 +489,7 @@
 - [Paulette Koronkevich](https://koronkevi.ch)
 - [Programming Linnguistics](https://pling.jondgoodwin.com)
 - [Stefan Marr](https://stefan-marr.de)
+- [Jihyeok Park](https://plrg.korea.ac.kr/members/jihyeok.park)
 
 ## License
 
