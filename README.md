@@ -491,6 +491,7 @@
 - [Stefan Marr](https://stefan-marr.de)
 - [Jihyeok Park](https://plrg.korea.ac.kr/members/jihyeok.park)
 - [Gavin Bierman](https://gavinbierman.github.io)
+- [Mads Torgersen](https://twitter.com/madstorgersen)
 
 ## License
 
