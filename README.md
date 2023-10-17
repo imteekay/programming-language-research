@@ -227,6 +227,7 @@
 - [📝 TypeScript Compiler Notes](https://github.com/microsoft/TypeScript-Compiler-Notes)
 - [📝 Understanding GC in JSC From Scratch](https://webkit.org/blog/12967/understanding-gc-in-jsc-from-scratch)
 - [📝 Write you a Haskell](http://dev.stephendiehl.com/fun)
+- [📝 Which Interpreters are Faster, AST or Bytecode?](https://stefan-marr.de/2023/10/ast-vs-bytecode-interpreters)
 
 ## PL Paradigms
 
