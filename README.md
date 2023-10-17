@@ -53,6 +53,7 @@
 - [💻 Programming Languages Ⅱ](https://www.coursera.org/learn/programming-languages2)
 - [💻 Ray Total Courses](https://cs.lmu.edu/~ray)
 - [💻 Theory of Programming Languages](http://staff.ustc.edu.cn/~yuzhang/tpl/2020s/index.html#reading)
+- [💻 CS516 - Compiler Design and Implementation](https://erickoskinen.com/compilers/23sp/index.html)
 
 ## Books
 
