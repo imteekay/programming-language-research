@@ -375,6 +375,7 @@
 - [📝 TypeScript Compiler API: Improve API Integrations Using Code Generation](https://blog.appsignal.com/2021/08/18/improve-api-integrations-using-code-generation.html)
 - [📝 TypeScript Compiler Internals](https://basarat.gitbook.io/typescript/overview)
 - [📝 TypeScript Compiler Manual](https://sandersn.github.io/manual/Typescript-compiler-implementation.html)
+- [📝 TypeScript Modules - Theory](https://www.typescriptlang.org/docs/handbook/modules/theory.html)
 - [📝 TypeScript Performance Tracing](https://github.com/microsoft/TypeScript/wiki/Performance-Tracing)
 - [📝 TypeScript Performance](https://github.com/microsoft/TypeScript/wiki/Performance)
 - [📝 TypeScript's type-independent output](https://neugierig.org/software/blog/2016/04/typescript-types.html)
