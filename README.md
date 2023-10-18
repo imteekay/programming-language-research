@@ -184,6 +184,7 @@
 - [🎥 Implementing a bignum calculator](https://www.youtube.com/watch?v=PXoG0WX0r_E)
 - [🎥 JavaScript ∩ WebAssembly](https://www.youtube.com/watch?v=PP5r_b3Ws8s&ab_channel=ReactEurope)
 - [🎥 JavaScript implementation in SpiderMonkey](https://www.youtube.com/playlist?list=PLo3w8EB99pqJVPhmYbYdInBvAGarDavh-)
+- [🎥 KAIST CS420: Compiler Design](https://www.youtube.com/playlist?list=PL5aMzERQ_OZ8RWqn-XiZLXm1IJuaQbXp0)
 - [🎥 Lexical Scanning in Go](https://www.youtube.com/watch?v=HxaD_trXwRE)
 - [🎥 Mozilla Hacks Compiler Compiler](https://www.youtube.com/playlist?list=PLo3w8EB99pqKF1FQllRsxyQh3sA7V2Hc-)
 - [🎥 Quick look at the TypeScript Compiler API](https://www.youtube.com/watch?v=AnjfW633e8o%E2%80%8E.%E2%80%8Edev)
