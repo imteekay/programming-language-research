@@ -496,6 +496,7 @@
 - [Gavin Bierman](https://gavinbierman.github.io)
 - [Mads Torgersen](https://twitter.com/madstorgersen)
 - [Niko Matsakis](https://smallcultfollowing.com/babysteps)
+- [Patrick Walton](https://pcwalton.github.io)
 
 ## License
 
