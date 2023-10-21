@@ -495,6 +495,7 @@
 - [Jihyeok Park](https://plrg.korea.ac.kr/members/jihyeok.park)
 - [Gavin Bierman](https://gavinbierman.github.io)
 - [Mads Torgersen](https://twitter.com/madstorgersen)
+- [Niko Matsakis](https://smallcultfollowing.com/babysteps)
 
 ## License
 
