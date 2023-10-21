@@ -482,21 +482,21 @@
 ## People in PL
 
 - [Anders Hejlsberg](https://www.youtube.com/watch?v=2K_4T7M1DKk&ab_channel=AarthiandSriram)
-- [Dmitry Soshnikov](https://twitter.com/DmitrySoshnikov)
-- [Gilad Bracha](https://bracha.org/Site/Home.html)
-- [Researchers in Programming Languages and Compilers](https://www.cs.cmu.edu/~mleone/language-people.html)
-- [Roberto Giacobazzi](http://profs.sci.univr.it/~giaco)
 - [Bob Nystrom](http://journal.stuffwithstuff.com)
-- [StackExchange: Programming Language Design and Implementation](https://langdev.stackexchange.com)
-- [Matthias Felleisen](https://felleisen.org/matthias)
-- [Paulette Koronkevich](https://koronkevi.ch)
-- [Programming Linnguistics](https://pling.jondgoodwin.com)
-- [Stefan Marr](https://stefan-marr.de)
-- [Jihyeok Park](https://plrg.korea.ac.kr/members/jihyeok.park)
+- [Dmitry Soshnikov](https://twitter.com/DmitrySoshnikov)
 - [Gavin Bierman](https://gavinbierman.github.io)
+- [Gilad Bracha](https://bracha.org/Site/Home.html)
+- [Jihyeok Park](https://plrg.korea.ac.kr/members/jihyeok.park)
 - [Mads Torgersen](https://twitter.com/madstorgersen)
+- [Matthias Felleisen](https://felleisen.org/matthias)
 - [Niko Matsakis](https://smallcultfollowing.com/babysteps)
 - [Patrick Walton](https://pcwalton.github.io)
+- [Paulette Koronkevich](https://koronkevi.ch)
+- [Programming Linnguistics](https://pling.jondgoodwin.com)
+- [Researchers in Programming Languages and Compilers](https://www.cs.cmu.edu/~mleone/language-people.html)
+- [Roberto Giacobazzi](http://profs.sci.univr.it/~giaco)
+- [StackExchange: Programming Language Design and Implementation](https://langdev.stackexchange.com)
+- [Stefan Marr](https://stefan-marr.de)
 
 ## License
 
