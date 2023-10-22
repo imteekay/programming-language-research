@@ -498,6 +498,7 @@
 - [Roberto Giacobazzi](http://profs.sci.univr.it/~giaco)
 - [StackExchange: Programming Language Design and Implementation](https://langdev.stackexchange.com)
 - [Stefan Marr](https://stefan-marr.de)
+- [Cynthia Richey](https://thia.codes)
 
 ## License
 
