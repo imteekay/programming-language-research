@@ -484,10 +484,12 @@
 
 - [Anders Hejlsberg](https://www.youtube.com/watch?v=2K_4T7M1DKk&ab_channel=AarthiandSriram)
 - [Bob Nystrom](http://journal.stuffwithstuff.com)
+- [Cynthia Richey](https://thia.codes)
 - [Dmitry Soshnikov](https://twitter.com/DmitrySoshnikov)
 - [Gavin Bierman](https://gavinbierman.github.io)
 - [Gilad Bracha](https://bracha.org/Site/Home.html)
 - [Jihyeok Park](https://plrg.korea.ac.kr/members/jihyeok.park)
+- [Lexi Lambda](https://lexi-lambda.github.io)
 - [Mads Torgersen](https://twitter.com/madstorgersen)
 - [Matthias Felleisen](https://felleisen.org/matthias)
 - [Niko Matsakis](https://smallcultfollowing.com/babysteps)
@@ -498,8 +500,6 @@
 - [Roberto Giacobazzi](http://profs.sci.univr.it/~giaco)
 - [StackExchange: Programming Language Design and Implementation](https://langdev.stackexchange.com)
 - [Stefan Marr](https://stefan-marr.de)
-- [Cynthia Richey](https://thia.codes)
-- [Lexi Lambda](https://lexi-lambda.github.io)
 
 ## License
 
