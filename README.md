@@ -499,6 +499,7 @@
 - [StackExchange: Programming Language Design and Implementation](https://langdev.stackexchange.com)
 - [Stefan Marr](https://stefan-marr.de)
 - [Cynthia Richey](https://thia.codes)
+- [Lexi Lambda](https://lexi-lambda.github.io)
 
 ## License
 
