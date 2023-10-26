@@ -488,6 +488,7 @@
 - [Dmitry Soshnikov](https://twitter.com/DmitrySoshnikov)
 - [Gavin Bierman](https://gavinbierman.github.io)
 - [Gilad Bracha](https://bracha.org/Site/Home.html)
+- [Graham Hutton](https://www.cs.nott.ac.uk/~pszgmh)
 - [Jihyeok Park](https://plrg.korea.ac.kr/members/jihyeok.park)
 - [Lexi Lambda](https://lexi-lambda.github.io)
 - [Mads Torgersen](https://twitter.com/madstorgersen)
