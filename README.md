@@ -155,6 +155,7 @@
 - [🎥 The Next Programming Language - Douglas Crockford](https://www.youtube.com/watch?v=R2idkNdKqpQ&ab_channel=code%3A%3Adiveconference)
 - [🎥 What's Next for Our Programming Languages](https://www.youtube.com/watch?v=q3XcQh0cNZM&ab_channel=InfoQ)
 - [🎥 Why Programming Languages Matter](https://www.youtube.com/watch?v=JqYCt9rTG8g&ab_channel=StrangeLoopConference)
+- [📜 Programming language semantics: It’s easy as 1,2,3](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/EC2C046CF94382B3B408036B84475DC7/S0956796823000072a.pdf/programming-language-semantics-its-easy-as-123.pdf)
 - [📜 Programming Language Semantics](http://www.cs.nott.ac.uk/~pszgmh/123.pdf)
 - [📝 A Frontend Programmer's Guide to Languages](https://thatjdanisso.cool/programming-languages)
 - [📝 Building a Debugger: Code Analysis](https://nan.fyi/debugger)
