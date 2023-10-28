@@ -32,7 +32,7 @@
 - [💻 CS164 Programming Languages and Compilers](https://www.bilibili.com/video/BV1NW411b79N?p=1)
 - [💻 CS242 - Programming Languages - Stanford](https://web.stanford.edu/class/cs242/coursework.html)
 - [💻 CS2500 - Fundamentals of Computer Science](https://www.ccs.neu.edu/home/nderbinsky/fundies1/m1.html)
-- [💻 CS516 - Compiler Design and Implementation](https://erickoskinen.com/compilers/23sp/index.html)
+- [💻 CIS 341 - Compilers](https://www.seas.upenn.edu/~cis3410/20sp/)
 - [💻 CSCI1730 - Programming Languages - Application and Interpretation](https://cs.brown.edu/courses/cs173/2012/Videos)
 - [💻 CSE 131 - Compiler Construction](https://podcast.ucsd.edu/watch/SP17/cse131_sp17/23)
 - [💻 CSE230 - Principles/Programming Languages](https://podcast.ucsd.edu/watch/fa18/cse230_b00/24)
