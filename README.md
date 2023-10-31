@@ -502,6 +502,7 @@
 - [Programming Linnguistics](https://pling.jondgoodwin.com)
 - [Researchers in Programming Languages and Compilers](https://www.cs.cmu.edu/~mleone/language-people.html)
 - [Roberto Giacobazzi](http://profs.sci.univr.it/~giaco)
+- [Simon Peyton Jones](https://simon.peytonjones.org)
 - [StackExchange: Programming Language Design and Implementation](https://langdev.stackexchange.com)
 - [Stefan Marr](https://stefan-marr.de)
 
