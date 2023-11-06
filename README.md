@@ -190,6 +190,7 @@
 - [🎥 Lexical Scanning in Go](https://www.youtube.com/watch?v=HxaD_trXwRE)
 - [🎥 Mozilla Hacks Compiler Compiler](https://www.youtube.com/playlist?list=PLo3w8EB99pqKF1FQllRsxyQh3sA7V2Hc-)
 - [🎥 Quick look at the TypeScript Compiler API](https://www.youtube.com/watch?v=AnjfW633e8o%E2%80%8E.%E2%80%8Edev)
+- [🎥 Rethinking compiler technology in a heterogeneous world](https://www.youtube.com/watch?v=6Ncnx0bT4lk&ab_channel=HiPEACTV)
 - [🎥 Typescript Compiler explained by the Author Anders Hejlsberg](https://www.youtube.com/watch?v=f6TCB61fDwY)
 - [🎥 Understanding compiler optimization](https://www.youtube.com/watch?v=haQ2cijhvhE)
 - [📝 A miniature model of the Typescript compiler](https://github.com/sandersn/mini-typescript)
