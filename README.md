@@ -507,6 +507,7 @@
 - [Simon Peyton Jones](https://simon.peytonjones.org)
 - [StackExchange: Programming Language Design and Implementation](https://langdev.stackexchange.com)
 - [Stefan Marr](https://stefan-marr.de)
+- [Sukyoung Ryu](https://plrg.kaist.ac.kr/ryu)
 - [TK](https://iamtk.co)
 
 ## License
