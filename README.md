@@ -387,10 +387,11 @@
 
 - [🎥 Create Your Own JavaScript Runtime](https://www.youtube.com/watch?v=ynNDmp7hBdo&ab_channel=ErickWendel)
 - [🎥 Ectype - bringing type safety (and more!) to vanilla JavaScript](https://www.youtube.com/watch?v=vyjHRlQrVSA&ab_channel=StrangeLoopConference)
+- [🎥 Implementing one feature set in two JavaScript engines](https://www.youtube.com/watch?v=V1Q9iqxhfgU&ab_channel=WebEnginesHackfest)
+- [🎥 JavaScript and C++ in Node.js core](https://www.youtube.com/watch?v=GrgMT5zMgF4&ab_channel=NearForm)
+- [🎥 Node.js startup performance](https://www.youtube.com/watch?v=G36lrPrF09c&ab_channel=NearForm)
 - [🎥 Static Hermes: the Next Generation of Hermes](https://www.youtube.com/watch?v=q-xKYA0EO-c&ab_channel=CallstackEngineers)
 - [🎥 TC39 – From the proposal to ECMAScript - Step by Step](https://www.youtube.com/watch?v=ZheFIz4FhXo&ab_channel=FestDevConference)
-- [🎥 Implementing one feature set in two JavaScript engines](https://www.youtube.com/watch?v=V1Q9iqxhfgU&ab_channel=WebEnginesHackfest)
-- [🎥 Node.js startup performance](https://www.youtube.com/watch?v=G36lrPrF09c&ab_channel=NearForm)
 - [📝 `SingleEscapeCharacter`](https://262.ecma-international.org/13.0/#prod-SingleEscapeCharacter)
 - [📝 Automatic semicolon insertions in JavaScript](https://articles.wesionary.team/automatic-semicolon-insertions-in-javascript-best-practices-c49ed8222e12)
 - [📝 Deep JavaScript](https://exploringjs.com/deep-js/toc.html)
