@@ -371,6 +371,7 @@
 - [📝 Reconstructing TypeScript, part 6: narrowing](https://jaked.org/blog/2021-11-11-Reconstructing-TypeScript-part-6)
 - [📝 Static TypeScript](https://www.microsoft.com/en-us/research/uploads/prod/2019/09/mplr19main-id10-p-41a6cf2-42682-final.pdf)
 - [📝 Type level programming in TypeScript](https://mjj.io/2021/03/29/type-level-programming-in-typescript)
+- [📝 Types as axioms, or: playing god with static types](https://lexi-lambda.github.io/blog/2020/08/13/types-as-axioms-or-playing-god-with-static-types)
 - [📝 TypeScript / How the compiler compiles](https://www.huy.rocks/everyday/04-01-2022-typescript-how-the-compiler-compiles)
 - [📝 TypeScript and the dawn of gradual types](https://github.com/readme/featured/typescript-gradual-types)
 - [📝 TypeScript AST Resources](https://twitter.com/grow_love/status/1585711764565811201)
