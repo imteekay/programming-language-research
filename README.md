@@ -357,6 +357,7 @@
 - [📝 A preview of Ezno's checker](https://kaleidawave.github.io/posts/a-preview-of-the-checker)
 - [📝 An Introduction To Type Programming In TypeScript](https://www.zhenghao.io/posts/type-programming)
 - [📝 Debugging the TypeScript Codebase](https://blog.andrewbran.ch/debugging-the-type-script-codebase)
+- [📝 Designing with types: Making illegal states unrepresentable](https://fsharpforfunandprofit.com/posts/designing-with-types-making-illegal-states-unrepresentable)
 - [📝 Investigating TypeScript compiler APIs](https://blog.scottlogic.com/2015/01/20/typescript-compiler-api.html)
 - [📝 JavaScript scope, Closures, and the TypeScript compiler](https://iamtk.co/javascript-scope-closures-and-the-typescript-compiler)
 - [📝 Making sense of TypeScript using set theory](https://blog.thoughtspile.tech/2023/01/23/typescript-sets)
