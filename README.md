@@ -98,7 +98,7 @@
 
 ### Papers
 
-- [10 papers that all PhD students in programming languages ought to know](https://github.com/nuprl/10PL)
+- [📜 10 papers that all PhD students in programming languages ought to know](https://github.com/nuprl/10PL)
 - [📜 A syntactic approach to type soundness](https://web.eecs.umich.edu/~weimerw/2008-615/reading/wright92syntactic.pdf)
 - [📜 A Theory of Type Polymorphism in Programming](https://homepages.inf.ed.ac.uk/wadler/papers/papers-we-love/milner-type-polymorphism.pdf)
 - [📜 Abstracting Gradual Typing](https://www.cs.ubc.ca/~rxg/agt.pdf)
