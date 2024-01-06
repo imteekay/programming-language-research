@@ -4,6 +4,35 @@
 
 [Research](./research) on programming languages, compilers, functional programming, devtools.
 
+## Table of Contents
+
+- [Courses](#courses)
+- [Books](#books)
+- [Learning Paths](#learning-paths)
+- [Experiments](#experiments)
+- [Papers](#papers)
+- [Programming Language Design / PLT](#programming-language-design--plt)
+- [Compiler](#compiler)
+- [PL Paradigms](#pl-paradigms)
+- [Interpreter](#interpreter)
+- [PL Research](#pl-research)
+- [Type System](#type-system)
+- [Parsers](#parsers)
+- [Backend](#backend)
+- [Program Synthesis](#program-synthesis)
+- [Language Learnings](#language-learnings)
+  - [TypeScript](#typescript)
+  - [Ecmascript](#ecmascript)
+  - [Rust](#rust)
+  - [Python](#python)
+  - [OCaml](#ocaml)
+- [Browser](#browser)
+- [Web UI](#web-ui)
+- [Careers](#careers)
+  - [Jobs](#jobs)
+  - [Schools](#schools)
+- [People in PL](#people-in-pl)
+
 ## Courses
 
 - [🎥 301 - Organization of Programming Languages](https://www.youtube.com/watch?v=j2pYeKjq_60&list=PLB1enDd0fV0i5SWGe-A1YjmD8MmlGavIj&ab_channel=JayMcCarthy)
