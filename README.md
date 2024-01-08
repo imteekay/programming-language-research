@@ -451,6 +451,7 @@
 ### Python
 
 - [🎥 A JIT Compiler for CPython](https://www.youtube.com/watch?v=HxSHIpEQRjs&ab_channel=encukou)
+- [🎥 Python's type system explained: Static vs dynamic typing | Guido van Rossum](https://www.youtube.com/watch?v=kSXZHRsWXfU)
 
 ### OCaml
 
