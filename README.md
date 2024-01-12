@@ -442,6 +442,7 @@
 ### Rust
 
 - [🎥 Things I Learned (TIL) - Nicholas Matsakis](https://www.youtube.com/watch?v=LIYkT3p5gTs&ab_channel=PLISS)
+- [📝 Notes on a smaller Rust](https://without.boats/blog/notes-on-a-smaller-rust)
 - [📝 Removing Garbage Collection From the Rust Language](https://pcwalton.github.io/_posts/2013-06-02-removing-garbage-collection-from-the-rust-language.html)
 - [📝 Rust fact vs. fiction: 5 Insights from Google's Rust journey in 2022](https://opensource.googleblog.com/2023/06/rust-fact-vs-fiction-5-insights-from-googles-rust-journey-2022.html)
 - [📝 Rust: Project Goals](https://smallcultfollowing.com/babysteps/blog/2023/11/28/project-goals)
