@@ -363,6 +363,7 @@
 
 ## Parallel/Concurrent Programming
 
+- [📚 A Science of Concurrent Programs](https://lamport.azurewebsites.net/tla/science.pdf)
 - [📚 The Art of Multiprocessor Programming](https://cs.ipm.ac.ir/asoc2016/Resources/Theartofmulticore.pdf)
 
 ## Language Learnings
