@@ -361,6 +361,10 @@
 
 - [🎥 Generating Programs from Types](https://www.youtube.com/watch?v=ZPyVcnCabIU&ab_channel=SkillsMatter)
 
+## Parallel/Concurrent Programming
+
+- [📚 The Art of Multiprocessor Programming](https://cs.ipm.ac.ir/asoc2016/Resources/Theartofmulticore.pdf)
+
 ## Language Learnings
 
 - [JavaScript](https://github.com/imteekay/programming-language-research/tree/master/language-learning/javascript)
