@@ -365,6 +365,7 @@
 
 - [📚 A Science of Concurrent Programs](https://lamport.azurewebsites.net/tla/science.pdf)
 - [📚 The Art of Multiprocessor Programming](https://cs.ipm.ac.ir/asoc2016/Resources/Theartofmulticore.pdf)
+- [📚 The Parallel Event Loop Model and Runtime](https://design.inf.usi.ch/sites/default/files/biblio/daniele-bonetta-phd-parallel-javascript.pdf)
 
 ## Language Learnings
 
