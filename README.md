@@ -226,6 +226,7 @@
 - [🎥 Typescript Compiler explained by the Author Anders Hejlsberg](https://www.youtube.com/watch?v=f6TCB61fDwY)
 - [🎥 Understanding compiler optimization](https://www.youtube.com/watch?v=haQ2cijhvhE)
 - [📝 A miniature model of the Typescript compiler](https://github.com/sandersn/mini-typescript)
+- [📝 Alias analysis in React Compiler](https://www.recompiled.dev/blog/alias-analysis)
 - [📝 Alias analysis](https://en.wikipedia.org/wiki/Alias_analysis)
 - [📝 An Incremental Approach to Compiler Construction](http://scheme2006.cs.uchicago.edu/11-ghuloum.pdf)
 - [📝 An Introduction to Interpreters and JIT Compilation](https://stefan-marr.de/2023/09/pliss-summer-school)
