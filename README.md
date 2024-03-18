@@ -233,6 +233,7 @@
 - [📝 AST (Abstract Syntax Tree)](https://medium.com/@dinis.cruz/ast-abstract-syntax-tree-538aa146c53b)
 - [📝 Bob Nystrom - Expression Parsing Made Easy](http://journal.stuffwithstuff.com/2011/03/19/pratt-parsers-expression-parsing-made-easy)
 - [📝 Building a Parser from scratch](https://www.dmitrysoshnikov.education/p/parser-from-scratch)
+- [📝 Compiler Theory and Reactivity](https://www.recompiled.dev/blog/ssa)
 - [📝 Compilers and Interpreters](https://medium.com/hackernoon/compilers-and-interpreters-3e354a2e41cf)
 - [📝 Compilers Resources](https://glyphack.com/blog/compiler-resources)
 - [📝 Compilers: Nuts and bolts of Programming Languages](https://pgrandinetti.github.io/compilers)
