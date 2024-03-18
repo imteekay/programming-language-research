@@ -506,6 +506,7 @@
 ## Web UI
 
 - [🎥 Algebraic effects, Fibers, Coroutines](https://www.youtube.com/watch?v=vzzOdWj4YyM&ab_channel=YouGottaLoveFrontend)
+- [🎥 React Forget: React for developers and compilers](https://www.youtube.com/watch?v=kjOacmVsLSE)
 - [📝 Algebraic Effects for React Developers](https://blog.reesew.io/algebraic-effects-for-react-developers)
 - [📝 Algebraic Effects for the Rest of Us](https://overreacted.io/algebraic-effects-for-the-rest-of-us)
 - [📝 PL web frameworks](https://twitter.com/sliminality/status/1516175554550018048)
