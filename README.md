@@ -343,6 +343,7 @@
 - [📝 Strong arrows: a new approach to gradual typing](https://elixir-lang.org/blog/2023/09/20/strong-arrows-gradual-typing)
 - [📝 Type Checking If Expressions](http://journal.stuffwithstuff.com/2023/01/03/type-checking-if-expressions)
 - [📝 Type inference under the hood](https://www.aleksandra.codes/type-inference)
+- [📝 Type system of the React compiler](https://www.recompiled.dev/blog/type-system)
 - [📝 Type Systems by Luca Cardelli, Microsoft Research](http://lucacardelli.name/papers/typesystems.pdf)
 - [📝 Type Theory Workshop](https://functionalcs.github.io/curriculum/typetheory.html)
 - [📝 Understanding types as sets](https://portal.gitnation.org/contents/understanding-types-as-sets)
