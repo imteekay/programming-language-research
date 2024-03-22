@@ -364,6 +364,10 @@
 
 - [🎥 Generating Programs from Types](https://www.youtube.com/watch?v=ZPyVcnCabIU&ab_channel=SkillsMatter)
 
+## Formal Methods
+
+- [Métodos Formais by @bugarela](https://bugarela.com/mfo)
+
 ## Parallel/Concurrent Programming
 
 - [📚 A Science of Concurrent Programs](https://lamport.azurewebsites.net/tla/science.pdf)
