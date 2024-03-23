@@ -405,6 +405,7 @@
 - [📝 Designing with types: Making illegal states unrepresentable](https://fsharpforfunandprofit.com/posts/designing-with-types-making-illegal-states-unrepresentable)
 - [📝 Investigating TypeScript compiler APIs](https://blog.scottlogic.com/2015/01/20/typescript-compiler-api.html)
 - [📝 JavaScript scope, Closures, and the TypeScript compiler](https://iamtk.co/javascript-scope-closures-and-the-typescript-compiler)
+- [📝 Making Sense of TypeScript Generics](https://kettanaito.com/blog/making-sense-of-typescript-generics)
 - [📝 Making sense of TypeScript using set theory](https://blog.thoughtspile.tech/2023/01/23/typescript-sets)
 - [📝 Modules in TypeScript](https://gist.github.com/andrewbranch/79f872a8b9f0507c9c5f2641cfb3efa6)
 - [📝 Optimizing TypeScript Memory Usage](https://swatinem.de/blog/optimizing-tsc)
