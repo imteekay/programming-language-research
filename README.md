@@ -117,6 +117,7 @@
 - [PLR & Compiler Learning Path](learning-path.md)
 - [Programming Language Theory Path](https://steshaw.org/plt)
 - [So You Want to Be a (Compiler) Wizard](https://belkadan.com/blog/2016/05/So-You-Want-To-Be-A-Compiler-Wizard)
+- [Programming languages resources](https://bernsteinbear.com/pl-resources)
 
 ## Experiments
 
