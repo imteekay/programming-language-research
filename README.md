@@ -431,6 +431,7 @@
 - [📝 TypeScript Performance Tracing](https://github.com/microsoft/TypeScript/wiki/Performance-Tracing)
 - [📝 TypeScript Performance](https://github.com/microsoft/TypeScript/wiki/Performance)
 - [📝 TypeScript's type-independent output](https://neugierig.org/software/blog/2016/04/typescript-types.html)
+- [📝 The Making of a TypeScript Feature: Inferring Type Predicates](https://effectivetypescript.com/2024/04/16/inferring-a-type-predicate)
 
 ### Ecmascript
 
