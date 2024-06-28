@@ -231,7 +231,6 @@
 - [📝 Alias analysis](https://en.wikipedia.org/wiki/Alias_analysis)
 - [📝 An Incremental Approach to Compiler Construction](http://scheme2006.cs.uchicago.edu/11-ghuloum.pdf)
 - [📝 An Introduction to Interpreters and JIT Compilation](https://stefan-marr.de/2023/09/pliss-summer-school)
-- [📝 An Introduction to Interpreters and JIT Compilation](https://stefan-marr.de/2023/09/pliss-summer-school)
 - [📝 AST (Abstract Syntax Tree)](https://medium.com/@dinis.cruz/ast-abstract-syntax-tree-538aa146c53b)
 - [📝 Bob Nystrom - Expression Parsing Made Easy](http://journal.stuffwithstuff.com/2011/03/19/pratt-parsers-expression-parsing-made-easy)
 - [📝 Building a Parser from scratch](https://www.dmitrysoshnikov.education/p/parser-from-scratch)
